@@ -12,7 +12,7 @@ METHOD:PUBLISH
 {{- $lastModified := .Lastmod.UTC }}
 BEGIN:VEVENT
 UID: {{ .Permalink | md5 }}@sighpceducation.acm.org
-STATUS: CONFIRMED
+STATUS:CONFIRMED
 SEQUENCE:0
 DTSTAMP:{{ $authorDate.Format "20060102T150405"}}
 {{ if .Params.AllDay }}DTSTART:{{ $dateTime.Format "20060102" }}
@@ -20,7 +20,7 @@ DTSTAMP:{{ $authorDate.Format "20060102T150405"}}
 DTEND:{{ $endTime.Format "20060102T150405" }}{{end}}
 SUMMARY:{{ .Title }} - {{ .Parent.Parent.Title }} - {{ .Site.Title }}
 {{- if .Params.Location }}LOCATION:{{ .Params.Location }}{{ end }}
-DESCRIPTION:{{ .Summary }}
+DESCRIPTION:{{ strings.Replace .Summary "\n" " " }}
 CLASS:PUBLIC
 URL:{{ .Permalink }}
 END:VEVENT
