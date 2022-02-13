@@ -2,10 +2,12 @@
 <div class="w-full h-14 bg-acm-blue">
     <div class="container flex items-center mx-auto h-full text-gray-50 text-lg">
         {{ $logo := resources.Get "logos/sighpc-edu-logo-white-01.svg" | resources.Minify | fingerprint }}
-        <object class="h-10 pr-6" data="{{ $logo.RelPermalink }}" type="image/svg+xml">
-            <!-- Fallback -->
-            <div class="text-2xl">SigHPC Education</div>
-        </object>
+        <a href="{{ .Site.BaseURL }}">
+            <object class="h-10 pr-6 pointer-events-none" data="{{ $logo.RelPermalink }}" type="image/svg+xml">
+                <!-- Fallback -->
+                <div class="text-2xl">SigHPC Education</div>
+            </object>
+        </a>
         <div class="align-baseline flex-grow flex justify-end">
             <!-- <span class="brand text-2xl pr-6 font-bold"><a href="/">SigHPC Education</a></span> -->
             {{ $currentPage := . }}
