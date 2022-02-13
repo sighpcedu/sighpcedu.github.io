@@ -24,7 +24,7 @@ h1 {
 }
 
 h2 {
-    @apply text-2xl text-acm-light-blue pb-2;
+    @apply text-2xl text-acm-dark-blue pb-2;
 }
 
 h3 {

@@ -1,0 +1,26 @@
+{{ define "main" }}
+<div class="container mx-auto">
+    {{ partial "breadcrumb.html" . }}
+    <h1>Events for the {{ .Parent.Title }} Committee</h1>
+    {{ .Content }}
+
+    <h2>Upcoming Events</h2>
+    
+    <ul class="pb-4">
+    {{ range sort .Pages ".Params.EventDate" "asc" }}
+        {{ if ge (time .Params.EventDate .Params.TimeZone) now }}
+            <li>{{ partial "event.html" . }}</li>
+        {{ end }}
+    {{ end }}
+    </ul>
+
+    <h2>Past Events</h2>
+    <ul class="pb-4">
+        {{ range sort .Pages ".Params.EventDate" "desc"  }}
+            {{ if lt (time .Params.EventDate .Params.TimeZone) now }}
+                <li>{{ partial "event.html" . }}</li>
+            {{ end }}
+        {{ end }}
+        </ul>
+</div>
+{{ end }}

@@ -1,0 +1,7 @@
+<div class="flex flex-col pb-4">
+    {{ $dateTime := time (print .Params.EventDate (string "T") .Params.EventTime) .Params.TimeZone }}
+    <h3 class="pb-0"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <div class="text-gray-400 text-sm italic pb-2">{{ $dateTime.Format "Monday, January 2, 2006 at 3:04 PM MST" }} </div>
+    <div> {{ .Summary }} </div>
+    <div class="text-sm text-gray-400 italic"><a href="{{ .RelPermalink }}">Read More...</a></div>
+</div>
