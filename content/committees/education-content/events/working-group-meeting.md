@@ -4,6 +4,8 @@ EventDate: 2022-02-24
 EventTime: 14:30:00
 TimeZone: US/Central
 category: event
+# Published date:
+Date: 2022-02-13T12:00:00-06:00
 ---
 
 The Educational Content Committee will host the February Working Group Meeting on Zoom. Link to be sent later. 
