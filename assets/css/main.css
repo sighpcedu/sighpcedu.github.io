@@ -1,6 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Coda:wght@400;800&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    @apply font-open-sans
+}
+
+.header-font {
+    @apply font-coda;
+}
 
 .menu-active {
     @apply text-acm-light-blue-400;
@@ -20,15 +30,15 @@
 }
 
 h1 {
-    @apply text-4xl text-acm-blue pb-2 border-b border-acm-orange mb-4;
+    @apply text-4xl text-acm-blue pb-2 border-b border-acm-green mb-4 header-font;
 }
 
 h2 {
-    @apply text-2xl text-acm-dark-blue pb-2;
+    @apply text-2xl text-acm-blue-400 pb-2 header-font;
 }
 
 h3 {
-    @apply text-lg text-acm-green pb-2;
+    @apply text-lg text-acm-green-600 pb-2 header-font;
 }
 
 p {

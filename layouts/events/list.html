@@ -9,7 +9,7 @@
     <ul class="pb-4">
     {{ range sort .Pages ".Params.EventDate" "asc" }}
         {{ if ge (time .Params.EventDate .Params.TimeZone) now }}
-            <li>{{ partial "event.html" . }}</li>
+            <li class="pb-3 border-b border-acm-green mb-5">{{ partial "event.html" . }}</li>
         {{ end }}
     {{ end }}
     </ul>
@@ -18,7 +18,7 @@
     <ul class="pb-4">
         {{ range sort .Pages ".Params.EventDate" "desc"  }}
             {{ if lt (time .Params.EventDate .Params.TimeZone) now }}
-                <li>{{ partial "event.html" . }}</li>
+                <li class="pb-6 ">{{ partial "event.html" . }}</li>
             {{ end }}
         {{ end }}
         </ul>
