@@ -2,6 +2,8 @@ baseURL = 'https://sighpcedu-demo.netlify.app/'
 languageCode = 'en-us'
 title = 'AMC SIGHPC Education Chapter'
 menu = ['main', 'footer']
+enableGitInfo = true 
+
 [markup]
   [markup.highlight]
     anchorLineNos = false
@@ -15,3 +17,10 @@ menu = ['main', 'footer']
     noClasses = true
     style = 'solarized-light'
     tabWidth = 4
+
+[[cascade]]
+outputs = ['HTML', 'RSS', 'Calendar']
+[cascade._target]
+    kind = 'section'
+    path = '/**/events/**'
+
