@@ -1,0 +1,17 @@
+<meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+{{ $styles := resources.Get "css/main.css" | resources.PostCSS }}
+{{ $js := resources.Get "js/main.js" }}
+
+{{ if .Site.IsServer }}
+  {{ $built := resources.Get "css/built.css" | resources.PostCSS }}
+  <link rel="stylesheet" href="{{ $built.RelPermalink }}"/>
+  <script lang="javascript" type="text/javascript" src="{{ $js.RelPermalink }}"></script>
+{{ else }}
+  {{ $styles := $styles | minify | fingerprint | resources.PostProcess }}
+  {{ $js := $js | minify | fingerprint | resources.PostProcess }}
+  <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}"/>
+  <script lang="javascript" type="text/javascript" src="{{ $js.RelPermalink }}"></script>
+{{ end }}

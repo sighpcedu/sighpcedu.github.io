@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.menu-active {
+    @apply text-acm-light-blue-400;
+}

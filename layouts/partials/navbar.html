@@ -1,0 +1,22 @@
+<div class="mb-6">
+<div class="w-full h-16 bg-acm-blue">
+    <div class="container flex items-center mx-auto h-full text-gray-50 text-xl">
+    <div class="align-baseline">
+        <!-- <span class="brand text-2xl pr-6 font-bold"><a href="/">SigHPC Education</a></span> -->
+        <object class="h-12">
+        {{ $logo := resources.Get "logos/sighpc-edu-logo-white-01.svg" | resources.Minify }}
+        </object>
+        <div class="max-h-full">{{ $logo.Content | htmlUnescape | safeHTML }}</div>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+            <span class="font-bold transition-colors ease-in-out delay-100 duration-300 pr-6 hover:text-acm-orange {{ if $currentPage.IsMenuCurrent "main" .}}menu-active{{ end }}">
+                <a href="{{ .URL }}">
+                    {{ .Name }}
+                </a>
+            </span>
+        {{ end }}
+    </div>
+</div>
+</div>
+<div class="w-full h-2 bg-acm-light-blue"></div>
+</div>

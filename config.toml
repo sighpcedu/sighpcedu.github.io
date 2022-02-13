@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'AMC SIGHPC Education Chapter'
+menu = ['main', 'footer']
