@@ -5,17 +5,22 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 
 {{ range .Pages }}
-{{ $dateTime := time (print .Params.EventDate (string "T") .Params.EventTime) .Params.TimeZone }}
+{{ $dateTime := (time (print .Params.EventDate (string "T") .Params.EventTime) .Params.TimeZone).UTC }}
+{{ $duration := 3600 }}
+{{ if .Params.DurationMinutes }}{{ $duration := mul .Params.DurationMinutes 60 }}{{ end }}
+{{ $endTime := add $dateTime.Unix $duration | time.AsTime }}
+{{ $authorDate := .GitInfo.AuthorDate.UTC }}
+{{ $lastModified := .Lastmod.UTC }}
 
 BEGIN:VEVENT
 UID: {{ .Permalink | md5 }}@sighpceducation.acm.org
 STATUS: CONFIRMED
 SEQUENCE:0
-DTSTAMP:{{ .GitInfo.AuthorDate }}
-CREATED:{{ .GitInfo.AuthorDate }}
-LAST-MODIFIED:{{ .Lastmod }}
-DTSTART;VALUE=DATE|TZID=: 
-SUMMARY:{{ .Title }} - {{ .Parent.Title }} - {{ .Site.Title }}
+DTSTAMP:{{ $authorDate.Format "20060102T15:04:05Z07:00"}}
+{{ if .Params.AllDay }}DTSTART:{{ $dateTime.Format "20060102" }}
+{{else}}DTSTART:{{ $dateTime.Format "20060102T15:04:05Z07:00" }}
+DTEND:{{ $endTime.Format "20060102T15:04:05Z07:00" }}{{end}}
+SUMMARY:{{ .Title }} - {{ .Parent.Parent.Title }} - {{ .Site.Title }}
 {{ if .Params.Location }}LOCATION:{{ .Params.Location }}{{ end }}
 DESCRIPTION:{{ .Summary }}
 CLASS:PUBLIC
