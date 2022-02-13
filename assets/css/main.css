@@ -5,3 +5,65 @@
 .menu-active {
     @apply text-acm-light-blue-400;
 }
+
+.breadcrumb-list {
+    @apply text-sm mb-6;
+}
+
+.breadcrumb-list > li {
+    @apply inline-block;
+}
+
+.breadcrumb-list > li + li::before {
+    content: " / ";
+    @apply text-gray-300;
+}
+
+h1 {
+    @apply text-4xl text-acm-blue pb-2 border-b border-acm-orange mb-4;
+}
+
+h2 {
+    @apply text-2xl text-acm-light-blue pb-2;
+}
+
+h3 {
+    @apply text-lg text-acm-green pb-2;
+}
+
+p {
+    @apply pb-4
+}
+
+#TableOfContents > ul > li {
+    @apply pb-2 text-gray-800 hover:text-acm-orange pl-6 -indent-6;
+}
+
+#TableOfContents ul {
+    list-style-position: outside;
+}
+
+#TableOfContents li::before {
+    content: "# ";
+    @apply pr-2  text-gray-400;
+}
+
+#content ul {
+    list-style-type: circle;
+}
+
+#content ul ul {
+    @apply pl-6;
+}
+
+#content ol {
+    list-style-type: lower-alpha;
+}
+
+div.highlight {
+    @apply pb-4;
+}
+
+.highlight > pre {
+    @apply p-4 rounded-lg;
+}

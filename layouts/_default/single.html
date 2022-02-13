@@ -1,3 +1,10 @@
 {{ define "main" }}
+{{ .IsSection}}
+{{ if gt (len .Sections) 0 }}
 {{ .Content }}
+{{ else }}
+<div class="container mx-auto">
+    {{ .Content }}
+</div>
+{{ end }}
 {{ end }}

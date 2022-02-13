@@ -2,3 +2,16 @@ baseURL = 'https://sighpcedu-demo.netlify.app/'
 languageCode = 'en-us'
 title = 'AMC SIGHPC Education Chapter'
 menu = ['main', 'footer']
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ''
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = 'solarized-light'
+    tabWidth = 4
