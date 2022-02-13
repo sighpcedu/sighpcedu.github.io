@@ -19,6 +19,9 @@ module.exports = {
         "acm-dark-blue": '#09357A'
       }
     },
+    container: {
+      padding: '2rem',
+    },
   },
   plugins: [],
 }
