@@ -1,7 +1,8 @@
 ---
 Title: Outreach Event
 EventDate: 2022-02-15
-EventTime: 9:00:00
+EventTime: 10:00:00
+DurationMinutes: 120
 TimeZone: US/Mountain
 category: event
 # Published date:

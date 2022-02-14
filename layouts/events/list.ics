@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//HUGO//gohugo.io//EN
+PRODID:-//gohugo.io//Hugo 92//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 {{- range .Pages -}}
