@@ -1,5 +1,7 @@
 ---
+
 title: SigHPC Education Chapter Officers
+
 ---
 
 ## SIGHPC Education Chapter Officers

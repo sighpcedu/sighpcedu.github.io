@@ -1,11 +1,13 @@
 ---
+
 menu: main
 title: Contact
 weight: 100
+
 ---
 
 
-## [Officer Requirements
+## [Officer Requirements]
 Chair
 
 Dirk Colbry
