@@ -1,9 +1,7 @@
 ---
-
 menu: main
 title: About
 weight: 10
-
 ---
 
 The SIGHPC Education chapter has as its purpose the promotion of interest in and knowledge of applications of High Performance Computing (HPC) and computational science. Join us in our efforts to promote computational science and HPC training and education by:
