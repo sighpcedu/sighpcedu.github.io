@@ -1,4 +1,4 @@
-baseURL = 'https://sighpcedu-demo.netlifyy.app/'
+baseURL = 'https://sighpcedu-demo.netlify.app/test'
 languageCode = 'en-us'
 title = 'AMC SIGHPC Education Chapter'
 menu = ['main', 'footer']
