@@ -3,3 +3,7 @@ node_modules
 resources
 assets/css/built.css
 public
+.ipynb_checkpoints
+envs
+hugo*
+
