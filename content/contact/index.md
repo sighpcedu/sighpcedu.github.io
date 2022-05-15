@@ -9,45 +9,50 @@ weight: 100
 
 ### Chair  
 
-Dirk Colbry  
-Director of HPC Studies  
-Department of Computational Mathematics, Science and Engineering  
-Michigan State University  
-colbrydi(at)msu.edu  
-
-### Vice Chair  
-
-Scott Callaghan  
+**_Scott Callaghan_**  
 Southern California Earthquake Center  
 scottcal[at]usc.edu  
 
+### Vice Chair
+
+**_Richard Gass_**  
+University of Cincinnati  
+gassrg[at]ucmail.uc.edu  
+
 ### Secretary Treasurer  
 
-Katherine Cahill  
+**_Katherine Cahill_**  
 Education and Training Specialist  
 Ohio Supercomputer Center  
 kcahill[at]osc.edu  
 
 ### At Large Board Members  
 
-Nitin Sukhija  
-Director of Center of Cybersecurity and Advanced Computing  
-Slippery Rock University  
-nitin.sukhija(at)sru.edu  
+**_Luis A. Cuero Parra_**  
+Assistant Professor  
+Department of Computer Science and Information Systems  
+University of North Georgia  
+luis.cuevaparra[at]ung.edu
 
-David Joiner  
+**_David Joiner_**  
 Associate Professor  
 Kean University  
 djoiner@keen.edu  
 
+**_Georgia Stuart_**  
+Cyberinfrastructure & Research Support  
+Office of Information Technology  
+The University of Texas at Dallas  
+georgia.stuart[at]utdallas.edu  
+
 ### European and Asia/Pacific At Large Board Members
 
-Martin Callaghan  
+**_Martin Callaghan_**  
 Research Computing Consultant  
 University of Leeds  
 callaghanmt(at)gmail.com  
 
-Ann Backhaus  
+**_Ann Backhaus_**  
 Education and Training Manager  
 Pawsey Supercomputing Centre  
 ann.backhaus(at)pawsey.org.au  
