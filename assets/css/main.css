@@ -16,6 +16,10 @@ body {
     @apply text-acm-light-blue-400;
 }
 
+.menu-inactive {
+    @apply text-white;
+}
+
 .breadcrumb-list {
     @apply text-sm mb-6;
 }
@@ -30,15 +34,15 @@ body {
 }
 
 h1 {
-    @apply text-4xl text-acm-blue pb-2 border-b border-acm-green mb-4 header-font;
+    @apply text-4xl text-acm-blue py-2 border-b border-acm-green mb-4 header-font;
 }
 
 h2 {
-    @apply text-2xl text-acm-blue-400 pb-2 header-font;
+    @apply text-2xl text-acm-blue-400 py-2 header-font;
 }
 
 h3 {
-    @apply text-lg text-acm-green-600 pb-2 header-font;
+    @apply text-lg text-acm-green-600 py-2 header-font;
 }
 
 p {
@@ -76,4 +80,24 @@ div.highlight {
 
 .highlight > pre {
     @apply p-4 rounded-lg;
+}
+
+a {
+    @apply text-acm-blue-500;
+}
+
+a:hover {
+    @apply text-acm-orange;
+}
+
+ol {
+    @apply list-decimal;
+}
+
+ul {
+    @apply list-disc;
+}
+
+ul li::marker {
+    @apply text-acm-orange;
 }
