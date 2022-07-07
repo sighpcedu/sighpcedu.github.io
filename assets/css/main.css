@@ -34,15 +34,15 @@ body {
 }
 
 h1 {
-    @apply text-4xl text-acm-blue pb-2 border-b border-acm-green mb-4 header-font;
+    @apply text-4xl text-acm-blue py-2 border-b border-acm-green mb-4 header-font;
 }
 
 h2 {
-    @apply text-2xl text-acm-blue-400 pb-2 header-font;
+    @apply text-2xl text-acm-blue-400 py-2 header-font;
 }
 
 h3 {
-    @apply text-lg text-acm-green-600 pb-2 header-font;
+    @apply text-lg text-acm-green-600 py-2 header-font;
 }
 
 p {
