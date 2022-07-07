@@ -89,3 +89,15 @@ a {
 a:hover {
     @apply text-acm-orange;
 }
+
+ol {
+    @apply list-decimal;
+}
+
+ul {
+    @apply list-disc;
+}
+
+ul li::marker {
+    @apply text-acm-orange;
+}
