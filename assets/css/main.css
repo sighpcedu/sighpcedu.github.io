@@ -16,6 +16,10 @@ body {
     @apply text-acm-light-blue-400;
 }
 
+.menu-inactive {
+    @apply text-white;
+}
+
 .breadcrumb-list {
     @apply text-sm mb-6;
 }
@@ -76,4 +80,12 @@ div.highlight {
 
 .highlight > pre {
     @apply p-4 rounded-lg;
+}
+
+a {
+    @apply text-acm-blue-500;
+}
+
+a:hover {
+    @apply text-acm-orange;
 }

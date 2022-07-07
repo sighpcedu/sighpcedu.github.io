@@ -12,8 +12,8 @@
             <!-- <span class="brand text-2xl pr-6 font-bold"><a href="/">SigHPC Education</a></span> -->
             {{ $currentPage := . }}
             {{ range .Site.Menus.main }}
-                <div class='font-coda transition-colors ease-in-out delay-50 duration-150 pr-6 hover:text-acm-orange {{ if $currentPage.IsMenuCurrent "main" .}}menu-active{{ end }}'>
-                    <a href="{{ .URL }}">
+                <div class=''>
+                    <a href="{{ .URL }}" class="font-coda transition-colors ease-in-out delay-50 duration-150 pr-6 hover:text-acm-orange {{ if $currentPage.IsMenuCurrent "main" .}}menu-active{{ else }}menu-inactive{{ end }}">
                         {{ .Name }}
                     </a>
                 </div>
