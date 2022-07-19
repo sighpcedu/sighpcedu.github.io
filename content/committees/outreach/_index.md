@@ -1,3 +1,6 @@
+---
+title: Outreach
+---
 # Outreach Committee
 
 ## Committee Description
