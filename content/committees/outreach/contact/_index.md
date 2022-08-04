@@ -8,4 +8,4 @@ We welcome participation in committee activities in several ways.  You can choos
 
 [Committee chair](mailto:sgordon20@gmeil.com)
 
-[Volunteer opportunities](../../activity/index)
+[Volunteer opportunities](../activity/)
