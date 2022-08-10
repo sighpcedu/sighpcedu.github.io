@@ -15,7 +15,7 @@ title: Events
 
 * Tuesday, January 11, 2022 10 AM ET
 * [YouTube Video](https://youtu.be/W2gXpLv7PHM)
-* [Meeting Presentation](Chapter_meeting.pdf)
+* [Meeting Presentation](20220111-Chapter_meeting.pdf)
 
 ## Webinars
 
