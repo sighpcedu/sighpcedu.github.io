@@ -30,6 +30,6 @@ title: 2022 Events
 * Thursday, January 27, 2022 11 AM ET
 * [YouTube Video](https://www.youtube.com/watch?v=UrfiBa2EqPA)
 
-# [2021 Events](2021events/)
+# [2021 Events](previousevents/)
 
 # [Other Previous Events](EventsArchive/)
