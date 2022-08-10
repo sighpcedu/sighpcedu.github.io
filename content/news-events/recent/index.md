@@ -1,5 +1,5 @@
 ---
-title: Events
+title: 2022 Events
 ---
 # 2022 Events
 
