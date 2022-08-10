@@ -9,7 +9,7 @@ title: 2022 Events
 
 ## Ninth SC Workshop on Best Practices for HPC Training and Education (BPHTE22) @ SC22
 
-* [BHPTE22 Call for Papers](BPHTE22CFP.html)
+* [BHPTE22 Call for Papers](BPHTE22.md)
 
 ## SIGHPC Education Chapter Annual Meeting
 
