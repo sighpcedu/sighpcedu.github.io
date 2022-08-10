@@ -5,7 +5,7 @@ title: 2022 Events
 
 ## Fifth Workshop on Strategies for Enhancing HPC Education and Training (SEHET22)@ PEARC22
 
-* [SEHET Technical Program](SEHET22_Technical_Program.html)
+* [SEHET Technical Program](SEHET22.md)
 
 ## Ninth SC Workshop on Best Practices for HPC Training and Education (BPHTE22) @ SC22
 
