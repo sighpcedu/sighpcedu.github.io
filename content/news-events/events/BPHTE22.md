@@ -1,6 +1,11 @@
 ---
-title: BPHTE22 Call for Papers
-date: 11-13-22
+Title: BPHTE22 Call for Papers
+EventDate: 2022-11-13
+EventTime: 9:00:00
+TimeZone: US/Mountain
+category: event
+# Published date:
+Date: 2022-02-13T12:00:00-06:00
 ---
 
 # BPHTE22 CFP
