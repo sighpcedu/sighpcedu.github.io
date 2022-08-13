@@ -1,7 +1,7 @@
 ---
 menu: main
-Title: Events
+Title: News & Events
+weight: 30
 type: events
 ---
 
-Events placeholder
