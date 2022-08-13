@@ -1,5 +1,13 @@
 ---
-title: SEHET22
+Title: SEHET22
+EventDate: 2022-07-11
+EventTime: 8:30:00
+TimeZone: America/Detroit
+category: event
+# Published date:
+Date: 2022-02-13T12:00:00-06:00
+---
+---
 ---
 
 [Fifth Workshop on Strategies for Enhancing HPC Education and Training (SEHET22)](https://web.cvent.com/event/7b4eff30-d151-4cf4-91f0-b68c4a6c88c9/websitePage:645d57e4-75eb-4769-b2c0-f201a0bfc6ce)
