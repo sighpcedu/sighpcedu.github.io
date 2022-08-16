@@ -1,5 +1,5 @@
 ---
-Title: Webinar: Doing more with Google CoLab: CUDA Programming and beyond
+Title: Webinar - Doing more with Google CoLab: CUDA Programming and beyond
 EventDate: 2022-03-17
 EventTime: 11:00:00
 TimeZone: America/Detroit
