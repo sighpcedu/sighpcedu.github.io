@@ -5,7 +5,7 @@ EventTime: 11:00:00
 TimeZone: America/Detroit
 category: event
 # Published date:
-Date: 2022-02-16T12:00:00-06:00
+Date: 2022-08-16T12:00:00-06:00
 ---
 ---
 ---
