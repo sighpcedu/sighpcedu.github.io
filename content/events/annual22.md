@@ -12,6 +12,8 @@ Date: 2022-02-13T12:00:00-06:00
 
 ## SIGHPC Education Chapter Annual Meeting
 
+### Updates on chapter activities and goals for the coming year
+
 * Tuesday, January 11, 2022 10 AM ET
 * [YouTube Video](https://youtu.be/W2gXpLv7PHM)
-* [Meeting Presentation](/20220111-Chapter_meeting.pdf)
+* [Meeting Presentation](./20220111-Chapter_meeting.pdf)
