@@ -9,6 +9,7 @@ Date: 2022-08-16T12:00:00-06:00
 ---
 ---
 ---
+
 # Webinar: Doing more with Google CoLab: CUDA Programming and beyond
 
 
