@@ -1,5 +1,6 @@
 ---
 title: About
+menu: main
 weight: 10
 ---
 # Announcements
