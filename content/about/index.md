@@ -2,8 +2,14 @@
 title: About
 weight: 10
 ---
+# Announcements
 
-The SIGHPC Education chapter has as its purpose the promotion of interest in and knowledge of applications of High Performance Computing (HPC) and computational science. Join us in our efforts to promote computational science and HPC training and education by:
+## 	  Annoucement of the Award for Outstanding Contributions to Computational Science Education
+
+The SIGHPC Education Chapter is pleased to announce the first recipient of the award for Outstanding Contributions to Computational Science Education.  Dr. Robert Panoff has been named the first award recipient.  You can see details about Dr. Panoff and the award [here.](events/award_announce)
+
+## About the Chapter
+	  The SIGHPC Education chapter has as its purpose the promotion of interest in and knowledge of applications of High Performance Computing (HPC) and computational science. Join us in our efforts to promote computational science and HPC training and education by:
 
 - Participating in our webinars and workshops, highlighted on our events pages
 - Volunteer to work with one of our standing committees to provide leadership and coordination of events, training and education activities and resources for the community
@@ -26,4 +32,3 @@ To encourage worldwide membership, SIGHPC Education is a virtual chapter and wil
 * [Facebook](https://www.facebook.com/sighpcedu/)
 * [Twitter](https://twitter.com/sighpcedu)
 * [YouTube](https://www.youtube.com/channel/UCHrmHj6nFfkhlxPv18LpBzw?view_as=subscriber)
-* [Web Calendar](https://sighpceducation.hosting.acm.org/webcal)
