@@ -13,6 +13,7 @@ The outreach committee is responsible for arranging and promoting a variety of c
 * Maintain communication channels through announcements of chapter events and activities
 * Solicit participation in webinars, blog additions, and other communication channels
 
+
 [Join the Committee](contact/)
 
 [Volunteer Opportunities](activity/)
