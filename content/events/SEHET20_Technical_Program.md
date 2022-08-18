@@ -1,5 +1,11 @@
 ---
 title: SEHET20 Technical Program
+EventDate: 2020-07027
+EventTime: 13:00:00
+TimeZone: US/Pacific
+category: event
+# Published date:
+Date: 2022-02-13T12:00:00-06:00
 ---
 
 [Third Workshop on Strategies for Enhancing HPC Education and Training (SEHET20)](https://sched.co/cnTP)
