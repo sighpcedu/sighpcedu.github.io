@@ -1,0 +1,39 @@
+15:06:06	 From  Victor Eijkhout : Link to that 6 month study?
+15:16:23	 From  Dena Strong : https://mediaspace.illinois.edu/media/1_64u6go4m is our Zoom assessment
+15:16:49	 From  Dena Strong : https://mediaspace.illinois.edu/media/1_c3w5ljhm is Microsoft Teams
+15:23:15	 From  Jon Gunderson : Are there any region landmarks for each message?
+15:24:17	 From  Jon Gunderson : Could you give us a list of the regions?
+15:24:42	 From  Jon Gunderson : NVDA+F7
+15:24:58	 From  Jon Gunderson : Go to landmarks
+15:25:38	 From  Jon Gunderson : Doesn't look like they are using them very well
+15:25:41	 From  Jon Gunderson : Thanks for looking
+15:35:50	 From  Scott Lathrop : The SC COnference is using Cadmium this year - any experience with it?
+15:36:11	 From  Tim Newcomb : Is there any difference in the interface in zoom between webinars or meetings ?
+15:36:38	 From  Tim Newcomb : For accessibility I mean
+15:36:58	 From  Patricia F Anderson : https://www.cadmiumcd.com/cadmiumcd/new/
+15:38:35	 From  Tim Newcomb : Any information on AirMeet (from India) or HopIn?
+15:39:38	 From  Tim Newcomb : Is there a published list of reviews on platforms somewhere ?
+15:39:50	 From  Dena Strong : https://it.wisc.edu/learn/guides/accessible-content-tech/ - bottom right corner, Accessible Virtual Events, has some platform reviews
+15:40:02	 From  Jodi Goldberg : Used Hopin.to at HighEdWeb conference
+15:40:02	 From  Tim Newcomb : thanks
+15:40:38	 From  Aaron Weeden : are there any open source or hackable remote collaboration platforms that would allow community developers to overcome some of the accessibility shortcomings of the major platforms?
+15:41:01	 From  Jodi Goldberg : they don’t have a shareable VPAT - but said that they are working on making their platform more compliant
+15:41:44	 From  Patricia F Anderson : That’s changing. Discord can be very useful
+15:42:16	 From  Scott Lathrop : How did you manage to get Zoom to listen to you and respond so quickly?
+15:43:06	 From  Patricia F Anderson : Bryan Alexander uses ShinDig https://www.shindig.com/ (which I hate for accessibility, but it’s another tool to know about)
+15:43:58	 From  Aaron Weeden : do you have a favorite piece of non-webconferencing software that does accessibility really well?
+15:46:08	 From  Patricia F Anderson : It’s awful
+15:46:37	 From  Patricia F Anderson : Very glitzy and graphic, bubbles floating around
+15:46:39	 From  Nicholas Hoyt : Where in the list do you place Skype for Business?
+15:47:57	 From  Scott Lathrop : Seems like Microsoft paid attention to the recommendations from the Wisconsin team for many years
+15:53:22	 From  Patricia F Anderson : I’m  hoping the recording will be available later, since I ended up sitting in the waiting room a long time? I’d like to see the actual presentation part. Thank you!
+15:53:54	 From  Patricia F Anderson : We worked with BlueJeans for a very long time around accessibility issues. (UMich)
+15:54:06	 From  Patricia F Anderson : We have not found them responsive
+15:54:20	 From  Scott Lathrop : Thank you Dena and Keith for a very informative session
+15:54:33	 From  Dena Strong : Here's that YouTube link: https://www.youtube.com/watch?v=Vx1vSd5uYS8 
+15:54:42	 From  Patricia F Anderson : Thank you, Dena
+15:55:23	 From  Dena Strong : And here's the slide deck: https://docs.google.com/presentation/d/1nXVBoyREHNiltqD9TIK4wLu3NI24ME-IWxF33l58c5A/edit?usp=sharing
+15:55:25	 From  Patricia F Anderson : Yay! Thank you!
+15:55:32	 From  Victor Eijkhout : Quite enlightening. Thanks!
+15:55:36	 From  Jodi Goldberg : Thank you!
+15:55:57	 From  Lori Frost, Big Ten Academic Alliance : Thank you!  
