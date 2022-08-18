@@ -1,6 +1,6 @@
 ---
 Title: Webinar - Incorporating High Performance Computing in a Physics Curriculum
-EventDate: 2020-9-15
+EventDate: 2020-09-15
 EventTime: 10:00:00
 TimeZone: America/Detroit
 category: event
