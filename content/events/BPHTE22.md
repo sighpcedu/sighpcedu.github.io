@@ -18,7 +18,7 @@ Ninth SC Workshop on Best Practices for HPC Training and Education (BPHTE22)
 
   
 
-November 13-18, 2022
+**_November 13-18, 2022_**
 
   
 
