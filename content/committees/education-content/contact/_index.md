@@ -18,4 +18,4 @@ Associate Professor
 Kean University
 djoiner@keen.edu
 
-## Volunteer Opportunities
+[Volunteer opportunities](../activity/)
