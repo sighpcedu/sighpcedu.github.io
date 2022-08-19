@@ -10,11 +10,10 @@ Date: 2022-08-19T12:00:00-06:00
 ---
 ---
 
-ACM SIGHPC Education Chapter
-============================
 
-Educational Award For Outstanding Contribution to Computational Science Education
-=================================================================================
+# ACM SIGHPC Education Chapter
+
+## Educational Award For Outstanding Contribution to Computational Science Education
 
 The ACM SIGHPC Education Chapter is pleased to announce the first recipient of the Educational Award for Outstanding Contribution to Computational Science Education **Dr. Robert M. Panoff**.
 
