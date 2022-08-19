@@ -1,5 +1,5 @@
 ---
-Title: Webinar - ntegrating Computational Science into the Chemistry Curriculum
+Title: Webinar - Integrating Computational Science into the Chemistry Curriculum
 EventDate: 2020-03-06
 EventTime: 13:00:00
 TimeZone: America/Detroit
