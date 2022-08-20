@@ -1,5 +1,5 @@
 ---
-title: SigHPCEdu Website
+Title: SigHPCEdu Website
 weight: 10
 ---
 
