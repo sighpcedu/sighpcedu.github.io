@@ -11,7 +11,7 @@ The SIGHPC Education Chapter is pleased to announce the first recipient of the a
 
 ## About the Chapter
 
-[About the Chapter]({{< ref "/about/about.md" >}})
+[About the Chapter](/about/about.md")
 
 ## Become a Member
 
