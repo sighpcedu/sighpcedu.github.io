@@ -18,7 +18,7 @@ The ACM SIGHPC Education Chapter is pleased to announce the first recipient of t
 Dr. Robert Panoff is noted for his work assisting faculty with the integration of computational science into the undergraduate curriculum. Dr. Panoff also collected and distributed curricular materials as exemplars for adoption in the curriculum. He is widely recognized for the development of Interactivate, a set of modeling tools to assist in the teaching of pre-college science and math.
 
   
-![Robert Panoff](../events/files/panoff.jpg "Robert Panoff")
+![Robert Panoff](../events/files/panoff.jpg)
 
   
 He received many National Science Foundation grants that have focused on workshops for faculty, K-12 teachers and students. The workshops have led to widespread adoption of computational thinking and computational science into the curriculum. His other computational science education projects include Computational Science Education Reference Desk, the HPC University portal, the National Computational Science Institute, SC conference workshops, DEAF Stem, Braille through Remote Learning, SUCCEED curriculum, the Blue Waters Internship Program, and the XSEDE Empower Program. Links to these projects and the modeling tools can be found at [http://www.shodor.org.](http://www.shodor.org)
