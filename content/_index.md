@@ -15,7 +15,7 @@ The SIGHPC Education Chapter is pleased to announce the first recipient of the a
 
 ## Become a Member
 
-Membership is open in anyone interested in computational science and HPC education.  You can join by filling out this [form]({{< ref "/about/membership.md" >}})
+Membership is open in anyone interested in computational science and HPC education.  You can join by filling out this [form](/about/membership.md")
 
 ## Read Our Blog
 
