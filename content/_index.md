@@ -7,15 +7,15 @@ weight: 10
 
 ## Announcement of the Award for Outstanding Contributions to Computational Science Education
 
-The SIGHPC Education Chapter is pleased to announce the first recipient of the award for Outstanding Contributions to Computational Science Education.  Dr. Robert Panoff has been named the first award recipient.  You can see details about Dr. Panoff and the award [here]({{< ref "/events/award_announce.md" >}}).
+The SIGHPC Education Chapter is pleased to announce the first recipient of the award for Outstanding Contributions to Computational Science Education.  Dr. Robert Panoff has been named the first award recipient.  You can see details about Dr. Panoff and the award [here]({{< ref . "/events/award_announce.md" >}}).
 
 ## About the Chapter
 
-[About the Chapter]({{< ref "/about/about.md" >}})
+[About the Chapter]({{< ref . "/about/about.md" >}})
 
 ## Become a Member
 
-Membership is open in anyone interested in computational science and HPC education.  You can join by filling out this [form]({{< ref "/about/membership.md" >}})
+Membership is open in anyone interested in computational science and HPC education.  You can join by filling out this [form]({{< ref . "/about/membership.md" >}})
 
 ## Read Our Blog
 
