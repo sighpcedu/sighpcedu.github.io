@@ -28,6 +28,12 @@ The Systems Professionals Committee of the SIGHPC Education Chapter has assemble
 
 [Systems Professionals Resources](./systems)
 
+# Pre-College or K-12 Resources
+
+The K-12 committee has initatiated a repository of pre-university materials.  There are also links to other materials suitable for pre-university use in the computational science resource list above.
+
+[SIGHPC Education K-12 Repository](https://github.com/SIGHPC-Education-Chapter)
+
 
 
 
