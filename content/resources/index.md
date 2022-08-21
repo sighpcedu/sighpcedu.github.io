@@ -1,6 +1,6 @@
 ---
-menu: main
 title: Education & Training
+menu: main
 weight: 20
 ---
 
@@ -13,12 +13,21 @@ The materials include, but are not limited to, courses, tutorials, reference gui
 
 We have assembled a list of resources that include links to those just getting started with HPC to intermedicate and advanced users.
 
-[HPC Resource links](./hpcresources/)
+[HPC Resource links](./hpcresources)
 
 ## Computational Science Resources
 
 In addition to the HPC Resources, we have gathered 
 general Computational Science Resources. The Computational Science resources have been sorted into two broad groups, one for general resources and one for resources that are domain specific, as noted in the file linked below.
 
-[Computational Science Resource Links](./compsciresources/)
+[Computational Science Resource Links](./compsciresources)
+
+## Systems Professionals Resources
+
+The Systems Professionals Committee of the SIGHPC Education Chapter has assembled a list of training resources for systems professionals.
+
+[Systems Professionals Resources](./systems)
+
+
+
 
