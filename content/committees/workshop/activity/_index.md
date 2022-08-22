@@ -1,5 +1,8 @@
----
+----
 Title: Activity
 ---
 
-Activity placeholder
+# Volunteer Opportunities
+
+1. Serve as a reviewer for upcoming workshops
+2. Participate in workshop planning
