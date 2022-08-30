@@ -1,4 +1,4 @@
---
+---
 Title: Second Workshop on Strategies for Enhancing HPC Education and Training Curriculum - SEHET19
 EventDate: 2019-07-28
 EventTime: 11:00:00
