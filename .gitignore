@@ -1,6 +1,7 @@
 node_modules
 .hugo_build.lock
 resources
+!content/resources
 assets/css/built.css
 public
 .ipynb_checkpoints
