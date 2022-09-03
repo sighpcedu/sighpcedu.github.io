@@ -1,3 +1,13 @@
+---
+Title: Sixth SC Workshop on Best Practices for HPC Training and Education - BPHTE19
+EventDate: 2019-11-17
+EventTime: 9:00:00
+TimeZone: America/Detroit
+category: event
+# Published date:
+Date: 2022-08-19T12:00:00-06:00
+---
+
 ## Sixth SC Workshop on Best Practices for HPC Training and Education - BPHTE19
 
   
