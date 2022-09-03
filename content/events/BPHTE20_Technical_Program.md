@@ -7,16 +7,11 @@ category: event
 # Published date:
 Date: 2022-08-18T11:00:00-06:00
 ---
----
----
----
 
 
-[Seventh SC Workshop on  
+### [Seventh SC Workshop on  
 Best Practices for HPC Training and Education (BPHTE20)](https://sc20.supercomputing.org/presentation/?id=wksp124&sess=sess200)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 
 
 Wednesday November 11, 2020  
 Time: 10 AM - 6:30 PM (EST)

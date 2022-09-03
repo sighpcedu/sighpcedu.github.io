@@ -4,7 +4,7 @@
   "description": "The Website for the ACM SigHPC Education Chapter",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "css": "npx tailwindcss -i assets/css/main.css -o assets/css/built.css"
   },
   "author": "Georgia Stuart",
   "license": "CC-BY-SA-2.5",

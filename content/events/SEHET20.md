@@ -7,9 +7,6 @@ category: event
 # Published date:
 Date: 2022-08-18T12:00:00-06:00
 ---
----
----
-
 
 
 # Third Workshop on Strategies for Enhancing HPC Education and Training (SEHET20) at PEARC20
