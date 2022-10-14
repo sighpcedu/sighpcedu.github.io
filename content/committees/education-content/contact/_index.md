@@ -11,7 +11,7 @@ We welcome your participation in the education-content committee.  You can join 
 Katharine Cahill
 Education and Training Specialist
 Ohio Supercomputer Center
-kcahill[at]osc.edu
+kcahill@osc.edu
 
 David Joiner
 Associate Professor
