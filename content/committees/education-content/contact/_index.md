@@ -9,8 +9,11 @@ We welcome your participation in the education-content committee.  You can join 
 ## Committee Chairs
 
 Katharine Cahill
+
 Education and Training Specialist
+
 Ohio Supercomputer Center
+
 kcahill[at]osc.edu
 
 David Joiner
