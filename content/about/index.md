@@ -23,7 +23,7 @@ The SIGHPC Education chapter has as its purpose the promotion of interest in and
 
 To encourage worldwide membership, SIGHPC Education is a virtual chapter and will offer various ways for members to participate in learning activities over the Internet.
 
-### [Chapter By-Laws](bylaws)
+### [Chapter By-Laws](bylaws.md)
 
 ### Join us on social media:
 
