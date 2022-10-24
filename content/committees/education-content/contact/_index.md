@@ -14,8 +14,8 @@ Ohio Supercomputer Center
 kcahill@osc.edu
 
 David Joiner
-Associate Professor
+Professor
 Kean University
-djoiner@keen.edu
+djoiner@kean.edu
 
 [Volunteer opportunities](../activity/)
