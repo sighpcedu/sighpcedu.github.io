@@ -19,3 +19,9 @@ The committee will explore education programs and instructional materials for co
 * Seek contributors to share information about their programs and plans via the SIGHPC learning repository.
 * Actively seek people to talk about the challenges and opportunities for developing programs via conference calls and webinars.
 * Propose workshops for upcoming conferences (world-wide) with working sessions to achieve some of the above goals
+
+## Current Projects
+
+* Sponsoring webinars on teaching computational science in various disciplines
+* Promoting sharing of educational resources
+* Provide people with access to the latest information on computational science programs, student internships and various events (e.g. summer schools, hackathon events) that are in place, as a source of information.
