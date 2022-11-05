@@ -52,8 +52,7 @@ Topics of interest include, but are not limited to, the following:
 *   Innovative pedagogical methods for non-traditional HPC disciplines and non-HPC disciplines
 *   Online Tools for HPC Training and Education
 
-**Submission Guidelines  
-**
+## Submission Guidelines  
 
 The Workshop on Best Practices for HPC Training and Education (BPHTE22) follows a three-part submission process, with abstracts due by August 12, 2022, notification of acceptance by August 31, 2022, full papers due by September 9, 2022 and presentations by September 16, 2022 (There will be no extensions). Abstracts, papers and presentations must be submitted via the [BPHTE22 online submissions system.](https://submissions.supercomputing.org/?page=Submit&id=SC22WorkshopBestPracticesforHPCTrainingandEducationAbstract&site=sc22)
 
@@ -68,54 +67,48 @@ _The workshop papers, extended lightning talks and demo abstracts will be publis
 *   reproducibility of the processes and resources
 *   relevance to the broad range of training or education topics associated with the workshop
 
-**Abstract Submission (due August 12 , 2022)**  
+### Abstract Submission (due August 12 , 2022)
 
 The first stage of a three-stage submission process for the workshop. The first step is to submit an abstract (max 250 words) for your paper, lightning talk or demonstration submission. Upon submission of this abstract, a link will appear on your "My Submissions" page for you to upload your additional extended abstract (max 2 pages). Incomplete submissions (i.e., ones that do not include a file upload) will not be reviewed. Please view sample submission [here.](https://submissions.supercomputing.org/?page=SampleForm&id=SC20WorkshopBestPracticesforHPCTrainingandEducationAbstract&site=sc20)
 
-**Final Paper Submission (due September 9, 2022)**  
+### Final Paper Submission (due September 9, 2022)
 
 Upon acceptance of your abstract, the second stage of the two-stage submission process is to submit a full paper, updated abstract or demo files depending on your submission type, to the online submission system. Please view sample submission [here.](https://submissions.supercomputing.org/?page=SampleForm&id=SC22WorkshopBestPracticesforHPCTrainingandEducationFinalSubmission&site=sc22)
 
-**Final Presentation Submission (due September 16, 2022)**  
+### Final Presentation Submission (due September 16, 2022)
 
 Upon submission of your final paper, the third stage of the three-stage submission process is to submit a presentation depending on your submission type, to the online submission system. The authors will be provided a basic template to formulate the final presentations.
 
-**Selection Criteria  
-**
+**Selection Criteria**
 
 The submitted papers will be assessed based on their novelty, technical quality, potential impact, insightfulness, depth, clarity, and reproducibility. All the submissions will be required to follow the [reproducibility template](https://sc18.supercomputing.org/app/uploads/2017/12/template_workshops_repro.zip) while preparing their manuscripts. The authors will be required to describe the algorithms and resources used in their paper as completely as possible to allow reproducibility. This includes experimental methodology, empirical evaluations, and results. The reproducibility factor will play an important role in the assessment of each submission. Moreover, authors will be strongly encouraged to make their code and data publicly available whenever possible.
 
-**Paper Format  
-**
+**Paper Format**
 
 The submitted paper must follow the Journal of Computational Science Education templates to generate your PDF: [MS Word](http://shodor.org/media/content//jocse/content/JOCSE_Word_Template.zip) and [LaTex](http://shodor.org/media/content//jocse/content/JOCSE_LaTeX_Template.zip). Papers that do not comply with ACM format and maximum 8 page length limit will be returned.
 
-**Review Process  
-**
+**Review Process**
 
 Submissions will be peer-reviewed by at least 3 individuals. After the preliminary notification date, authors may rebut reviewer inquiries and their comments. Based on the rebuttal feedback, the Program Committee will notify authors of the final decision.
 
-**Submission types  
-**
+**Submission types**
 
 All submissions must indicate the topic of interest listed above and the contribution types (full papers, lightning talks and demos). Please view sample submission [Journal of Computational Science Education](https://submissions.supercomputing.org/?page=SampleForm&id=SC22WorkshopBestPracticesforHPCTrainingandEducationAbstract&site=sc22>here</a></p>
 
-<i>The workshop papers, extended lightning talks and demo abstracts will be published in a special issue of <a href=)  
+_The workshop papers, extended lightning talks and demo abstracts will be published in a special issue of [Journal of Computational Science Education](http://jocse.org/)_
   
-**Dual submission  
-**
+**Dual submission**
 
 Submission material cannot overlap substantially with any paper previously accepted for publication or under review by any conference or journal during the SC review process.
 
 _Paper submission is available online via: submissions link on the [Workshop website.](https://submissions.supercomputing.org/?page=Submit&id=SC22WorkshopBestPracticesforHPCTrainingandEducationAbstract&site=sc22)_
 
-**Important Dates:  
+**Important Dates:**  
 Submissions Open: May 18, 2022  
 Abstract Submission Deadline: August 12, 2022  
 Notification of acceptance: August 31, 2022  
 Final paper submissions: September 9, 2022  
 Final Presentation Due: September 16, 2022  
-**  
   
 **Workshop Chairs:**
 
@@ -154,8 +147,7 @@ Final Presentation Due: September 16, 2022
 *   Juan Chen, National University of Defense Technology, China
 *   TBD
 
-**About SIG HPC Education:  
-**
+**About SIG HPC Education:**
 
 The SIGHPC Education chapter has as its purpose the promotion of interest in and knowledge of applications of High Performance Computing (HPC).
 
