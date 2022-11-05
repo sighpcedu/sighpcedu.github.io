@@ -2,7 +2,7 @@
 title: Education Content
 ---
 
-# Education Content Committee
+# Computational Science Education Committee
 
 ## Committee Description
 
