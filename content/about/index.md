@@ -13,21 +13,22 @@ The SIGHPC Education chapter has as its purpose the promotion of interest in and
 - Use our pointers to training and education materials to find resources that help to update your skills and knowledge
 - Learn from and contribute to our blog on computational science education and training  
 
-### Our goals
+## Our goals
 
 * Promote an increased knowledge of, and greater interest in, the educational and scientific aspects of HPC and their applications.
 * Provide a means of communication among individuals having an interest in education and career building activities relating to HPC and computational science.
 * Promote and collate education activities and programs through formal and informal education and training activities.
 * Provide guidance to the community on the competencies required for effective application of computational modeling, simulation, data analysis, and visualization techniques.
-* Provide information on quality educational programs and materials as will as facilitating experience building access to existing HPC resources.
+* Provide information on quality educational programs and materials as will as facilitating experience building access to existing HPC resources.  
 
 To encourage worldwide membership, SIGHPC Education is a virtual chapter and will offer various ways for members to participate in learning activities over the Internet.
 
-### [Chapter By-Laws]({{< relref "bylaws" >}})
+## Important Links
 
-### [Join the Chapter](../membership)
+* [Chapter By-Laws]({{< relref "bylaws" >}})
+* [Join the Chapter]({{< relref "membership" >}})
 
-### Join us on social media:
+### Join us on social media
 
 * [LinkedIn](https://www.linkedin.com/groups/12019017)
 * [Facebook](https://www.facebook.com/sighpcedu/)

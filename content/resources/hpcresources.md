@@ -1,6 +1,7 @@
 ---
 title: HPC Resource Links
 ---
+
 # HPC Resource Links
 
 ## Getting Started
@@ -21,7 +22,7 @@ title: HPC Resource Links
 | [Software Carpentry - Basic Skills for Research Computing](https://software-carpentry.org/lessons/) | Web Training                           |
 | [Data Carpentry](https://datacarpentry.org/lessons/)                                                | Web Training                           |
 | [HPC Carpentry](https://hpc-carpentry.github.io)                                                    | Web Training                           |
-| [MIT LLSC-Supercloud Teaching Examples}(https://github.com/llsc-supercloud/teaching-examples)       | Hands-on Examples in Jupyter Notebooks |
+| [MIT LLSC-Supercloud Teaching Examples](https://github.com/llsc-supercloud/teaching-examples)       | Hands-on Examples in Jupyter Notebooks |
 | [HPC Univeristy Training Resources](http://hpcuniveristy.org/resources/search)                      | Repository of resources                |
 | [XSEDE Online Training Catalog](https://portal.xsede.org/online-training)                           | Repository                             |
 

@@ -34,15 +34,15 @@ body {
 }
 
 h1 {
-    @apply text-4xl text-acm-blue py-2 border-b border-acm-green mb-4 header-font;
+    @apply text-4xl text-acm-blue-600 py-2 border-b border-acm-green mb-4 header-font;
 }
 
 h2 {
-    @apply text-2xl text-acm-blue-400 py-2 header-font;
+    @apply text-2xl text-acm-blue-600 py-2 header-font;
 }
 
 h3 {
-    @apply text-lg text-acm-green-600 py-2 header-font;
+    @apply text-lg text-acm-blue-600 py-2 header-font;
 }
 
 p {
@@ -83,7 +83,7 @@ div.highlight {
 }
 
 a {
-    @apply text-acm-blue-500;
+    @apply text-acm-blue-600;
 }
 
 a:hover {
@@ -101,3 +101,23 @@ ul {
 ul li::marker {
     @apply text-acm-orange;
 }
+
+#toc ul {
+  @apply list-none;
+}
+
+ul.events {
+  @apply list-none;
+}
+
+table tr td {
+  @apply p-2;
+}
+
+table {
+  @apply my-4;
+}
+
+tr:nth-child(even) {
+  @apply bg-gray-100;
+} 

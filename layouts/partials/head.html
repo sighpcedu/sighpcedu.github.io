@@ -8,10 +8,12 @@
 {{ if .Site.IsServer }}
   {{ $built := resources.Get "css/built.css" | resources.PostCSS }}
   <link rel="stylesheet" href="{{ $built.RelPermalink }}"/>
+  <script src="https://kit.fontawesome.com/dc644d3ad5.js" crossorigin="anonymous"></script>
   <script lang="javascript" type="text/javascript" src="{{ $js.RelPermalink }}"></script>
 {{ else }}
   {{ $styles := $styles | minify | fingerprint | resources.PostProcess }}
   {{ $js := $js | minify | fingerprint | resources.PostProcess }}
   <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}"/>
+  <script src="https://kit.fontawesome.com/dc644d3ad5.js" crossorigin="anonymous"></script>
   <script lang="javascript" type="text/javascript" src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
 {{ end }}

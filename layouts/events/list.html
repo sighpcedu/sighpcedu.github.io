@@ -1,12 +1,18 @@
 {{ define "main" }}
 <div class="container mx-auto">
     {{ partial "breadcrumb.html" . }}
+    {{ if ne .Parent.Title "SigHPCEdu Website" }}
     <h1>Events for the {{ .Parent.Title }} Committee</h1>
+    {{ else }}
+    <h1>Events for the ACM SigHPC Education Chapter</h1>
+    {{ end }}
     {{ .Content }}
+
+    <a href="index.ics" class="text-acm-orange italic text-xl my-8">Subscribe to this events calendar!</a>
 
     <h2>Upcoming Events</h2>
     
-    <ul class="pb-4">
+    <ul class="pb-4 events">
     {{ range sort .Pages ".Params.EventDate" "asc" }}
         {{ if ge (time .Params.EventDate .Params.TimeZone) now }}
             <li class="pb-3 border-b border-acm-green mb-5">{{ partial "event.html" . }}</li>
@@ -15,7 +21,7 @@
     </ul>
 
     <h2>Past Events</h2>
-    <ul class="pb-4">
+    <ul class="pb-4 events">
         {{ range sort .Pages ".Params.EventDate" "desc"  }}
             {{ if lt (time .Params.EventDate .Params.TimeZone) now }}
                 <li class="pb-6 ">{{ partial "event.html" . }}</li>

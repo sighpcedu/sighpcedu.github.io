@@ -1,9 +1,24 @@
 {{ define "main" }}
-{{ if gt (len .Sections) 0 }}
-{{ .Content }}
-{{ else }}
-<div class="container mx-auto">
-    {{ .Content }}
+{{ $currentPage := . }}
+<div class="lg:px-6 xl:px-16 grid grid-cols-5 lg:grid-cols-6 gap-10 ">
+    <div class="flex flex-col col-span-1">
+        {{ if gt (len .Sections) 0 }}
+        <div class="text-2xl pb-1 mb-2 border-b font-bold text-acm-blue border-acm-green">{{ $currentPage.Name }}</div>
+        <ul>
+            {{ range .Sections}}
+                <li class="text-gray-800 pb-2 hover:text-acm-orange"><a href="{{ .RelPermalink }}">{{ .Name }}</a></li>
+            {{ end }}
+        </ul>
+        {{end}}
+    </div>
+    <div class="col-span-4">
+        {{ partial "breadcrumb.html" . }}
+        <div id="content">
+            {{ .Content }}
+        </div>
+    </div>
+    <div class="hidden lg:inline-block">
+        {{ partial "toc.html" . }}
+    </div>
 </div>
-{{ end }}
 {{ end }}

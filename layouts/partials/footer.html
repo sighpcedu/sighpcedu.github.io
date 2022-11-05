@@ -1,6 +1,10 @@
 <footer class="mt-6">
-    <div class="w-full bg-acm-light-blue h-1"></div>
-    <div class="w-full bg-acm-blue h-16">
-    <div class="flex justify-center text-white py-1">This is the footer</div>
+    <div class="w-full bg-acm-blue h-1"></div>
+    <div class="w-full bg-acm-blue-600 h-16 flex items-center justify-center py-6 ">
+      {{ range .Site.Params.socials }}
+  <div class="px-4 text-2xl">
+    <a href="{{ .link }}" target="_blank"><i class="{{ .icon }} text-white hover:text-acm-orange" title="{{ .name }}"></i></a>
+  </div>
+  {{ end }}
     </div>
 </footer>
