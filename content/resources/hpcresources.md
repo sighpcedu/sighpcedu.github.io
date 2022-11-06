@@ -24,7 +24,7 @@ title: HPC Resource Links
 | [HPC Carpentry](https://hpc-carpentry.github.io)                                                    | Web Training                           |
 | [MIT LLSC-Supercloud Teaching Examples](https://github.com/llsc-supercloud/teaching-examples)       | Hands-on Examples in Jupyter Notebooks |
 | [HPC Univeristy Training Resources](http://hpcuniveristy.org/resources/search)                      | Repository of resources                |
-| [XSEDE Online Training Catalog](https://portal.xsede.org/online-training)                           | Repository                             |
+| [XSEDE Online Training Catalog]([(https://software.xsede.org/training-discovery)])                  | Repository                             |
 
 ## Novice and Intermediate
 
