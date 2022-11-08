@@ -5,7 +5,7 @@ weight: 100
 ---
 
 
-## [Officer Requirements](Officer_Requirments)
+## [Officer Requirements](Officer_Requirements)
 
 ### Chair  
 
