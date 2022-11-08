@@ -62,16 +62,8 @@ p {
     @apply pr-2  text-gray-400;
 }
 
-#content ul {
-    list-style-type: circle;
-}
-
 #content ul ul {
     @apply pl-6;
-}
-
-#content ol {
-    list-style-type: lower-alpha;
 }
 
 div.highlight {
