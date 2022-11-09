@@ -5,9 +5,9 @@ weight: 100
 ---
 
 
-## [Officer Requirements](Officer_Requirements)
+## [Officer Requirements]({{< relref officer-requirements >}})
 
-### Chair  
+### Chair
 
 **_Scott Callaghan_**  
 Southern California Earthquake Center  

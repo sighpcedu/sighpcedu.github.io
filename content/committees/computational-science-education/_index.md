@@ -1,8 +1,8 @@
 ---
-title: Education Content
+title: Computational Science Education
 ---
 
-# Education Content Committee
+# Computational Science Education Committee
 
 ## Committee Description
 
