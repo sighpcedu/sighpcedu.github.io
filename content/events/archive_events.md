@@ -1,6 +1,6 @@
 ---
 Title: Events 2018 and Prior
-EventDate: 2018-1-1
+EventDate: 2018-01-01
 EventTime: 9:00:00
 TimeZone: US/Mountain
 category: event
