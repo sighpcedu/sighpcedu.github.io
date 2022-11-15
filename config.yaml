@@ -33,7 +33,7 @@ params:
       icon: fa-solid fa-envelope
       link: /contact
     - name: Slack
-      icon: fa-solid fa-slack
+      icon: fa-brands fa-slack
       link: https://sighpc.slack.com/archives/CAE68S91D
     - name: Twitter
       icon: fa-brands fa-twitter
