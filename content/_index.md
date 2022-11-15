@@ -27,6 +27,7 @@ Explore our activities by reviewing our upcoming and past events.  Sample the wo
 
 ### Join us on social media:
 
+* [Slack](https://sighpc.slack.com/archives/CAE68S91D)
 * [LinkedIn](https://www.linkedin.com/groups/12019017)
 * [Facebook](https://www.facebook.com/sighpcedu/)
 * [Twitter](https://twitter.com/sighpcedu)
