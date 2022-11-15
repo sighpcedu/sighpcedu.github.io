@@ -32,6 +32,9 @@ params:
     - name: Email
       icon: fa-solid fa-envelope
       link: /contact
+    - name: Slack
+      icon: fa-solid fa-slack
+      link: https://sighpc.slack.com/archives/CAE68S91D
     - name: Twitter
       icon: fa-brands fa-twitter
       link: https://twitter.com/sighpcedu
