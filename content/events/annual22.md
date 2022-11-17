@@ -1,19 +1,15 @@
 ---
-Title: Annual Meeting 2022
-EventDate: 2022-01-11
+Title: SIGHPC Education Chapter Annual Meeting
+EventDate: 2022-12-08
 EventTime: 10:00:00
-TimeZone: America/Detroit
+TimeZone: US/Eastern
 category: event
 # Published date:
 Date: 2022-02-13T12:00:00-06:00
 ---
----
----
 
-## SIGHPC Education Chapter Annual Meeting
+# SIGHPC Education Chapter Annual Meeting
 
-### Updates on chapter activities and goals for the coming year
+## Review of 2022 Accomplishments and Upcoming Activities
 
-* Tuesday, January 11, 2022 10 AM ET
-* [YouTube Video](https://youtu.be/W2gXpLv7PHM)
-* [Meeting Presentation](../files/20220111-Chapter_meeting.pdf)
+* (Join the Session)[https://us02web.zoom.us/j/84566629633?pwd=ditGRzBwK2RWdmtBVHRLblR4dzNQQT09]
