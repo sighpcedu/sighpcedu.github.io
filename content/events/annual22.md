@@ -10,6 +10,8 @@ Date: 2022-02-13T12:00:00-06:00
 
 # SIGHPC Education Chapter Annual Meeting
 
-## Review of 2022 Accomplishments and Upcoming Activities
+Come join us for our annual chapter meeting! This is a great opportunity to interact with chapter leadership, learn about ongoing projects, and help us shape our priorities for the upcoming year.
 
-* (Join the Session)[https://us02web.zoom.us/j/84566629633?pwd=ditGRzBwK2RWdmtBVHRLblR4dzNQQT09]
+*Thursday, December 8, 10-11 am EST*
+
+[Join the Session on Zoom](https://us02web.zoom.us/j/84566629633?pwd=ditGRzBwK2RWdmtBVHRLblR4dzNQQT09)
