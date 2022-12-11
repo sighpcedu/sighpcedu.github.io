@@ -21,7 +21,7 @@ title: HPC Resource Links
 | [U Illinois Computational Science and Engineering](https://www.cse.illinois.edu/cse-training)       | Workshops                              |
 | [Software Carpentry - Basic Skills for Research Computing](https://software-carpentry.org/lessons/) | Web Training                           |
 | [Data Carpentry](https://datacarpentry.org/lessons/)                                                | Web Training                           |
-| [HPC Carpentry](https://hpc-carpentry.github.io)                                                    | Web Training                           |
+| [HPC Carpentry](https://theartofhpc.com/carpentry.html)                                             | Web Training                           |
 | [MIT LLSC-Supercloud Teaching Examples](https://github.com/llsc-supercloud/teaching-examples)       | Hands-on Examples in Jupyter Notebooks |
 | [HPC Univeristy Training Resources](http://hpcuniveristy.org/resources/search)                      | Repository of resources                |
 | [XSEDE Online Training Catalog]([(https://software.xsede.org/training-discovery)])                  | Repository                             |
@@ -56,6 +56,6 @@ title: HPC Resource Links
 |-------------------------------------------------------------------------------------------------------|----------|
 | [NERSC Online Tutorials](https://www.nersc.gov/users/training/online-tutorials)                       | Tutorial |
 | [Large Data Visualization](https://cvw.cac.cornell.edu/LargeVis/)                                     | Tutorial |
-| [HPC Textbook and Parallel Programming Book](http://pages.tacc.utexas.edu/~eijkhout/istc/istc.html)   | Book     |
-| [Parallel Programming in MPI and OpenMP](http://pages.tacc.utexas.edu/~eijkhout/pcse/html/index.html) | Book     |
+| [HPC Textbook and Parallel Programming Book](https://theartofhpc.com/istc.html)                       | Book     |
+| [Parallel Programming in MPI and OpenMP](https://theartofhpc.com/pcse.html)                           | Book     |
 | [Programming on Parallel Machines](http://heather.cs.ucdavis.edu/parprocbook)                         | Textbook |
