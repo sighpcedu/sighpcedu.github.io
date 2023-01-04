@@ -17,7 +17,7 @@ Held in conjunction with SC23: The International Conference on High Performance 
 [https://sc23.supercomputing.org/](https://sc23.supercomputing.org/)
 
 
-Since 2014, the Best Practices for HPC Training workshop series at SC has provided a global forum for addressing common challenges and solutions for enhancing HPC training and education, for sharing information through large and small group discussions, and for fostering collaboration opportunities. The Tenth workshop (BPHTE23), an [ACM SIGHPC Education Chapter](https://sighpceducation.acm.org) coordinated effort, is a full day workshop focusing on extending collaborations among practitioners from traditional and emerging fields, exploring the challenges in developing and deploying HPC training and education, and identifying new challenges and opportunities for the latest HPC platforms. The workshop will provide opportunities for: disseminating results, understanding the recent challenges with effectiveness of HPC education and training materials and promoting collaborations among HPC educators, trainers and users. We are planning for papers, lightning talks and demos to be presented by members of the international community. _The workshop papers, extended lightning talks and demo abstracts will be published in a special issue of [Journal of Computational Science Education](http://jocse.org/)_ .
+Since 2014, the Best Practices for HPC Training workshop series at SC has provided a global forum for addressing common challenges and solutions for enhancing HPC training and education, for sharing information through large and small group discussions, and for fostering collaboration opportunities. The Tenth workshop (BPHTE23), an [ACM SIGHPC Education Chapter](https://sighpceducation.acm.org) coordinated effort, is a full day workshop focusing on extending collaborations among practitioners from traditional and emerging fields, exploring the challenges in developing and deploying HPC training and education, and identifying new challenges and opportunities for the latest HPC platforms. The workshop will provide opportunities for: disseminating results, understanding the recent challenges with effectiveness of HPC education and training materials and promoting collaborations among HPC educators, trainers and users. We are planning for papers, lightning talks and demos to be presented by members of the international community. The workshop papers, extended lightning talks and demo abstracts will be published in a special issue of [Journal of Computational Science Education](http://jocse.org/)
 
 _We are now inviting abstract submissions for papers, lightning talks and demos._
 
@@ -41,7 +41,7 @@ Topics of interest include, but are not limited to, the following:
 
 The Workshop on Best Practices for HPC Training and Education (BPHTE23) follows a three-part submission process, with abstracts due by August 12, 2023, notification of acceptance by August 31, 2023, full papers due by September 9, 2023 and presentations by September 16, 2023 (There will be no extensions). Abstracts, papers and presentations must be submitted via the [BPHTE23 online submissions system.](https://submissions.supercomputing.org/?page=Submit&id=SC23WorkshopBestPracticesforHPCTrainingandEducationAbstract&site=sc23)
 
-The workshop papers, extended lightning talks and demo abstracts will be published in a special issue of [Journal of Computational Science Education](http://jocse.org/)_ For full consideration for publication, each paper and extended abstract should describe: :  
+The workshop papers, extended lightning talks and demo abstracts will be published in a special issue of [Journal of Computational Science Education](http://jocse.org/). For full consideration for publication, each paper and extended abstract should describe: :  
 
 * the nature of the training or education program
 * Strategy
@@ -93,7 +93,7 @@ Notification of acceptance: August 31, 2023
 Final paper submissions: September 9, 2023  
 Final Presentation Due: September 16, 2023  
 
-### Workshop Chairs:**
+### Workshop Chairs:
 
 * Nitin Sukhija, Slippery Rock University of Pennsylvania
 * Nia Alexandrov, Daresbury Laboratory, Sci-Tech Daresbury
@@ -130,7 +130,7 @@ Final Presentation Due: September 16, 2023
 * Juan Chen, National University of Defense Technology, China
 * TBD
 
-** About SIG HPC Education:  
+### About SIG HPC Education:  
 
 The SIGHPC Education chapter has as its purpose the promotion of interest in and knowledge of applications of High Performance Computing (HPC).
 
