@@ -6,6 +6,7 @@ TimeZone: US/Mountain
 category: event
 # Published date:
 Date: 2023-01-04T12:00:00-06:00
+---
 ## Call for Papers Workshop on HPC Education and Training for Emerging Technologies (HETET23)
 
 ## ISC23 Conference
