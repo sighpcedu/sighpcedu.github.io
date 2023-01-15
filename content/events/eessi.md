@@ -14,7 +14,7 @@ Dr. Alan O'Cais and Kenneth Hoste
 
 **Wednesday, January 25 at 10:00 PM ET.**
 
-[Zoom Link](https://youtu.be/ObhlPYUmNJs)
+Connect using this [Zoom Link](https://youtu.be/ObhlPYUmNJs)
 
 ## Abstract
  
