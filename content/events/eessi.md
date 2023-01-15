@@ -1,4 +1,3 @@
----
 Title: EESSI: A streamed, production-quality, multi-platform HPC software stack
 EventDate: 2023-01-25
 EventTime: 10:00:00
