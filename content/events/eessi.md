@@ -34,7 +34,7 @@ developed by [HPC Carpentry](https://www.hpc-carpentry.org/).
 
 ### Presenter Bios
 
-**Dr. Alan O'Cais*
+**Dr. Alan O'Cais**
 
 Dr. Alan O'Cais is currently the Technical Manager of MultiXscale, a EuroHPC Centre of
 Excellence. From 2016 to 2021, he was Software Manager of E-CAM, an EU Centre of
