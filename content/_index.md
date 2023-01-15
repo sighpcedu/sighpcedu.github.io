@@ -5,6 +5,10 @@ weight: 10
 
 # Announcements
 
+## Upcoming webinar
+
+Join us for a workshop on EESSI: A streamed, production-quality, multi-platform HPC software stack.  **Wednesday, January 25 at 10:00 AM ET.**
+Details at [events page](/events/)
 ## Call for Proposals Upcoming Conferences
 
 Our workshop committee has posted a call for proposals for three upcoming conferences.  Please consider submitting a paper or talk.  You can find the announcements [here](/events/).
