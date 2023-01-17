@@ -9,13 +9,12 @@ Date: 2023-01-21T12:00:00-06:00
 ---
 
 ## EESSI: A streamed, production-quality, multi-platform HPC software stack
-===============================
 
 Dr. Alan O'Cais and Kenneth Hoste
 
 **Wednesday, January 25 at 10:00 AM ET.**
 
-[Zoom Link](https://youtu.be/ObhlPYUmNJs)
+[Zoom Link]([https://youtu.be/ObhlPYUmNJs](https://us02web.zoom.us/j/89217307593?pwd=RlJHMGhLMDhLN3k2Q204bGJ2YzA5QT09)
 
 ## Abstract
  
