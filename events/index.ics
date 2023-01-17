@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gohugo.io//Hugo 92//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID: 795f43e87a5e8cd1fbff375fe5951dc7@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20230104T234554
+DTSTART:20230525T150000
+DTEND:20230525T160000
+SUMMARY:HETET23 Call for Papers - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Call for Papers Workshop on HPC Education and Training for Emerging Technologies (HETET23) ISC23 Conference https://www.isc-hpc.com/ High performance computing has become central for empowering progress in diverse scientific and non-scientific domains. With the advent of myriad different technologies in the post peta-scale computing era, the future of HPC involves a significantly greater degree of parallelism than we are observing currently. The rapid advancement and introduction of new processing technologies for HPC has facilitated the convergence of Artificial Intelligence (AI) and Machine Learning (ML), Data Analytics and Big Data and the High Performance Computing (HPC) domains platforms to solve complex large-scale real-time analytics and scientific applications pertaining to diverse scientific and non-scientific fields.
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/hetet23_cfp/
+END:VEVENT
+BEGIN:VEVENT
+UID: 77a4dd17b90df573d421ae4bc96e8dec@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20230104T143825
+DTSTART:20230723T150000
+DTEND:20230723T160000
+SUMMARY:SEHET23 Call for Papers - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:SEHET23 Call for Papers PEARC23 Conference Portland, Oregon July 23-27, 2023 https://pearc.acm.org/pearc23/ Sixth Workshop on Strategies for Enhancing HPC Education and Training (SEHET23) The SEHET23 workshop is an ACM SIGHPC Education Chapter coordinated effort aimed at fostering collaborations among the practitioners from traditional and emerging fields to explore strategies to enhance computational, data-enabled and HPC educational needs. Attendees will discuss approaches for developing and deploying HPC training and education, as well as identifying new challenges and opportunities for keeping pace with the rapid pace of technological advances - from collaborative and online learning tools to new HPC platforms.
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/sehet23_cfp/
+END:VEVENT
+BEGIN:VEVENT
+UID: df0d73ca4b52b38b5b31a3479a3a15b7@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20230104T143036
+DTSTART:20231112T150000
+DTEND:20231112T160000
+SUMMARY:BPHTE23 Call for Papers - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:BPHTE23 CFP Call for Papers Tenth SC Workshop on Best Practices for HPC Training and Education (BPHTE23) November 12-17, 2023 Held in conjunction with SC23: The International Conference on High Performance Computing, Networking, Storage, and Analysis https://sc23.supercomputing.org/ Since 2014, the Best Practices for HPC Training workshop series at SC has provided a global forum for addressing common challenges and solutions for enhancing HPC training and education, for sharing information through large and small group discussions, and for fostering collaboration opportunities.
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/bphte23cfp/
+END:VEVENT
+BEGIN:VEVENT
+UID: a8fdb51aa7a55d84cda3e6f549d79036@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220830T175750
+DTSTART:20190728T150000
+DTEND:20190728T160000
+SUMMARY:Second Workshop on Strategies for Enhancing HPC Education and Training Curriculum - SEHET19 - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Second Workshop on Strategies for Enhancing HPC Education and Training PEARC Conference, Chicago, IL, July 28 - August 1, 2019 Presentation Slides
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/sehet19/
+END:VEVENT
+BEGIN:VEVENT
+UID: 99c6a579811a6817dbad30c42bc04ee9@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220820T203354
+DTSTART:20220819T150000
+DTEND:20220819T160000
+SUMMARY:Educational Award For Outstanding Contribution to Computational Science Education - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:ACM SIGHPC Education Chapter Educational Award For Outstanding Contribution to Computational Science Education The ACM SIGHPC Education Chapter is pleased to announce the first recipient of the Educational Award for Outstanding Contribution to Computational Science Education Dr. Robert M. Panoff. Dr. Robert Panoff is noted for his work assisting faculty with the integration of computational science into the undergraduate curriculum. Dr. Panoff also collected and distributed curricular materials as exemplars for adoption in the curriculum.
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/award_announce/
+END:VEVENT
+BEGIN:VEVENT
+UID: 290e56ceabe8e273bd36f9f264338370@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220903T212555
+DTSTART:20191117T140000
+DTEND:20191117T150000
+SUMMARY:Sixth SC Workshop on Best Practices for HPC Training and Education - BPHTE19 - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Sixth SC Workshop on Best Practices for HPC Training and Education - BPHTE19 Sunday November 17, 2019 Time: 9 AM - 5:30 PM 09:00 PM-09:20 AM Welcome SIGHPC Education Chapter Nitin Sukhija, Slippery Rock University of Pennsylvania Scott Lathrop, University of Illinois Julia Mullen, Massachusetts Institute of Technology Nia Alexandrov, Daresbury Laboratory, Sci-Tech Daresbury 9:20 AM -12:30 PM Paper Session I: (Chair: Scott Lathrop) 09:20 AM -09:40 AM FreeCompilerCamp.org: Training for OpenMP Compiler Development from Cloud.
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/bphte19agenda/
+END:VEVENT
+BEGIN:VEVENT
+UID: 7ef6d26b4cc87b35e0e02eccca911f90@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220903T212555
+DTSTART:20220720T150000
+DTEND:20220720T160000
+SUMMARY:Third Workshop on Strategies for Enhancing HPC Education and Training (SEHET20) - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Third Workshop on Strategies for Enhancing HPC Education and Training (SEHET20) at PEARC20 SEHET20_Technical_Program 
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/sehet20/
+END:VEVENT
+BEGIN:VEVENT
+UID: 1173c6a7a0c795c4c664efce3e8e6b32@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220903T212555
+DTSTART:20201111T140000
+DTEND:20201111T150000
+SUMMARY:BPHTE20 Technical Program - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:[Seventh SC Workshop on Best Practices for HPC Training and Education (BPHTE20)](https://sc20.supercomputing.org/presentation/?id=wksp124&amp;sess=sess200) Wednesday November 11, 2020 Time: 10 AM - 6:30 PM (EST) 10:00 PM-10:15 AM Welcome SIGHPC Education Chapter Nitin Sukhija, Slippery Rock University of Pennsylvania 10:15 AM -12:00 PM Session I: (Chair: Scott Lathrop) 10:15 AM -10:30 AM DeapSECURE Computational Training for Cybersecurity Student: Improvements, Mid-Stage Evaluation, and Lessons Learned. Purwanto, He, Ossom, Zhang, Zhu, Arcaute, Sosonkina, Wu
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/bphte20_technical_program/
+END:VEVENT
+BEGIN:VEVENT
+UID: 762ef20809854fb05e13c66f68927d66@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220903T212555
+DTSTART:20200316T150000
+DTEND:20200316T160000
+SUMMARY:March 2020 SIGHPC Education Chapter Update - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:March 2020 SIGHPC Education Chapter Update Monday March 16, 11 AM Eastern Time YouTube Video Presentation Slides 
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/update2020-3/
+END:VEVENT
+BEGIN:VEVENT
+UID: ffb2c58cd343170e3fc331b90bf01c19@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220903T212555
+DTSTART:20191106T170000
+DTEND:20191106T180000
+SUMMARY:Mentoring Maximize Your Impact - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Mentoring Webinar Mentoring: Maximize Your Impact Sally Ellingson, Sarvani Chadalapaka, Jay Lofstead, and Julian Kunkel Wednesday, November 6 at 12:00 PM ET. YouTube video Mentoring has the potential for great impact, and can play a key role in building community and bringing new researchers to HPC. However, sometimes getting involved in mentoring can be intimidating, and it can be difficult to find best practices for mentoring in HPC. In this webinar, &ldquo;Mentoring: Maximize Your Impact&rdquo;, four panelists with extensive mentoring experience will share their perspectives on effective mentoring, their own experiences, and tips on how to organize your mentoring program, followed by discussion and Q&amp;A.
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/mentoring_webinar/
+END:VEVENT
+BEGIN:VEVENT
+UID: c845b8dfc0cabbc94fccb6e87f1943ca@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220830T180723
+DTSTART:20190522T150000
+DTEND:20190522T160000
+SUMMARY:Overview of the 2019 Outreach Activities of the IEEE Technical Consortium on High Performance Computing - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Overview of the 2019 Outreach Activities of the IEEE Technical Consortium on High Performance Computing Presentation Slides YouTube Video 
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/ieee/
+END:VEVENT
+BEGIN:VEVENT
+UID: c9c9fd91d1218db6b90ac16844512eb7@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220830T181528
+DTSTART:20190911T150000
+DTEND:20190911T160000
+SUMMARY:Using flipped classroom and Jupiter Notebooks to teach undergraduates parallel programming - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Using flipped classroom and Jupiter Notebooks to teach undergraduates parallel programming YouTube Video 
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/flipped/
+END:VEVENT
+BEGIN:VEVENT
+UID: 82e74525bab1dbc59997a44d38f08380@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220818T154143
+DTSTART:20201106T190000
+DTEND:20201106T200000
+SUMMARY:Webinar - Choosing Accessible Conferencing and Chat Platforms - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION: Choosing Accessible Conferencing and Chat Platforms Friday November 6, 2020 at 3:00 PM ET YouTube Video Chat contents with related links 
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/accessible/
+END:VEVENT
+BEGIN:VEVENT
+UID: 749d778a17498459ab177620a4f515c1@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220818T153648
+DTSTART:20201201T140000
+DTEND:20201201T150000
+SUMMARY:Webinar - Doing more with Google CoLab - CUDA Programming and beyond - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION: Annual Meeting and Member Update 2020 Tuesday, December 1, 9 AM ET YouTube Video Presentation Slides 
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/annual20/
+END:VEVENT
+BEGIN:VEVENT
+UID: d7f5b2fd0d3bff78aaa5fc5e752582e6@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220816T204608
+DTSTART:20220317T150000
+DTEND:20220317T160000
+SUMMARY:Webinar - Doing more with Google CoLab - CUDA Programming and beyond - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION: Webinar: Doing more with Google CoLab: CUDA Programming and beyond Thursday, March 17, 2022 11 AM EDT YouTube Video Presentation Details 
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/colab/
+END:VEVENT
+BEGIN:VEVENT
+UID: 88b380a21d4541a1b3e9b81f27fd01ac@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220903T212555
+DTSTART:20200915T140000
+DTEND:20200915T150000
+SUMMARY:Webinar - Incorporating High Performance Computing in a Physics Curriculum - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Webinar - Incorporating High Performance Computing in a Physics Curriculum Tuesday September 15, 2020 at 10:00 AM ET YouTube Video Presentation Slides 
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/physics1/
+END:VEVENT
+BEGIN:VEVENT
+UID: 59ba76ae53e96a29c107875b93c38fb2@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220819T132456
+DTSTART:20200306T180000
+DTEND:20200306T190000
+SUMMARY:Webinar - Integrating Computational Science into the Chemistry Curriculum - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Integrating Computational Science into the Chemistry Curriculum Friday March 6, 2020 3 PM Eastern Time YouTube Video 
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/chem/
+END:VEVENT
+BEGIN:VEVENT
+UID: ea040cd8a24ba2fae75455728bd1b432@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220819T132307
+DTSTART:20191114T160000
+DTEND:20191114T170000
+SUMMARY:Webinar - Introducing Computational Science in the Undergraduate Physics Curriculum - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Introducing Computational Science in the Undergraduate Physics Curriculum Session 1: Thursday, November 14, 2019 YouTube Video Session 2: Friday, December 6, 2019 YouTube Video Presentation 1 Presentation 2 
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/physics2/
+END:VEVENT
+BEGIN:VEVENT
+UID: 0506765a3a267c0bbd6e5604a26d143f@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220903T212555
+DTSTART:20220127T160000
+DTEND:20220127T170000
+SUMMARY:Webinar - Student Simulations of Local Wildfires in a Liberal Arts Geography Course - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Student Simulations of Local Wildfires in a Liberal Arts Geography Course Thursday, January 27, 2022 11 AM ET YouTube Video 
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/wildfire/
+END:VEVENT
+BEGIN:VEVENT
+UID: 1c5242304e35bb9ba8c7f37e0cfe511b@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220830T182522
+DTSTART:20191117T160000
+DTEND:20191117T170000
+SUMMARY:Workshop on Best Practices for HPC Training and Education - Agenda - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Agenda - Workshop on Best Practices for HPC Training and Education BPHTE19 Agenda 
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/sc19/
+END:VEVENT
+BEGIN:VEVENT
+UID: 1cbe11e8258f2ff8a772b4e75c13f5b5@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20221105T155900
+DTSTART:20221113T160000
+DTEND:20221113T170000
+SUMMARY:BPHTE22 Call for Papers - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:BPHTE22 CFP Call for Papers Ninth SC Workshop on Best Practices for HPC Training and Education (BPHTE22) November 13-18, 2022 Held in conjunction with SC22: The International Conference on High Performance Computing, Networking, Storage, and Analysis https://sc22.supercomputing.org/ Since 2014, the Best Practices for HPC Training workshop series at SC has provided a global forum for addressing common challenges and solutions for enhancing HPC training and education, for sharing information through large and small group discussions, and for fostering collaboration opportunities.
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/bphte22/
+END:VEVENT
+BEGIN:VEVENT
+UID: 58815c7442f103bad9b346d88de68cb1@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20221113T161508
+DTSTART:20180101T160000
+DTEND:20180101T170000
+SUMMARY:Events 2018 and Prior - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Events from 2018 and Earlier OpenMP: An Industrial Strength On-Node Programming Model Monday January 7, 2018 11 AM Eastern Time Webinar Video Extending Computational Training Using Informal Means Tuesday, December 4, 2018 - YouTube Video Fifth SC Workshop on Best Practices for HPC Training and Education The Morgan Teaching to Increase Diversity in STEM (MTIDES) Project YouTube Video Introducing the HPC Certification Program Presentation Slides YouTube Video Trends and Strategies in Advanced Research Computing Education
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/pre2018/
+END:VEVENT
+BEGIN:VEVENT
+UID: bf2af513ae0b85abc8fff9b1fbd982ac@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220818T203808
+DTSTART:20200727T200000
+DTEND:20200727T210000
+SUMMARY:SEHET20 Technical Program - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Third Workshop on Strategies for Enhancing HPC Education and Training (SEHET20) Monday July 27, 2020 Time: 1:00 PM - 5 PM (PST) 01:00 PM-1:20 PM Welcome SIGHPC Education Chapter Nitin Sukhija, Slippery Rock University of Pennsylvania 1:20 PM -3:00 PM Paper Session 1:20 PM -1:40 PM &ldquo;Ask.Cyberinfrastructure.org: Creating a Platform for Self-Service Learning and Collaboration in the Rapidly Changing Environment of Research Computing&rdquo;. Julie Ma, Torey Battelle, Katia Bulekova, John Goodhue, Aaron Culich and Jacob Pessin
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/sehet20_technical_program/
+END:VEVENT
+BEGIN:VEVENT
+UID: 6e60b20b7c921d4a78f87cc710e16eaf@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20221024T142805
+DTSTART:20220711T123000
+DTEND:20220711T133000
+SUMMARY:SEHET22 - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Fifth Workshop on Strategies for Enhancing HPC Education and Training (SEHET22) Monday July 11, 2022 Time: 8:30 AM - 11:30 AM (EST) 08:30 AM-8:45 AM Welcome SIGHPC Education Chapter Nitin Sukhija, Slippery Rock University of Pennsylvania 8:45 AM -10:45 AM Paper Session 8:45 AM -9:00 AM &ldquo;The Multi-Tier Assistance, Training, and Computational Help (MATCH) project, a Track 2 NSF ACCESS Initiative&rdquo;. Shelley Knuth, Julie Ma, Alan Chalker, Ewa Deelman, Layla Freeborn, VikrAM Gazula, John Goodhue, JAMes Griffioen, David Hudak, Andrew Pasquale and Mats Rynge
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/sehet22/
+END:VEVENT
+BEGIN:VEVENT
+UID: 16aa5fe82bb9edebed357ebe532eefb5@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20221211T162310
+DTSTART:20221208T150000
+DTEND:20221208T160000
+SUMMARY:SIGHPC Education Chapter Annual Meeting - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:SIGHPC Education Chapter Annual Meeting Come join us for our annual chapter meeting! This is a great opportunity to interact with chapter leadership, learn about ongoing projects, and help us shape our priorities for the upcoming year. Thursday, December 8, 10-11 am EST Post-meeting notes and presentation archive Meeting recording Meeting chat transcript Meeting notes Jamboard Chapter presentation Committee presentations Outreach committee Computational science education committee K-12 committee SYSPROS committee Workshop committee 
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/annual22/
+END:VEVENT
+END:VCALENDAR

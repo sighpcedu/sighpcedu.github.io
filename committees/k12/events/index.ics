@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gohugo.io//Hugo 92//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID: c9ba4e9230dec7185fd4463cee6e6e7a@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220822T144425
+DTSTART:20220215T160000
+DTEND:20220215T170000
+SUMMARY:Outreach Event - K-12 Education - AMC SIGHPC Education ChapterDESCRIPTION:This will show a list of upcoming events
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/committees/k12/events/outreach-event/
+END:VEVENT
+BEGIN:VEVENT
+UID: 4660b233d621052e5da3236b61ad1101@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220822T144451
+DTSTART:20220110T224500
+DTEND:20220110T234500
+SUMMARY:Past Event Example - K-12 Education - AMC SIGHPC Education ChapterDESCRIPTION:This page will have summaries of past events
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/committees/k12/events/past-event/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,45 @@
+10:02:59	 From  Kate Cahill : Meeting Notes: https://docs.google.com/document/d/1qcPxQ8N8l2aT95CMD7T0R7ssX2019k0H7x0KJcgUHws/edit
+10:05:29	 From  Kate Cahill : Here’s a generally editable document: https://docs.google.com/document/d/1Oz9RKY8liEx6KKr8AjQnrRhq4X6QJsHICUI5g4u0Q4U/edit?usp=sharing
+10:09:19	 From  scottlathrop : The SC22 Education workshop had the highest recorded attendance of all SC22 workshops
+10:10:31	 From  Kate Cahill : Wow!
+10:12:49	 From  Ann Backhaus : Great initiatives!
+10:13:41	 From  Scott Callaghan : https://sighpceducation.acm.org/contact/
+10:15:04	 From  scottlathrop : perhaps a webinar for the education awardee (Panoff) to share his methods and approaches?
+10:17:34	 From  PanoffRM@wofford.edu : I’m available when available with planning
+10:19:02	 From  Widodo Samyono : Good morning all. :-)
+10:19:18	 From  Kate Cahill : Here’s a generally editable document: https://docs.google.com/document/d/1Oz9RKY8liEx6KKr8AjQnrRhq4X6QJsHICUI5g4u0Q4U/edit?usp=sharing
+10:19:18	 From  Ann Backhaus : Good morning/evening!
+10:20:22	 From  scottlathrop : excellent work Dru and Georgia!!
+10:21:05	 From  Ann Backhaus : Will the recording also be available?
+10:21:30	 From  Scott Callaghan : Yes, the recording will be posted in the YouTube channel.  We'll send out an email with a link once it's posted.
+10:21:41	 From  Ann Backhaus : Thanks Scott
+10:21:47	 From  Hayden Estes : Hello everyone :)
+10:22:28	 From  Kate Cahill : Hi!
+10:27:32	 From  Jenett Tillotson (NCAR/SYSPROS) : https://docs.google.com/presentation/d/1UfqfwXpvdre7cy5G1ztFTQQ37zV_nKfh
+10:27:49	 From  Victor Eijkhout @ TACC : Can someone install a link checker on the web page?I just noticed a broken link to (my own) rsources.
+10:28:33	 From  Georgia Stuart : Victor can you submit a issue to our repo? https://github.com/sighpcedu/sighpcedu-website
+10:29:16	 From  Georgia Stuart : A link checker in the build process is a good idea
+10:31:15	 From  Victor Eijkhout @ TACC : I’m trying to find a webmaster or submit link on the website and not coming up with any. Hint?
+10:32:19	 From  Georgia Stuart : It's off of the GitHub repository. Go here and click "submit issue" https://github.com/sighpcedu/sighpcedu-website/issuesLet me know if that doesn't work and I'll put it in for you! You can also email me at georgia.stuart@utdallas.edu with requests
+10:32:29	 From  Georgia Stuart : Sorry, it's "new issue"
+10:39:34	 From  Georgia Stuart : https://utd.link/sighpcedu22
+10:42:08	 From  Ron Sass : FYI ... I am getting "This file might be unavailable right now due to heavy traffic. Try again."
+10:42:47	 From  Ron Sass : third times a charm ... thanks
+10:45:15	 From  Georgia Stuart : Slack: https://join.slack.com/t/sighpc/shared_invite/zt-1l4i3e35s-IdsgE7DwCey2zZLOEg3TpQ
+10:45:35	 From  Jeff Raymond : updated list of events, links to slides etc
+10:47:16	 From  Georgia Stuart : Website requests? Anyone can submit an issue here! Doesn't have to be a bug, any request is fine. https://github.com/sighpcedu/sighpcedu-website/issues
+10:52:07	 From  Georgia Stuart : sorry my vpn decided to reconnect
+10:56:18	 From  Ann Backhaus : These are great ideas - will they also be available after the call? (as is or summarised?)
+10:56:42	 From  Kate Cahill : Yes, I am taking notes and will share
+10:56:49	 From  Ann Backhaus : Thanks Kate
+10:57:02	 From  Kate Cahill : Here’s the document now:
+10:57:04	 From  Kate Cahill : Here’s a generally editable document: https://docs.google.com/document/d/1Oz9RKY8liEx6KKr8AjQnrRhq4X6QJsHICUI5g4u0Q4U/edit?usp=sharing
+10:57:05	 From  scottlathrop : good ideas for webinars!!
+10:57:49	 From  PanoffRM@wofford.edu : Great meeting! Thanks all.  Have to zip to get to Mass for Immaculate Conception!
+10:57:51	 From  Chakravorty, Dhruva K : That exciting Alan - now if you can please train people on how to build the backend for this  infrastructure in the cloud.
+10:58:28	 From  Alan O'Cais (CECAM) : We use https://github.com/ComputeCanada/magic_castle for that
+11:00:15	 From  Weronika Filinger : I think we will make it Africa & Europe event, rather than SA & UK. So let me know if  you are interested in participating.
+11:00:46	 From  Widodo Samyono : A good idea!
+11:00:48	 From  Ann Backhaus : Depending on the timing... interested Weronika.
+11:00:53	 From  scottlathrop : great to see a member meeting! More would be useful
+11:01:02	 From  Widodo Samyono : Thanks all!

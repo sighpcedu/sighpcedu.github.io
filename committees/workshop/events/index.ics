@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gohugo.io//Hugo 92//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID: 4ae02a5a00fc07b813277cd774f494b8@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220822T151245
+DTSTART:20220215T160000
+DTEND:20220215T170000
+SUMMARY:Outreach Event - Workshop - AMC SIGHPC Education ChapterDESCRIPTION:This page will show the details of particular events
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/committees/workshop/events/outreach-event/
+END:VEVENT
+BEGIN:VEVENT
+UID: 2701325ddcd6e9dbd0877dad1aadc9f5@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20220822T151314
+DTSTART:20220110T224500
+DTEND:20220110T234500
+SUMMARY:Past Event Example - Workshop - AMC SIGHPC Education ChapterDESCRIPTION:This page will show a list past committee events
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/committees/workshop/events/past-event/
+END:VEVENT
+END:VCALENDAR
