@@ -32,9 +32,18 @@ jobs:
       - name: Build
         run: hugo --minify -b "https://sighpcedu.github.io/sighpcedu-website"
 
+      - name: Build for prod
+        run: mkdir prod && hugo --minify -d prod/
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+
+      - name: Archive production site
+        uses: actions/upload-artifact@v3
+        with:
+          name: sighpcedu-production-site
+          path: prod/
