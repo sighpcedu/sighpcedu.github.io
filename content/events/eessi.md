@@ -5,7 +5,7 @@ EventTime: 10:00:00
 TimeZone: America/Detroit
 category: event
 # Published date:
-Date: 2023-01-21T12:00:00-06:00
+Date: 2023-01-16T12:00:00-06:00
 ---
 
 ## EESSI: A streamed, production-quality, multi-platform HPC software stack
