@@ -11,7 +11,7 @@ Join us for a workshop on EESSI: A streamed, production-quality, multi-platform 
 Details at [events page](events/eessi). [Join us on zoom](https://us02web.zoom.us/j/89217307593?pwd=RlJHMGhLMDhLN3k2Q204bGJ2YzA5QT09)
 ## Call for Proposals Upcoming Conferences
 
-Our workshop committee has posted a call for proposals for three upcoming conferences.  Please consider submitting a paper or talk.  You can find the announcements [here](/events/).
+Our workshop committee has posted a call for proposals for three upcoming conferences.  Please consider submitting a paper or talk.  You can find the announcements [here](events/).
 ## Announcement of the Award for Outstanding Contributions to Computational Science Education
 
 The SIGHPC Education Chapter is pleased to announce the first recipient of the award for Outstanding Contributions to Computational Science Education.  Dr. Robert Panoff has been named the first award recipient.  You can see details about Dr. Panoff and the award [here](/events/award_announce).
