@@ -8,7 +8,7 @@ weight: 10
 ## Upcoming webinar
 
 Join us for a workshop on EESSI: A streamed, production-quality, multi-platform HPC software stack.  **Wednesday, January 25 at 10:00 AM ET.**
-Details at [events page](/events/eessi). [Join us on zoom](https://us02web.zoom.us/j/89217307593?pwd=RlJHMGhLMDhLN3k2Q204bGJ2YzA5QT09)
+Details at [events page](events/eessi). [Join us on zoom](https://us02web.zoom.us/j/89217307593?pwd=RlJHMGhLMDhLN3k2Q204bGJ2YzA5QT09)
 ## Call for Proposals Upcoming Conferences
 
 Our workshop committee has posted a call for proposals for three upcoming conferences.  Please consider submitting a paper or talk.  You can find the announcements [here](/events/).
