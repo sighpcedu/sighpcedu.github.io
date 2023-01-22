@@ -33,7 +33,7 @@ jobs:
         run: hugo --minify -b "https://sighpcedu.github.io/sighpcedu-website"
 
       - name: Build for prod
-        run: mkdir prod && hugo --minify -d prod/
+        run: mkdir prod && hugo --minify -d prod/ -b "https://sighpceducation.acm.org/"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
