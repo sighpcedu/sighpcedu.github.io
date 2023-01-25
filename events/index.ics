@@ -7,7 +7,7 @@ BEGIN:VEVENT
 UID: 5f4dd25d2234e2b3e0dc278742036520@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
-DTSTAMP:20230125T182459
+DTSTAMP:20230125T183633
 DTSTART:20230125T150000
 DTEND:20230125T160000
 SUMMARY:EESSI - A streamed, production-quality, multi-platform HPC software stack - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:EESSI: A streamed, production-quality, multi-platform HPC software stack Dr. Alan O&rsquo;Cais and Kenneth Hoste Wednesday, January 25 at 10:00 AM ET. YouTube Video Presentation Slides Abstract The European Environment for Scientific Software Installations EESSI project aims to provide a ready-to-use stack of production-quality scientific software installations that can be leveraged easily on a variety of platforms, ranging from personal workstations to cloud environments and supercomputer infrastructure, without making compromises with respect to performance.
