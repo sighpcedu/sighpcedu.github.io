@@ -16,7 +16,7 @@ Dr. Alan O'Cais and Kenneth Hoste
 
 [YouTube Video](https://youtu.be/oZPXjFmGb0k)
 
-[Presentation Slides](..files/EESSI-SigHPC-Education-2023-01-25.pdf)
+[Presentation Slides](../files/EESSI-SigHPC-Education-2023-01-25.pdf)
 
 ## Abstract
  
