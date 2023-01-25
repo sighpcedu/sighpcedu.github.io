@@ -13,9 +13,10 @@ Date: 2023-01-16T12:00:00-06:00
 Dr. Alan O'Cais and Kenneth Hoste
 
 **Wednesday, January 25 at 10:00 AM ET.**
+
 [YouTube Video](https://youtu.be/oZPXjFmGb0k)
 
-[Presentation Slides](files/EESSI-SigHPC-Education-2023-01-25.pdf)
+[Presentation Slides](..files/EESSI-SigHPC-Education-2023-01-25.pdf)
 
 ## Abstract
  
