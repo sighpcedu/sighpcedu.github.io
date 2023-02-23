@@ -6,13 +6,9 @@ title: Undergraduate Summer Opportunities
 We've assembled a list of summer undergraduate opportunities we're aware of in HPC or computational science.  This list is certainly not complete, so if you know of additional opportunities, please email us at chair at sighpcedu dot com and we'll add it here!
 
 Program: [LSU Interdisciplinary Research Experience in Computational Sciences (NSF REU)](https://reu.cct.lsu.edu/)
-
 Location: Baton Rouge, LA
-
 Dates: May 22-July 29, 2023
-
 Eligibility: US citizens or permanent residents with at least 1 semester of college remaining.
-
 Applications Due: March 1, 2023
 
 Program: [TACC Cyberinfrastructure Research for Social Change (NSF REU)](https://www.tacc.utexas.edu/education/undergrads-grads/reu)
