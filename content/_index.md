@@ -5,10 +5,9 @@ weight: 10
 
 # Announcements
 
-## Webinar Video
+## Upcoming Webinar
 
-Slides and the video of the webinar on EESSI: A streamed, production-quality, multi-platform HPC software stack.  **Wednesday, January 25 at 10:00 AM ET.**
-are now posted.  Links at [events page](events/eessi). 
+Mark your calendars for the webinar Physics in the Classroom, April 5, 2023 at 1:00 PK EDT.  Details at [events page](events/physicsclass). 
 
 ## Call for Proposals Upcoming Conferences
 
