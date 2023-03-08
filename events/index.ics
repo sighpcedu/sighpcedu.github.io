@@ -4,6 +4,17 @@ PRODID:-//gohugo.io//Hugo 92//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID: 7a881c2692ceb2d13825e5dd15add13e@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20230308T155425
+DTSTART:20230405T170000
+DTEND:20230405T180000
+SUMMARY:Computational Physics Webinar - Computational Physics in the Classroom - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Computational Physics Webinar - Computational Physics in the Classroom David Joiner, Rubin Landau, Robert Panoff, Richard Gass Wednesday, April 5 at 1:00 PM EDT. Join with zoom Abstract Presenters will discuss various aspects of integrating computational physics into the classroom Running classroom 3D Physics simulations with visualization in Unity Game Engine (David Joiner) Some CP Topics that Should be Taught, but Usually Aren&rsquo;t (Rubin Landau) Many Body for Anybody (Robert Panoff) The session will be moderated by Richard Gass
+CLASS:PUBLIC
+URL:https://sighpcedu.github.io/sighpcedu-website/events/physicsclass/
+END:VEVENT
+BEGIN:VEVENT
 UID: 5f4dd25d2234e2b3e0dc278742036520@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
