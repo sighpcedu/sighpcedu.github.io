@@ -1,5 +1,5 @@
 ---
-Title: Computational Physics Webinar: Computational Physics in the Classroom
+Title: Computational Physics Webinar - Computational Physics in the Classroom
 EventDate: 2023-04-05
 EventTime: 13:00:00
 TimeZone: America/Detroit
@@ -8,7 +8,7 @@ category: event
 Date: 2023-03-08T10:00:00-06:00
 ---
 
-## Computational Physics Webinar: Computational Physics in the Classroom
+## Computational Physics Webinar - Computational Physics in the Classroom
 
 David Joiner, Rubin Landau, Robert Panoff, Richard Gass
 
