@@ -7,7 +7,7 @@ weight: 10
 
 ## Upcoming Webinar
 
-Mark your calendars for the webinar Physics in the Classroom, April 5, 2023 at 1:00 PK EDT.  Details at [events page](events/physicsclass). 
+Mark your calendars for the webinar Physics in the Classroom, April 5, 2023 at 1:00 PK EDT.  Details at [events page](events). 
 
 ## Call for Proposals Upcoming Conferences
 
