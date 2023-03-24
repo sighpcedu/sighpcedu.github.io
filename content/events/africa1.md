@@ -14,7 +14,7 @@ Bryan Johnston, Binjamin Barsch
 
 **Friday, March 31**
 
-**15h30 SAST**
+**14h30 SAST**
 
 **8:30 AM EDT**
 
