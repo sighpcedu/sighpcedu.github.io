@@ -8,8 +8,8 @@ UID: b73b6d72b0becde9cdc9a9599911af9e@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
 DTSTAMP:20220822T140848
-DTSTART:20220215T160000
-DTEND:20220215T170000
+DTSTART:20220215T160000Z
+DTEND:20220215T170000Z
 SUMMARY:Outreach Event - Outreach - AMC SIGHPC Education ChapterDESCRIPTION:Events such as committee meetings and special events will be published here.
 CLASS:PUBLIC
 URL:https://sighpcedu.github.io/sighpcedu-website/committees/outreach/events/outreach-event/
@@ -19,8 +19,8 @@ UID: 32875fc25a63dbd0dfc0e20532332732@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
 DTSTAMP:20220822T140931
-DTSTART:20220110T224500
-DTEND:20220110T234500
+DTSTART:20220110T224500Z
+DTEND:20220110T234500Z
 SUMMARY:Past Event Example - Outreach - AMC SIGHPC Education ChapterDESCRIPTION:This area will show past events of the committee
 CLASS:PUBLIC
 URL:https://sighpcedu.github.io/sighpcedu-website/committees/outreach/events/past-event/
