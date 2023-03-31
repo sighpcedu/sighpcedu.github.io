@@ -16,8 +16,8 @@ STATUS:CONFIRMED
 SEQUENCE:0
 DTSTAMP:{{ $authorDate.Format "20060102T150405"}}
 {{ if .Params.AllDay }}DTSTART:{{ $dateTime.Format "20060102" }}
-{{else}}DTSTART:{{ $dateTime.Format "20060102T150405" }}
-DTEND:{{ $endTime.Format "20060102T150405" }}{{end}}
+{{else}}DTSTART:{{ $dateTime.Format "20060102T150405" }}Z
+DTEND:{{ $endTime.Format "20060102T150405" }}Z{{end}}
 SUMMARY:{{ .Title }} - {{ .Parent.Parent.Title }} - {{ .Site.Title }}
 {{- if .Params.Location }}
 LOCATION:{{ .Params.Location }}
