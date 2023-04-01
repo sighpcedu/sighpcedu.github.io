@@ -1,0 +1,21 @@
+08:51:21	 From  Alex Feltus : What is the githlab link Bryan?  https://hpc-ecosystems.gitlab.io/ is what I had.
+08:58:14	 From  Bryan bjohnston@csir.co.za : @alex Edge condensed the link, sorry -- https://hpc-ecosystems.gitlab.io/training/openhpc-101/#/
+09:00:32	 From  Alex Feltus : Thanks!  This seminar is helping me understand the layout of the land.
+09:06:39	 From  Bryan bjohnston@csir.co.za : not a power 'issue' - it's a 'crisis' :-)
+09:27:09	 From  Julia Mullen : Are these primarily graduate students?
+09:27:36	 From  Bryan bjohnston@csir.co.za : yes, if you mean as opposed to undergraduate students (some did sneak through though)
+09:30:34	 From  Julia Mullen : Great presentations!  Thank you
+09:33:05	 From  Julia Mullen : We see that problem all the time
+09:37:12	 From  Binjamin Barsch : Please share any online courses on an introduction to Linux and shell that you can recommend. We are always looking to improve on ours.
+09:37:36	 From  Julia Mullen : jsm@ll.mit.edu
+09:37:55	 From  Julia Mullen : https://learn.llx.edly.io
+09:38:23	 From  Bryan bjohnston@csir.co.za : also the google group COP for HPC Education
+09:39:15	 From  Bryan bjohnston@csir.co.za : @Alex there is an HPC Outreach Community of Practice group that we formed at SC22: https://groups.google.com/g/hpc-outreach-cop
+09:40:16	 From  Berny Chaimite : Reacted to "https://learn.llx.ed..." with 👍
+09:40:42	 From  Alex Feltus : An excellent RCD/HPC+ collaborative group in the US is Campus Research Computing Consortium (CARCC): https://carcc.org/
+09:41:13	 From  Elliotjere : I am new to hpc  I have some hands on experience working with HPC+openhpc can anyone explain the theme of this meeting?
+09:42:50	 From  Bryan bjohnston@csir.co.za : @Elliot this is SIG HPC Education Seminar Series; talking about Education-related topics for HPC (training, outreach, learning, skills development, lessons learned, tips, tools, etc.)
+09:44:37	 From  Elliotjere : Thanks @Bryan
+09:45:00	 From  Scott Callaghan : https://sighpceducation.acm.org/
+09:45:01	 From  Julia Mullen : Thank you Binjamin and Bryan
+09:45:07	 From  Bryan bjohnston@csir.co.za : thanks everyone!
