@@ -12,17 +12,13 @@ Date: 2023-03-22T10:00:00-06:00
 
 Bryan Johnston, Binjamin Barsch
 
-**Friday, March 31**
+**Friday, March 31 2023 at 08:30 AM EDT**
 
-**14h30 SAST**
-
-**8:30 AM EDT**
-
-**20h30 AWST**
-
-**13h30 UK**
-
-[Join with zoom](https://us02web.zoom.us/j/87688196943?pwd=bkNib2NoY05GdC9Rc0xvZHF4SmNidz09)
+- [YouTube Video](https://www.youtube.com/watch?v=tjA_-wlWRKk)
+- Presentation Slides
+- - [Talk #01](../files/20230331_SIGHPCEduGlobalSeminarSeries_01_TowardsSustainableHPCWorkforceDevelopmentForHPCEcosystemsCommunityInAfrica.pptx)
+- - [Talk #02](../files/20230331_SIGHPCEduGlobalSeminarSeries_02_ReachingNewHeightsInCoding.pdf)
+- [Meeting chat transcript](../files/20230331_SIGHPCEduGlobalSeminarSeries_Chat.txt)
 
 
 ## Abstract
