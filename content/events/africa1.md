@@ -15,10 +15,8 @@ Bryan Johnston, Binjamin Barsch
 **Friday, March 31 2023 at 08:30 AM EDT**
 
 - [YouTube Video](https://www.youtube.com/watch?v=tjA_-wlWRKk)
-- Presentation Slides
-- - [Talk #01](../files/20230331_SIGHPCEduGlobalSeminarSeries_01_TowardsSustainableHPCWorkforceDevelopmentForHPCEcosystemsCommunityInAfrica.pptx)
-- - [Talk #02](../files/20230331_SIGHPCEduGlobalSeminarSeries_02_ReachingNewHeightsInCoding.pdf)
-- [Meeting chat transcript](../files/20230331_SIGHPCEduGlobalSeminarSeries_Chat.txt)
+- Presentation Slides: [Talk #01](../files/20230331_SIGHPCEduGlobalSeminarSeries_01_TowardsSustainableHPCWorkforceDevelopmentForHPCEcosystemsCommunityInAfrica.pptx) | [Talk #02](../files/20230331_SIGHPCEduGlobalSeminarSeries_02_ReachingNewHeightsInCoding.pdf)
+- [Chat Transcript](../files/20230331_SIGHPCEduGlobalSeminarSeries_Chat.txt)
 
 
 ## Abstract
