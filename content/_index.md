@@ -15,7 +15,7 @@ Details at [events page](events).
 
 ## Global Webinar Recording and Presentation Files
 
-SIGHPC Education Global Seminar Series materials can be found on the this page [africa page](events/africa1). 
+SIGHPC Education Global Seminar Series materials can be found on the this page [global event page](events/africa1). 
 
 ## Call for Proposals Upcoming Conferences
 
