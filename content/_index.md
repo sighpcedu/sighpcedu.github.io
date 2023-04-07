@@ -5,17 +5,15 @@ weight: 10
 
 # Announcements
 
-## Upcoming Webinar
+## Recent Webinars
 
-Mark your calendars for two upcoming webinar.
+### Physics in the Classroom, April 5, 2023 at 1:00 PK EDT.  
 
-Physics in the Classroom, April 5, 2023 at 1:00 PK EDT.  
+Links to the video and presentation at [this events page](events/physicsclass). 
 
-Details at [events page](events). 
+### Global Webinar Recording and Presentation Files
 
-## Global Webinar Recording and Presentation Files
-
-SIGHPC Education Global Seminar Series materials can be found on the this page [global event page](events/africa1). 
+Links to the materials can be found on [global event page](events/africa1). 
 
 ## Call for Proposals Upcoming Conferences
 
