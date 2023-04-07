@@ -14,15 +14,15 @@ David Joiner, Rubin Landau, Robert Panoff, Richard Gass
 
 **Wednesday, April 5 at 1:00 PM EDT.**
 
-[Join with zoom](https://us02web.zoom.us/j/84696253404?pwd=bCthci9icjVTaHI2cFVGVmZWay9aUT09)
-
+- [YouTube Video](https://youtu.be/RzKrVoDsEyQ)
+- Presentation Slides: [Talk #01](../files/Computational_Physics_for_Physics_Educators.pdf) | [Talk #02](http://www.shodor.org/talks/manybody) | [Talk #03](../files/landau.pdf)
 
 ## Abstract
  
 Presenters will discuss various aspects of integrating computational physics into the classroom
 
 - Running classroom 3D Physics simulations with visualization in Unity Game Engine (David Joiner)
-- Some CP Topics that Should be Taught, but Usually Aren't (Rubin Landau)
 - Many Body for Anybody (Robert Panoff)
+- Some CP Topics that Should be Taught, but Usually Aren't (Rubin Landau)
 
-The session will be moderated by Richard Gass
+The session was moderated by Richard Gass
