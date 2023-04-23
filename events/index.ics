@@ -37,17 +37,6 @@ CLASS:PUBLIC
 URL:https://sighpcedu.github.io/sighpcedu-website/events/eessi/
 END:VEVENT
 BEGIN:VEVENT
-UID: 795f43e87a5e8cd1fbff375fe5951dc7@sighpceducation.acm.org
-STATUS:CONFIRMED
-SEQUENCE:0
-DTSTAMP:20230104T234554
-DTSTART:20230525T150000Z
-DTEND:20230525T160000Z
-SUMMARY:HETET23 Call for Papers - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Call for Papers Workshop on HPC Education and Training for Emerging Technologies (HETET23) ISC23 Conference https://www.isc-hpc.com/ High performance computing has become central for empowering progress in diverse scientific and non-scientific domains. With the advent of myriad different technologies in the post peta-scale computing era, the future of HPC involves a significantly greater degree of parallelism than we are observing currently. The rapid advancement and introduction of new processing technologies for HPC has facilitated the convergence of Artificial Intelligence (AI) and Machine Learning (ML), Data Analytics and Big Data and the High Performance Computing (HPC) domains platforms to solve complex large-scale real-time analytics and scientific applications pertaining to diverse scientific and non-scientific fields.
-CLASS:PUBLIC
-URL:https://sighpcedu.github.io/sighpcedu-website/events/hetet23_cfp/
-END:VEVENT
-BEGIN:VEVENT
 UID: 77a4dd17b90df573d421ae4bc96e8dec@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
