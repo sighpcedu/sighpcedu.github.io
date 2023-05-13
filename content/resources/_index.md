@@ -17,6 +17,10 @@ Our members have assembled a list of resources for undergraduates seeking HPC an
 [Undergraduate Summer Opportunities]({{< relref "ugsummerresources" >}})
 //-->
 
+## Read Our Blog
+
+Our blog has short articles that include interviews with students, faculty, and staff involved in computational science education.  It also highlights examples of education and training programs.  You can find it [here](http://sighpceducation.hosting.acm.org/wp/).
+
 ## HPC Resources
 
 We have assembled a list of resources that include links to those just getting started with HPC to intermedicate and advanced users.
