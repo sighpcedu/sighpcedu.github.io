@@ -7,7 +7,7 @@ BEGIN:VEVENT
 UID: f3883dba23648cf2d24eae6da16cf20c@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
-DTSTAMP:20230531T135838
+DTSTAMP:20230531T153118
 DTSTART:20230608T150000Z
 DTEND:20230608T160000Z
 SUMMARY:Three years of the ARCHER2 training service - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:SIGHPC Education Global Seminar Series - Three years of the ARCHER2 training service - a retrospective and forward look Juan Rodriguez Herrera Thursday, June 8 16:00 BST 11:00 AM EDT Join with zoom Abstract The ARCHER2 training service started in April 2020 with an online programme of courses and virtual tutorials. EPCC, as part of the ARCHER2 UK National service, deliver a training programme that covers a wide range of scientific disciplines and technology platforms, and addresses the training requirements of users with different needs and level of experience.
