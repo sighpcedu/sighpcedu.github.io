@@ -5,19 +5,18 @@ weight: 10
 
 # Announcements
 
-## Recent Webinars
+## Upcoming Webinar June 8, 2023
 
-### Physics in the Classroom, April 5, 2023 at 1:00 PK EDT.  
+### Three years of the ARCHER2 training service - a retrospective and forward look  
 
-Links to the video and presentation at [this events page](events/physicsclass). 
+June 8, 2023 at 11 AM EDT, 16:00 BST
 
-### Global Webinar Recording and Presentation Files
+Details and [Webinar link](events/archer2). 
 
-Links to the materials can be found on [global event page](events/africa1). 
 
 ## Call for Proposals Upcoming Conferences
 
-Our workshop committee has posted a call for proposals for three upcoming conferences.  Please consider submitting a paper or talk.  You can find the announcements [here](events/).
+Our workshop committee has posted a call for proposals for upcoming conferences.  Please consider submitting a paper or talk.  You can find the announcements [here](events/).
 ## Announcement of the Award for Outstanding Contributions to Computational Science Education
 
 The SIGHPC Education Chapter is pleased to announce the first recipient of the award for Outstanding Contributions to Computational Science Education.  Dr. Robert Panoff has been named the first award recipient.  You can see details about Dr. Panoff and the award [here](/events/award_announce).
