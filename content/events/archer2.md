@@ -1,11 +1,11 @@
 ---
 Title: Three years of the ARCHER2 training service
-EventDate: 2023-06-3108
+EventDate: 2023-06-08
 EventTime: 11:00:00
 TimeZone: America/Detroit
 category: event
 # Published date:
-Date: 2023-05-23T01:00:00-06:00
+Date: 2023-05-30T01:00:00-06:00
 ---
 
 ## SIGHPC Education Global Seminar Series - Three years of the ARCHER2 training service - a retrospective and forward look
