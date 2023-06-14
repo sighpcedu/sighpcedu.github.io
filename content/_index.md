@@ -5,13 +5,11 @@ weight: 10
 
 # Announcements
 
-## Upcoming Webinar June 8, 2023
+## Watch the video of the June 8 webinar
 
 ### Three years of the ARCHER2 training service - a retrospective and forward look  
 
-June 8, 2023 at 11 AM EDT, 16:00 BST
-
-Details and [Webinar link](events/archer2). 
+[Webinar link](events/archer2). 
 
 
 ## Call for Proposals Upcoming Conferences
