@@ -4,7 +4,8 @@
   "description": "The Website for the ACM SigHPC Education Chapter",
   "main": "index.js",
   "scripts": {
-    "css": "npx tailwindcss -i assets/css/main.css -o assets/css/built.css"
+    "css": "npx tailwindcss -i assets/css/main.css -o assets/css/built.css",
+    "dev": "hugo serve"
   },
   "author": "Georgia Stuart",
   "license": "CC-BY-SA-2.5",
