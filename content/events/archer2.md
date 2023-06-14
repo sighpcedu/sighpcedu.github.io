@@ -18,7 +18,7 @@ Juan Rodriguez Herrera
 
 **11:00 AM EDT**
 
-[Join with zoom](https://us02web.zoom.us/j/83550560881?pwd=VDcvTHFPcTJEcVpnbTBoZzl2WHd1dz09)
+[YouTube Video](https://youtu.be/IJv0LLTwZkM)
 
 
 ## Abstract
