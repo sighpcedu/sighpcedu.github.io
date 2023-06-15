@@ -2,8 +2,13 @@
 <div class="w-full h-14 bg-acm-blue-600">
     <div class="container flex items-center mx-auto h-full text-gray-50 text-lg">
         {{ $logo := resources.Get "logos/sighpc-edu-logo-white-01.svg" | resources.Minify | fingerprint }}
-        <a href="{{ .Site.BaseURL }}">
+        {{ $logoChapter := resources.Get "logos/acm-chapter-logo.png" | fingerprint }}
+        <a href="{{ .Site.BaseURL }}" class="flex">
             <object class="h-10 pr-6 pointer-events-none" data="{{ $logo.RelPermalink }}" type="image/svg+xml">
+                <!-- Fallback -->
+                <div class="text-2xl">SigHPC Education</div>
+            </object>
+            <object class="h-10 pr-6 pointer-events-none" data="{{ $logoChapter.RelPermalink }}" type="image/jpeg">
                 <!-- Fallback -->
                 <div class="text-2xl">SigHPC Education</div>
             </object>
