@@ -1,6 +1,6 @@
 ---
 menu: main
-Title: News
+Title: Events
 weight: 30
 type: events
 ---
