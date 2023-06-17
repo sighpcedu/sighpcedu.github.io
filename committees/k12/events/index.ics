@@ -4,7 +4,7 @@ PRODID:-//gohugo.io//Hugo 92//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID: c9ba4e9230dec7185fd4463cee6e6e7a@sighpceducation.acm.org
+UID: 994c9bb58dd470436fb7415a2d3e09a9@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
 DTSTAMP:20220822T144425
@@ -12,10 +12,10 @@ DTSTART:20220215T160000Z
 DTEND:20220215T170000Z
 SUMMARY:Outreach Event - K-12 Education - AMC SIGHPC Education ChapterDESCRIPTION:This will show a list of upcoming events
 CLASS:PUBLIC
-URL:https://sighpcedu.github.io/sighpcedu-website/committees/k12/events/outreach-event/
+URL:https://sighpceducation.acm.org/committees/k12/events/outreach-event/
 END:VEVENT
 BEGIN:VEVENT
-UID: 4660b233d621052e5da3236b61ad1101@sighpceducation.acm.org
+UID: 42f075548f71167680004a420b2a879c@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
 DTSTAMP:20220822T144451
@@ -23,6 +23,6 @@ DTSTART:20220110T224500Z
 DTEND:20220110T234500Z
 SUMMARY:Past Event Example - K-12 Education - AMC SIGHPC Education ChapterDESCRIPTION:This page will have summaries of past events
 CLASS:PUBLIC
-URL:https://sighpcedu.github.io/sighpcedu-website/committees/k12/events/past-event/
+URL:https://sighpceducation.acm.org/committees/k12/events/past-event/
 END:VEVENT
 END:VCALENDAR

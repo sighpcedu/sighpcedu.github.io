@@ -4,7 +4,7 @@ PRODID:-//gohugo.io//Hugo 92//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID: 8a056f9ad88d538de4fdf3e63a153355@sighpceducation.acm.org
+UID: e18d281325b9d0ab30aa563fa80f4f6a@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
 DTSTAMP:20220822T170108
@@ -12,10 +12,10 @@ DTSTART:20220215T160000Z
 DTEND:20220215T170000Z
 SUMMARY:Outreach Event - Systems Professionals - AMC SIGHPC Education ChapterDESCRIPTION:This page will display upcoming events such as committee meetings and special events
 CLASS:PUBLIC
-URL:https://sighpcedu.github.io/sighpcedu-website/committees/systems-professionals/events/outreach-event/
+URL:https://sighpceducation.acm.org/committees/systems-professionals/events/outreach-event/
 END:VEVENT
 BEGIN:VEVENT
-UID: f391a2d148f0fabb1239a1e010a6bc5d@sighpceducation.acm.org
+UID: 6597559d6806325a3f45d199e9631b40@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
 DTSTAMP:20220822T170134
@@ -23,6 +23,6 @@ DTSTART:20220110T224500Z
 DTEND:20220110T234500Z
 SUMMARY:Past Event Example - Systems Professionals - AMC SIGHPC Education ChapterDESCRIPTION:This page will display past events of the committee
 CLASS:PUBLIC
-URL:https://sighpcedu.github.io/sighpcedu-website/committees/systems-professionals/events/past-event/
+URL:https://sighpceducation.acm.org/committees/systems-professionals/events/past-event/
 END:VEVENT
 END:VCALENDAR

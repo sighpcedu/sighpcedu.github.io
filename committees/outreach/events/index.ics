@@ -4,7 +4,7 @@ PRODID:-//gohugo.io//Hugo 92//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID: b73b6d72b0becde9cdc9a9599911af9e@sighpceducation.acm.org
+UID: ad049c61534f28cb837abcde8e5a7735@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
 DTSTAMP:20220822T140848
@@ -12,10 +12,10 @@ DTSTART:20220215T160000Z
 DTEND:20220215T170000Z
 SUMMARY:Outreach Event - Outreach - AMC SIGHPC Education ChapterDESCRIPTION:Events such as committee meetings and special events will be published here.
 CLASS:PUBLIC
-URL:https://sighpcedu.github.io/sighpcedu-website/committees/outreach/events/outreach-event/
+URL:https://sighpceducation.acm.org/committees/outreach/events/outreach-event/
 END:VEVENT
 BEGIN:VEVENT
-UID: 32875fc25a63dbd0dfc0e20532332732@sighpceducation.acm.org
+UID: 1b1e7583b01c5cd9982e8de0097f4880@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
 DTSTAMP:20220822T140931
@@ -23,6 +23,6 @@ DTSTART:20220110T224500Z
 DTEND:20220110T234500Z
 SUMMARY:Past Event Example - Outreach - AMC SIGHPC Education ChapterDESCRIPTION:This area will show past events of the committee
 CLASS:PUBLIC
-URL:https://sighpcedu.github.io/sighpcedu-website/committees/outreach/events/past-event/
+URL:https://sighpceducation.acm.org/committees/outreach/events/past-event/
 END:VEVENT
 END:VCALENDAR
