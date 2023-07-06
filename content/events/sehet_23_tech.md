@@ -1,3 +1,12 @@
+---
+Title: SEHET23 Technical Progam
+EventDate: 2023-07-23
+EventTime: 6:30:00
+TimeZone: America/Detroit
+category: event
+# Published date:
+Date: 2023-07-05T12:00:00-06:00
+---
 # [Sixth Workshop on Strategies for Enhancing HPC Education and Training (SEHET23)](https://web.cvent.com/event/432c5157-4c39-4db1-a2cd-d6bba1ddc25d/websitePage:645d57e4-75eb-4769-b2c0-f201a0bfc6ce)
 
  # Technical Program
