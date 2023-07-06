@@ -48,17 +48,6 @@ CLASS:PUBLIC
 URL:https://sighpceducation.acm.org/events/eessi/
 END:VEVENT
 BEGIN:VEVENT
-UID: 1e09ba8419f5b56d828f1da6f881f68b@sighpceducation.acm.org
-STATUS:CONFIRMED
-SEQUENCE:0
-DTSTAMP:20230104T143825
-DTSTART:20230723T150000Z
-DTEND:20230723T160000Z
-SUMMARY:SEHET23 Call for Papers - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:SEHET23 Call for Papers PEARC23 Conference Portland, Oregon July 23-27, 2023 https://pearc.acm.org/pearc23/ Sixth Workshop on Strategies for Enhancing HPC Education and Training (SEHET23) The SEHET23 workshop is an ACM SIGHPC Education Chapter coordinated effort aimed at fostering collaborations among the practitioners from traditional and emerging fields to explore strategies to enhance computational, data-enabled and HPC educational needs. Attendees will discuss approaches for developing and deploying HPC training and education, as well as identifying new challenges and opportunities for keeping pace with the rapid pace of technological advances - from collaborative and online learning tools to new HPC platforms.
-CLASS:PUBLIC
-URL:https://sighpceducation.acm.org/events/sehet23_cfp/
-END:VEVENT
-BEGIN:VEVENT
 UID: d58ec10cbb86b2c84d7b02c4fc5d3e32@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
