@@ -4,6 +4,17 @@ PRODID:-//gohugo.io//Hugo 92//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID: 3502431371f803ce6de647f59fc93727@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20230706T200523
+DTSTART:20230723T103000Z
+DTEND:20230723T113000Z
+SUMMARY:SEHET23 Technical Progam - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Sixth Workshop on Strategies for Enhancing HPC Education and Training (SEHET23) Technical Program Monday July 24, 2023 Time: 8:30 AM - 11:30 AM (PST) 08:30 AM-8:45 AM Welcome SIGHPC Education Chapter Nitin Sukhija, Slippery Rock University of Pennsylvania 8:45 AM -10:45 AM Paper Session 8:45 AM -9:00 AM &ldquo;Assessing Shared Material Usage in the High Performance Computing (HPC) Education and Training Community&rdquo;. Susan Mehringer, Katharine Cahill, Charlie Dey, Scott Lathrop, J-P Navarro, Jeaime Powell and Mary Thomas
+CLASS:PUBLIC
+URL:https://sighpceducation.acm.org/events/sehet_23_tech/
+END:VEVENT
+BEGIN:VEVENT
 UID: 5460023896e1c14fd1f7cd2ce3be03f8@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
