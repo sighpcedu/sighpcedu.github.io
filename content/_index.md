@@ -29,7 +29,7 @@ Membership is open in anyone interested in computational science and HPC educati
 
 ## Read Our Blog
 
-Our blog has short articles that include interviews with students, faculty, and staff involved in computational science education.  It also highlights examples of education and training programs.  You can find it [here](http://sighpceducation.hosting.acm.org/wp/).
+Our blog has short articles that include interviews with students, faculty, and staff involved in computational science education.  It also highlights examples of education and training programs.  You can find it [here](https://blog.sighpceducation.acm.org/wp).
 
 ## Find Out About Our Activities and Volunteer to Participate
 
