@@ -62,9 +62,9 @@ BEGIN:VEVENT
 UID: d58ec10cbb86b2c84d7b02c4fc5d3e32@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
-DTSTAMP:20230104T143036
-DTSTART:20231112T150000Z
-DTEND:20231112T160000Z
+DTSTAMP:20231003T135647
+DTSTART:20230812T140000Z
+DTEND:20230812T150000Z
 SUMMARY:BPHTE23 Call for Papers - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:BPHTE23 CFP Call for Papers Tenth SC Workshop on Best Practices for HPC Training and Education (BPHTE23) November 12-17, 2023 Held in conjunction with SC23: The International Conference on High Performance Computing, Networking, Storage, and Analysis https://sc23.supercomputing.org/ Since 2014, the Best Practices for HPC Training workshop series at SC has provided a global forum for addressing common challenges and solutions for enhancing HPC training and education, for sharing information through large and small group discussions, and for fostering collaboration opportunities.
 CLASS:PUBLIC
 URL:https://sighpceducation.acm.org/events/bphte23cfp/
