@@ -4,17 +4,6 @@ PRODID:-//gohugo.io//Hugo 92//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID: 6961c4c8168b7bc2dd21c56fc95473b9@sighpceducation.acm.org
-STATUS:CONFIRMED
-SEQUENCE:0
-DTSTAMP:20231003T133114
-DTSTART:20231111T140000Z
-DTEND:20231111T150000Z
-SUMMARY:BPHTE23 Technical Program - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Tenth SC Workshop on Best Practices for HPC Training and Education BPHTE23 Wednesday November 11, 2020 Time: 10 AM - 6:30 PM (EST) 10:00 PM-10:15 AM Welcome SIGHPC Education Chapter Nitin Sukhija, Slippery Rock University of Pennsylvania 10:15 AM -12:00 PM Session I: (Chair: Scott Lathrop) 10:15 AM -10:30 AM DeapSECURE Computational Training for Cybersecurity Student: Improvements, Mid-Stage Evaluation, and Lessons Learned. Purwanto, He, Ossom, Zhang, Zhu, Arcaute, Sosonkina, Wu
-CLASS:PUBLIC
-URL:https://sighpceducation.acm.org/events/bphte20_technical_program/
-END:VEVENT
-BEGIN:VEVENT
 UID: 3502431371f803ce6de647f59fc93727@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -310,6 +299,17 @@ DTEND:20221208T160000Z
 SUMMARY:SIGHPC Education Chapter Annual Meeting - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:SIGHPC Education Chapter Annual Meeting Come join us for our annual chapter meeting! This is a great opportunity to interact with chapter leadership, learn about ongoing projects, and help us shape our priorities for the upcoming year. Thursday, December 8, 10-11 am EST Post-meeting notes and presentation archive Meeting recording Meeting chat transcript Meeting notes Jamboard Chapter presentation Committee presentations Outreach committee Computational science education committee K-12 committee SYSPROS committee Workshop committee 
 CLASS:PUBLIC
 URL:https://sighpceducation.acm.org/events/annual22/
+END:VEVENT
+BEGIN:VEVENT
+UID: 6961c4c8168b7bc2dd21c56fc95473b9@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20231003T133642
+DTSTART:20201111T140000Z
+DTEND:20201111T150000Z
+SUMMARY:BPHTE20 Technical Program - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Tenth SC Workshop on Best Practices for HPC Training and Education BPHTE23 Wednesday November 11, 2020 Time: 10 AM - 6:30 PM (EST) 10:00 PM-10:15 AM Welcome SIGHPC Education Chapter Nitin Sukhija, Slippery Rock University of Pennsylvania 10:15 AM -12:00 PM Session I: (Chair: Scott Lathrop) 10:15 AM -10:30 AM DeapSECURE Computational Training for Cybersecurity Student: Improvements, Mid-Stage Evaluation, and Lessons Learned. Purwanto, He, Ossom, Zhang, Zhu, Arcaute, Sosonkina, Wu
+CLASS:PUBLIC
+URL:https://sighpceducation.acm.org/events/bphte20_technical_program/
 END:VEVENT
 BEGIN:VEVENT
 UID: 7fd6077c8a5ec4fad55884df8ff2001b@sighpceducation.acm.org
