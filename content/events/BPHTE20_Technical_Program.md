@@ -1,11 +1,11 @@
 ---
-Title: BPHTE20 Technical Program
-EventDate: 2020-11-11
+Title: BPHTE23 Technical Program
+EventDate: 2023-11-11
 EventTime: 09:00:00
 TimeZone: America/Detroit
 category: event
 # Published date:
-Date: 2022-08-18T11:00:00-06:00
+Date: 2023-10-02T9:00:00-06:00
 ---
 
 
