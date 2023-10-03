@@ -1,6 +1,6 @@
 ---
 Title: BPHTE23 Call for Papers
-EventDate: 2023-11-12
+EventDate: 2023-08-12
 EventTime: 10:00:00
 TimeZone: US/Eastern
 category: event
