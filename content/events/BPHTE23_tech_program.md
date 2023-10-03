@@ -1,6 +1,5 @@
 ---
-Title: Tenth SC Workshop on
-Best Practices for HPC Training and Education (BPHTE23)
+Title: Tenth SC Workshop on Best Practices for HPC Training and Education BPHTE23
 EventDate: 2023-11-13
 EventTime: 13:00:00
 TimeZone: America/Detroit
@@ -9,9 +8,7 @@ category: event
 Date: 2023-10-02T-9:00:00-06:00
 ---
 
-
-[Tenth SC Workshop on  
-Best Practices for HPC Training and Education (BPHTE23)](https://urldefense.com/v3/__https://sc23.supercomputing.org/presentation/?id=wksp124&sess=sess122__;!!LIr3w8kk_Xxm!pz1GH06yeGencE1jnxOJdAwS1qaO7XYAzkPDNFBU3lb12E3qRpZIjnBogQV04LXIOqWnfHN3Xq_3oPPnaUdywbQ$)
+## [Tenth SC Workshop on Best Practices for HPC Training and Education BPHTE23](https://urldefense.com/v3/__https://sc23.supercomputing.org/presentation/?id=wksp124&sess=sess122__;!!LIr3w8kk_Xxm!pz1GH06yeGencE1jnxOJdAwS1qaO7XYAzkPDNFBU3lb12E3qRpZIjnBogQV04LXIOqWnfHN3Xq_3oPPnaUdywbQ$)
 
   
 
