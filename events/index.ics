@@ -315,7 +315,7 @@ BEGIN:VEVENT
 UID: 7fd6077c8a5ec4fad55884df8ff2001b@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
-DTSTAMP:20231003T133524
+DTSTAMP:20231003T135058
 DTSTART:20231113T180000Z
 DTEND:20231113T190000Z
 SUMMARY:Tenth SC Workshop on Best Practices for HPC Training and Education BPHTE23 - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Tenth SC Workshop on Best Practices for HPC Training and Education BPHTE23 Monday November 13, 2023 Time: 2:00 PM - 5:30 PM (MST) 2:00 PM-2:15 P.M HPC Education Training and Education: Challenges and Opportunities Nitin Sukhija, Slippery Rock University of Pennsylvania 2:15 PM-3:00 P.M Paper Session I 2:15 PM-2:30 P.M Expanding Horizons: Advancing HPC Education in Colombia through CyberColombia&rsquo;s Summer Schools. Carlos Alvarez, Aurelio Vivas, Jose Manuel Monsalve Diaz, Harold Castro, Esteban Hernandez and Juan Lalinde
