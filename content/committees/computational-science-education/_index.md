@@ -6,7 +6,7 @@ title: Computational Science Education
 
 ## Committee Description
 
-This committee will be responsible to develop strategies to incorporate and/or enhance computational science education at all levels of education.
+This committee will be responsible for developing strategies to incorporate and/or enhance computational science education at all levels of education.
 
 The committee will explore education programs and instructional materials for computational and data science across the curriculum. This committee is charged with making available educational material relating to computational science and High Performance Computing. To accomplish this, the committee has assembled and maintains a list of related educational resources They also work with the Outreach Committee to identify and promote reviews of education and training content through webinars and chapter blog.
 
