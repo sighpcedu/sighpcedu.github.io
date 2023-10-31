@@ -315,7 +315,7 @@ BEGIN:VEVENT
 UID: 51a8ba6ba9deef19e9dde33eafdf1e7c@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
-DTSTAMP:20231031T125419
+DTSTAMP:20231031T130716
 DTSTART:20240315T170000Z
 DTEND:20240315T180000Z
 SUMMARY:Award 2024 - SigHPCEdu Website - AMC SIGHPC Education ChapterDESCRIPTION:Educational Award For Outstanding Contribution to Computational Science Education The ACM SIGHPC Education Chapter is announcing an upcoming call for nominations for the 2024 education award to recognize outstanding contributions to computational, data-enabled science, and HPC education and training in all disciplines. The call for nominations will be issued in March, 2024 with a deadline for submissions on May 31 2024. We are seeking candidates who have led projects or programs that have made significant contributions to computational science education defined broadly to include all disciplines and all education levels.
