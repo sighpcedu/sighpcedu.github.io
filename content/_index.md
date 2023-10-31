@@ -5,20 +5,13 @@ weight: 10
 
 # Announcements
 
-## Watch the video of the June 8 webinar
+## Preliminary Call for Nominations
 
-### Three years of the ARCHER2 training service - a retrospective and forward look  
+### The chapter is announcing the call for nominations for the 2024 Educational Award For Outstanding Contribution to Computational Science Education.  [See the announcement dates.](events/award24)
 
-[Webinar link](events/archer2). 
+## Education Activities at SC2023
 
-
-## Call for Proposals Upcoming Conferences
-
-Our workshop committee has posted a call for proposals for upcoming conferences.  Please consider submitting a paper or talk.  You can find the announcements [here](events/).
-## Announcement of the Award for Outstanding Contributions to Computational Science Education
-
-The SIGHPC Education Chapter is pleased to announce the first recipient of the award for Outstanding Contributions to Computational Science Education.  Dr. Robert Panoff has been named the first award recipient.  You can see details about Dr. Panoff and the award [here](/events/award_announce).
-
+We have compiled a list of education and training events taking place at SC2024.  See the list [here](events/).
 ## About the Chapter
 
 [About the Chapter](./about/)
