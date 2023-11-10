@@ -57,7 +57,7 @@ Education and Training Manager
 Pawsey Supercomputing Centre  
 ann.backhaus(at)pawsey.org.au  
 
-**_Bryan Johnston_**
-Senior HPC Technologist
-Centre for High Performance Computing
-bjohnston(at)csir.co.za
+**_Bryan Johnston_**  
+Senior HPC Technologist  
+Centre for High Performance Computing  
+bjohnston(at)csir.co.za  
