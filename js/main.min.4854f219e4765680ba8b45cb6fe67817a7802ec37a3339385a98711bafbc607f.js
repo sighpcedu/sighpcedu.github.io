@@ -3,4 +3,4 @@ function closeSearch(e){e.classList.add("hidden")}function openSearch(){document
 <a href="${e.url}"><div class="font-display mb-2">${e.meta.title}</div></a>
 <p onclick="location.href='${e.url}';" class="cursor-pointer">${e.excerpt}</p>
 </div>
-        `,n.classList.add("search-item"),t.appendChild(n)}else n?t.textContent=`No results found for search term "${n}"`:t.textContent=`Enter a search term`}}
+        `,n.classList.add("search-item"),t.appendChild(n)}else n?t.textContent=`No results found for search term "${n}"`:t.textContent=`Enter a search term`}}function toggleNav(){let e=document.querySelector("#nav-menu-mobile"),t=document.querySelector("#nav-toggle-closed"),n=document.querySelector("#nav-toggle-open");e.classList.contains("hidden")?(e.classList.remove("hidden"),e.classList.add("flex"),t.classList.add("hidden"),n.classList.remove("hidden")):(e.classList.remove("flex"),e.classList.add("hidden"),t.classList.remove("hidden"),n.classList.add("hidden"))}
