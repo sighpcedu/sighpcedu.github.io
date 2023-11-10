@@ -40,10 +40,10 @@ Kean University
 djoiner@keen.edu  
 
 **_Georgia Stuart_**  
-Cyberinfrastructure & Research Support  
-Office of Information Technology  
-The University of Texas at Dallas  
-georgia.stuart[at]utdallas.edu  
+Research Scientist & Lead HPC Facilitator  
+Research Computing & Data  
+University of Massachusetts Amherst  
+gstuart@umass.edu 
 
 ### European, Asia/Pacific, and African At Large Board Members
 
