@@ -2,6 +2,6 @@
 <main id="content" class="container mx-auto px-4 max-w-5xl">
 	{{ partial "breadcrumb.html" . }}
   <a href="{{ .RelPermalink }}"><h1>{{ .Title }}</h1></a>
-	{{ .Content }}
+	<div data-pagefind-body>{{.Content}}</div>
 </main>
 {{ end }}

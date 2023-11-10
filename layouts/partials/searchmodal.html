@@ -1,0 +1,14 @@
+<div class="hidden fixed top-0 left-0 w-screen h-screen z-50 flex place-content-center items-center search-box bg-zinc-800/40 backdrop-blur-sm" onclick="closeSearch(this)" id="search-modal">
+  <div onclick="event.stopPropagation()" class="flex flex-col drop-shadow-md rounded-lg w-5/6 h-5/6 lg:w-3/5 lg:h-3/4 bg-zinc-50 border-zinc-300">
+    <div class="flex p-4 items-center">
+      <div class="border border-zinc-200 rounded-md p-2 flex flex-grow items-center text-zinc-400  focus-within:border-acm-orange focus-within:text-acm-orange">
+        <span class="material-symbols-rounded pr-2">search</span>
+        <form autocomplete="off"  onsubmit="return false;">
+          <input class="bg-transparent focus:outline-none" type="text" placeholder="search" id="search-modal-input" onkeyup="search(this, event);">
+        </form> 
+      </div>
+      <div class="material-symbols-rounded ml-4 flex-shrink text-2xl cursor-pointer" onclick="closeSearch(document.getElementById('search-modal'))">close</div>
+    </div>
+    <div id="search-results" class="p-4 overflow-y-auto"></div>
+  </div>
+</div>

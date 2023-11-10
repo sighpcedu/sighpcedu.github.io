@@ -13,12 +13,12 @@
     </div>
     <div class="col-span-3">
         {{ partial "breadcrumb.html" . }}
-        <div id="content">
+        <div data-pagefind-body id="content">
           {{ $dateTime := time (print .Params.EventDate (string "T") .Params.EventTime) .Params.TimeZone }}
           <div class="pb-2"><h1 class="pb-0"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
           <div class="text-gray-600 italic flex items-center"><span class="material-symbols-rounded pr-2">schedule</span>{{ $dateTime.Format "Monday, January 2, 2006 at 3:04 PM MST" }} </div>
           {{ if .Params.location }}<div class="text-gray-600 italic flex items-center"><span class="material-symbols-rounded pr-2">location_on</span>{{ .Params.location }} </div>{{ end }}</div>
-          {{ .Content }}
+          <div >{{ .Content }}</div>
         </div>
     </div>
     <div class="hidden lg:inline-block">

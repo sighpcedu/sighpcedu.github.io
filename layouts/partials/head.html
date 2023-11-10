@@ -6,7 +6,7 @@
 {{ $js := resources.Get "js/main.js" }}
 
 {{ if .Site.IsServer }}
-  {{ $built := resources.Get "css/built.css" | resources.PostCSS }}
+  {{ $built := resources.Get "{{ .Site.BaseURL }}/css/built.css" | resources.PostCSS }}
   <link rel="stylesheet" href="{{ $built.RelPermalink }}"/>
   <script src="https://kit.fontawesome.com/dc644d3ad5.js" crossorigin="anonymous"></script>
   <script lang="javascript" type="text/javascript" src="{{ $js.RelPermalink }}"></script>
@@ -17,3 +17,8 @@
   <script src="https://kit.fontawesome.com/dc644d3ad5.js" crossorigin="anonymous"></script>
   <script lang="javascript" type="text/javascript" src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
 {{ end }}
+
+<script>
+  let pagefind = {}; 
+  import("{{ .Site.BaseURL }}/_pagefind/pagefind.js").then(module => pagefind = module);
+</script>
