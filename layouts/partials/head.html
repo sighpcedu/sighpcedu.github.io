@@ -20,5 +20,9 @@
 
 <script>
   let pagefind = {}; 
-  import("{{ .Site.BaseURL }}/_pagefind/pagefind.js").then(module => pagefind = module);
+  import("/_pagefind/pagefind.js")
+    .then(module => pagefind = module)
+    .then(pagefind.options({
+      baseURL: "{{ .Site.BaseURL }}",
+    }));
 </script>

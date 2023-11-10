@@ -32,7 +32,7 @@
       "assets",
       "data",
       "hugo.yaml",
-      "themes"
+      "layouts"
     ],
     "exec": "hugo -b 'http://localhost:1414' --minify && pagefind --serve",
     "ext": "md,js,css,html,yaml"
