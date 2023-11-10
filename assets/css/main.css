@@ -112,7 +112,7 @@ ul li::marker {
 }
 
 ul.events {
-  @apply list-none;
+  @apply list-none p-0 indent-0;
 }
 
 table tr td {
