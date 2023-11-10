@@ -48,7 +48,7 @@ body {
 }
 
 h1 {
-    @apply text-4xl text-acm-blue-600 py-2 border-b border-acm-green mb-4 header-font;
+    @apply text-4xl text-acm-blue-600 py-2 border-b border-acm-green mb-6 header-font;
 }
 
 h2 {
