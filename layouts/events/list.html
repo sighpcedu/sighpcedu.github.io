@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="container mx-auto">
+<div class="container mx-auto max-w-6xl">
     {{ partial "breadcrumb.html" . }}
     {{ if ne .Parent.Title "SigHPCEdu Website" }}
     <h1>Events for the {{ .Parent.Title }} Committee</h1>
@@ -8,7 +8,7 @@
     {{ end }}
     {{ .Content }}
 
-    <a href="index.ics" class="text-acm-orange italic text-xl my-8">Subscribe to this events calendar!</a>
+    <a href="index.ics" class="text-acm-orange italic text-xl my-4 flex items-center"><span class="material-symbols-rounded pr-2">event</span><span>Subscribe to our events calendar!</span></a>
 
     <h2>Upcoming Events</h2>
     
