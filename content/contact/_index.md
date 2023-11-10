@@ -5,7 +5,9 @@ weight: 100
 ---
 
 
-## [Officer Requirements]({{< relref officer-requirements >}})
+_Want to serve as an officer? See the [Officer Requirements]({{< relref officer-requirements >}})_.
+
+## SigHPC Education Board
 
 ### Chair
 
@@ -40,10 +42,10 @@ Kean University
 djoiner@keen.edu  
 
 **_Georgia Stuart_**  
-Cyberinfrastructure & Research Support  
-Office of Information Technology  
-The University of Texas at Dallas  
-georgia.stuart[at]utdallas.edu  
+Research Scientist & Lead HPC Facilitator  
+Research Computing & Data  
+University of Massachusetts Amherst  
+gstuart@umass.edu 
 
 ### European, Asia/Pacific, and African At Large Board Members
 

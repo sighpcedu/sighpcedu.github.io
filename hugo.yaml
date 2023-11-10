@@ -1,7 +1,6 @@
 baseURL: 'https://sighpceducation.acm.org/'
 languageCode: 'en-us'
 title: 'AMC SIGHPC Education Chapter'
-menu: ['main', 'footer']
 enableGitInfo: true 
 
 markup:
@@ -28,13 +27,14 @@ cascade:
     path: '/events/**'
 
 params:
+  joinLink: https://services.acm.org/public/qj/chapqj/chapqj_control.cfm?chap=116970
   socials: 
     - name: Email
       icon: fa-solid fa-envelope
       link: /contact
     - name: Slack
       icon: fa-brands fa-slack
-      link: https://sighpc.slack.com/archives/CAE68S91D
+      link: https://sighpc.slack.com/
     - name: Twitter
       icon: fa-brands fa-twitter
       link: https://twitter.com/sighpcedu

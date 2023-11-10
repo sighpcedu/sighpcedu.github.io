@@ -4,7 +4,7 @@
         {{ $logo := resources.Get "logos/sighpc-edu-logo-white-01.svg" | resources.Minify | fingerprint }}
         {{ $logoChapter := resources.Get "logos/acm-chapter-logo.png" | fingerprint }}
         <a href="{{ .Site.BaseURL }}" class="flex">
-            <object class="h-10 pr-6 pointer-events-none" data="{{ $logo.RelPermalink }}" type="image/svg+xml">
+            <object class="h-10 pr-2 pointer-events-none" data="{{ $logo.RelPermalink }}" type="image/svg+xml">
                 <!-- Fallback -->
                 <div class="text-2xl">SigHPC Education</div>
             </object>
@@ -13,16 +13,17 @@
                 <div class="text-2xl">SigHPC Education</div>
             </object>
         </a>
-        <div class="align-baseline flex-grow flex justify-end">
+        <div class="align-baseline flex-grow flex justify-end items-center">
             <!-- <span class="brand text-2xl pr-6 font-bold"><a href="/">SigHPC Education</a></span> -->
             {{ $currentPage := . }}
             {{ range .Site.Menus.main }}
                 <div class=''>
-                    <a href="{{ .URL }}" class="font-coda transition-colors ease-in-out delay-50 duration-150 pr-6 hover:text-acm-orange {{ if $currentPage.IsMenuCurrent "main" .}}menu-active{{ else }}menu-inactive{{ end }}">
+                    <a href="{{ .URL }}" class="header-font transition-colors ease-in-out delay-50 duration-150 pr-6 hover:text-acm-orange {{ if $currentPage.IsMenuCurrent "main" .}}menu-active{{ else }}menu-inactive{{ end }}">
                         {{ .Name }}
                     </a>
                 </div>
             {{ end }}
+            {{ partial "search.html" . }}
         </div>
 </div>
 </div>

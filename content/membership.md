@@ -1,10 +1,12 @@
 ---
 title: "Membership"
+linktitle: Join
 date: 2022-04-20T14:18:18-04:00
 draft: false
+menu: main
 ---
 
-# Membership
+{{< button "https://services.acm.org/public/qj/chapqj/chapqj_control.cfm?chap=116970" "Join the SigHPC Education ACM Chapter" "group" >}}
 
 Chapter membership is open to anyone with an interest in High Performance Computing (HPC) education.
 Chapter members do not need to be members of ACM or enrolled with an educational institution

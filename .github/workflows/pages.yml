@@ -26,14 +26,17 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.111.3'
-          # extended: true
+          hugo-version: '0.115.3'
+          extended: true
 
       - name: Build
         run: hugo --minify -b "https://sighpceducation.acm.org/"
 
-      - name: Build for prod
-        run: mkdir prod && hugo --minify -d prod/ -b "https://sighpceducation.acm.org/"
+      - name: Pagefind 
+        run: npm run search
+
+      # - name: Build for prod
+      #   run: mkdir prod && hugo --minify -d prod/ -b "https://sighpceducation.acm.org/"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
@@ -42,8 +45,8 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
 
-      - name: Archive production site
-        uses: actions/upload-artifact@v3
-        with:
-          name: sighpcedu-production-site
-          path: prod/
+      # - name: Archive production site
+      #   uses: actions/upload-artifact@v3
+      #   with:
+      #     name: sighpcedu-production-site
+      #     path: prod/

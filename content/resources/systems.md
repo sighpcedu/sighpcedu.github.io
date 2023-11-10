@@ -1,7 +1,6 @@
 ---
 title: Systems Professional Resources
 ---
-# Training Resources for Systems Professionals
 
 The Systems Professionals Committee of the SIGHPC Education Chapter had assembled a list of training resources for systems professionals.  In the the future, we also expect to include reviews of the materials.  Please provide additional information for this resource listing.
 

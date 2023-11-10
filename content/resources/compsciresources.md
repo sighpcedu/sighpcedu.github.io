@@ -1,7 +1,6 @@
 ---
 title: Computational Science Resources
 ---
-# Computational Science Resource Links
 
 ## General
 

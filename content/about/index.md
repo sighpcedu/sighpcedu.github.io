@@ -1,10 +1,9 @@
 ---
-title: About
+title: About the ACM SigHPC Education Chapter
+linktitle: About
 menu: main
 weight: 10
 ---
-
-# About the Chapter
 
 The SIGHPC Education chapter has as its purpose the promotion of interest in and knowledge of applications of High Performance Computing (HPC) and computational science. Join us in our efforts to promote computational science and HPC training and education by:
 

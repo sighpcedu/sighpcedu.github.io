@@ -4,14 +4,19 @@
   "description": "The Website for the ACM SigHPC Education Chapter",
   "main": "index.js",
   "scripts": {
-    "css": "npx tailwindcss -i assets/css/main.css -o assets/css/built.css",
-    "dev": "hugo serve"
+    "css": "npx tailwindcss -i assets/css/main.css -o assets/css/built.css --minify",
+    "theme-watch": "npx tailwindcss -i assets/css/main.css -o assets/css/built.css --minify --watch",
+    "dev": "hugo serve",
+    "search": "pagefind",
+    "dev-search": "nodemon"
   },
   "author": "Georgia Stuart",
   "license": "CC-BY-SA-2.5",
   "dependencies": {
     "autoprefixer": "^10.4.2",
+    "nodemon": "^3.0.1",
     "nvm": "0.0.4",
+    "pagefind": "^1.0.3",
     "postcss": "^8.4.6",
     "postcss-cli": "^8.3.1",
     "tailwindcss": "^3.0.22",
@@ -19,5 +24,17 @@
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.2"
+  },
+  "nodemonConfig": {
+    "verbose": true,
+    "watch": [
+      "content",
+      "assets",
+      "data",
+      "hugo.yaml",
+      "themes"
+    ],
+    "exec": "hugo -b 'http://localhost:1414' --minify && pagefind --serve",
+    "ext": "md,js,css,html,yaml"
   }
 }

@@ -1,8 +1,6 @@
 ---
-title: K-12 Education
+title: K-12 Education Committee
 ---
-
-# K-12 Committee
 
 ## Committee Description
 
@@ -22,4 +20,7 @@ The purpose of the SIGHPC Education K-12 Committee is to support educators intro
 Support and advocate for pre-service teacher training in Computational and Data Science.
 4. Seek partnerships with appropriate teacher professional associations around the world.
 
-### [Volunteer Opportunities](activity/)
+## Volunteer Opportunities
+
+1. Review and update the contents of the K-12 education resources repository
+2. Conduct of survey of HPC centers to document their programs for pre-college students and teachers
