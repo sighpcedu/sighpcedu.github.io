@@ -1,5 +1,5 @@
 <div class="mb-6">
-<div class="w-full h-14 bg-acm-blue-600">
+<div class="w-full h-14 bg-acm-blue-600 hidden lg:block">
     <div class="container flex items-center mx-auto h-full text-gray-50 text-lg">
         {{ $logo := resources.Get "logos/sighpc-edu-logo-white-01.svg" | resources.Minify | fingerprint }}
         {{ $logoChapter := resources.Get "logos/acm-chapter-logo.png" | fingerprint }}
@@ -27,5 +27,36 @@
         </div>
 </div>
 </div>
-<div class="w-full h-1 bg-acm-blue"></div>
+<div class="w-full h-14 bg-acm-blue-600 lg:hidden">
+    <div class="container mx-auto flex items-center h-full text-main-color px-4">
+        <a href="{{ .Site.BaseURL }}" class="flex">
+            <object class="h-10 pr-2 pointer-events-none" data="{{ $logo.RelPermalink }}" type="image/svg+xml">
+                <!-- Fallback -->
+                <div class="text-2xl">SigHPC Education</div>
+            </object>
+            <object class="h-10 pr-6 pointer-events-none" data="{{ $logoChapter.RelPermalink }}" type="image/jpeg">
+                <!-- Fallback -->
+                <div class="text-2xl">SigHPC Education</div>
+            </object>
+        </a>
+        <div class="flex-grow"></div>
+        <button class="material-symbols-rounded text-4xl text-white" id="nav-toggle-closed" onclick="toggleNav()">menu</button>
+    </div>
+
+</div>
+<div class="py-2 container hidden flex-col fixed top-0 left-0 border-r border-acm-blue bg-acm-blue-600 w-10/12 h-screen" id="nav-menu-mobile">
+    <div class="flex"><div class="flex-grow"></div><button class="material-symbols-rounded text-4xl hidden text-white" id="nav-toggle-open" onclick="toggleNav()">close</button></div>
+    {{ range .Site.Menus.main }}
+        <div class='mb-2'>
+            <a href="{{ .URL }}" class="text-xl font-normal header-font transition-colors ease-in-out delay-50 duration-150 pr-6 {{ if $currentPage.IsMenuCurrent "main" .}}menu-active{{ else }}menu-inactive{{ end }}">
+                {{ .Name }}
+            </a>
+        </div>
+    {{ end }}
+
+    <div class="flex my-4 items-center">
+    <a href="{{ .Site.Params.repo_url }}" target="_blank" class="material-symbols-rounded pr-6 text-white">code</a>
+    </div>
+    {{ partial "search.html" . }}
+</div>
 </div>

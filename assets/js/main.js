@@ -37,3 +37,20 @@ async function search(el, event) {
     }
   }
 }
+
+function toggleNav() {
+  let menu = document.querySelector("#nav-menu-mobile");
+  let openIcon = document.querySelector("#nav-toggle-closed")
+  let closeIcon = document.querySelector("#nav-toggle-open")
+  if (menu.classList.contains("hidden")) {
+    menu.classList.remove("hidden")
+    menu.classList.add("flex");
+    openIcon.classList.add("hidden");
+    closeIcon.classList.remove("hidden");
+  } else {
+    menu.classList.remove("flex")
+    menu.classList.add("hidden");
+    openIcon.classList.remove("hidden");
+    closeIcon.classList.add("hidden");
+  }
+}
