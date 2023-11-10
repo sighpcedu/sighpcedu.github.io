@@ -6,7 +6,7 @@
 {{ $js := resources.Get "js/main.js" }}
 
 {{ if .Site.IsServer }}
-  {{ $built := resources.Get "{{ .Site.BaseURL }}/css/built.css" | resources.PostCSS }}
+  {{ $built := resources.Get "/css/built.css" | resources.PostCSS }}
   <link rel="stylesheet" href="{{ $built.RelPermalink }}"/>
   <script src="https://kit.fontawesome.com/dc644d3ad5.js" crossorigin="anonymous"></script>
   <script lang="javascript" type="text/javascript" src="{{ $js.RelPermalink }}"></script>
@@ -21,8 +21,10 @@
 <script>
   let pagefind = {}; 
   import("/_pagefind/pagefind.js")
-    .then(module => pagefind = module)
-    .then(pagefind.options({
-      baseURL: "{{ .Site.BaseURL }}",
-    }));
+    .then((module) => {
+      pagefind = module
+      pagefind.options({
+        baseURL: "{{ .Site.BaseURL }}"
+      })
+    });
 </script>
