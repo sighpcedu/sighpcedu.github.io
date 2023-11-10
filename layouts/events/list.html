@@ -8,9 +8,9 @@
     {{ end }}
     {{ .Content }}
 
-    <a href="index.ics" class="text-acm-orange italic text-xl my-4 flex items-center justify-center"><span class="material-symbols-rounded pr-2">event</span><span>Subscribe to our events calendar!</span></a>
+    <div class="flex items-center justify-center"><a href="index.ics" class="rounded bg-acm-orange text-white hover:text-white hover:bg-acm-orange-light font-semibold italic text-lg my-2 flex items-center justify-center p-4"><span class="material-symbols-rounded pr-2">event</span><span>Subscribe to our events calendar!</span></a></div>
 
-    <h2>Upcoming Events</h2>
+    <h2 class="font-semibold pb-4">UPCOMING EVENTS</h2>
     
     <ul class="pb-4 events">
     {{ range sort .Pages ".Params.EventDate" "asc" }}
@@ -20,7 +20,7 @@
     {{ end }}
     </ul>
 
-    <h2>Past Events</h2>
+    <h2 class="font-semibold pb-4">PAST EVENTS</h2>
     <ul class="pb-4 events">
         {{ range sort .Pages ".Params.EventDate" "desc"  }}
             {{ if lt (time .Params.EventDate .Params.TimeZone) now }}
