@@ -7,4 +7,5 @@ public
 .ipynb_checkpoints
 envs
 hugo*
+!hugo.yaml
 build

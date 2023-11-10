@@ -1,0 +1,52 @@
+baseURL: 'https://sighpceducation.acm.org/'
+languageCode: 'en-us'
+title: 'AMC SIGHPC Education Chapter'
+enableGitInfo: true 
+
+markup:
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: true
+    hl_Lines: ''
+    lineAnchors: ''
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: 'solarized-light'
+    tabWidth: 4
+
+cascade:
+- outputs: ['HTML', 'RSS', 'Calendar']
+  _target:
+    kind: 'section'
+    path: '/**/events/**'
+- outputs: ['HTML', 'RSS', 'Calendar']
+  _target:
+    path: '/events/**'
+
+params:
+  joinLink: https://services.acm.org/public/qj/chapqj/chapqj_control.cfm?chap=116970
+  socials: 
+    - name: Email
+      icon: fa-solid fa-envelope
+      link: /contact
+    - name: Slack
+      icon: fa-brands fa-slack
+      link: https://sighpc.slack.com/
+    - name: Twitter
+      icon: fa-brands fa-twitter
+      link: https://twitter.com/sighpcedu
+    - name: Linkedin
+      icon: fa-brands fa-linkedin
+      link: https://www.linkedin.com/groups/12019017
+    - name: Facebook
+      icon: fa-brands fa-facebook
+      link: https://www.facebook.com/sighpcedu/
+    - name: YouTube
+      icon: fa-brands fa-youtube
+      link: https://www.youtube.com/channel/UCHrmHj6nFfkhlxPv18LpBzw?view_as=subscriber
+    - name: GitHub
+      icon: fa-brands fa-github
+      link: https://github.com/sighpcedu/
