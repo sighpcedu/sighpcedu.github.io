@@ -13,7 +13,7 @@ The committee will explore education programs and instructional materials for co
 ## Committee Goals
 
 * Maintain a list of education and training materials available across the computational science and HPC community
-* Recognize innovative approaches to computataional science education and training through webinars and other media
+* Recognize innovative approaches to computational science education and training through webinars and other media
 * Identify best practices for introducing computational science into the curriculum
 * Provide people with access to existing competencies for computational and data-enabled science,
 * Seek contributors to share information about their programs and plans via the SIGHPC learning repository.

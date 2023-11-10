@@ -18,7 +18,9 @@
         </div>
     </div>
     <div class="hidden lg:inline-block">
+        {{ if .Params.toc }}
         {{ partial "toc.html" . }}
+        {{ end }}
     </div>
 </div>
 {{ end }}

@@ -17,6 +17,10 @@ body {
     @apply font-open-sans
 }
 
+#content {
+    @apply leading-relaxed;
+}
+
 .header-font {
     @apply font-coda;
 }
@@ -30,7 +34,7 @@ body {
 }
 
 .breadcrumb-list {
-    @apply text-sm mb-6;
+    @apply text-sm mb-6 list-none p-0 indent-0;
 }
 
 .breadcrumb-list > li {
@@ -92,11 +96,11 @@ a:hover {
 }
 
 ol {
-    @apply list-decimal;
+    @apply list-decimal list-inside pl-6 -indent-6 mb-4; 
 }
 
 ul {
-    @apply list-disc;
+    @apply list-disc list-inside pl-6 -indent-6 mb-4;
 }
 
 ul li::marker {
