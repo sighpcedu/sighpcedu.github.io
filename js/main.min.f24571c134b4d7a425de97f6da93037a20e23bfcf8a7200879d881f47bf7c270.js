@@ -1,0 +1,6 @@
+function closeSearch(e){e.classList.add("hidden")}function openSearch(){document.getElementById("search-modal").classList.remove("hidden"),document.getElementById("search-modal-input").focus()}async function search(e,t){if(t.key==="Escape")closeSearch(document.getElementById("search-modal"));else{const n=e.value,o=await pagefind.debouncedSearch(n),s=await Promise.all(o.results.slice(0,10).map(e=>e.data()));let t=document.getElementById("search-results");if(t.textContent="",s&&s.length)for(let e of s){let n=document.createElement("div");n.innerHTML=`
+<div class="flex flex-col">
+<a href="${e.url}"><div class="font-display mb-2">${e.meta.title}</div></a>
+<p onclick="location.href='${e.url}';" class="cursor-pointer">${e.excerpt}</p>
+</div>
+        `,n.classList.add("search-item"),t.appendChild(n)}else n?t.textContent=`No results found for search term "${n}"`:t.textContent=`Enter a search term`}}
