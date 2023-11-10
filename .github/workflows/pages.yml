@@ -33,7 +33,7 @@ jobs:
         run: hugo --minify -b "https://sighpceducation.acm.org/"
 
       - name: Pagefind 
-        run: pagefind
+        run: npm run search
 
       # - name: Build for prod
       #   run: mkdir prod && hugo --minify -d prod/ -b "https://sighpceducation.acm.org/"
