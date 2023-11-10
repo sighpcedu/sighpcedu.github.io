@@ -1,18 +1,6 @@
 {{ define "main" }}
-{{ $currentPage := . }}
-<div class="lg:px-6 xl:px-16 grid grid-cols-5 gap-10 mx-auto max-w-screen-2xl">
-    <div class="flex flex-col col-span-1">
-        {{ if gt (len .Sections) 0 }}
-        <div class="text-2xl pb-1 mb-2 border-b font-bold text-acm-blue border-acm-green">{{ $currentPage.Name }}</div>
-        <ul>
-            {{ range .Sections}}
-                <li class="text-gray-800 pb-2 hover:text-acm-orange"><a href="{{ .RelPermalink }}">{{ .Name }}</a></li>
-            {{ end }}
-        </ul>
-        {{end}}
-    </div>
-    <div class="col-span-3">
-        {{ partial "breadcrumb.html" . }}
+<main id="content" class="container mx-auto px-4 max-w-5xl">
+	{{ partial "breadcrumb.html" . }}
         <div data-pagefind-body id="content">
           {{ $dateTime := time (print .Params.EventDate (string "T") .Params.EventTime) .Params.TimeZone }}
           <div class="pb-2"><h1 class="pb-0"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
@@ -21,10 +9,4 @@
           <div >{{ .Content }}</div>
         </div>
     </div>
-    <div class="hidden lg:inline-block">
-        {{ if .Params.toc }}
-        {{ partial "toc.html" . }}
-        {{ end }}
-    </div>
-</div>
 {{ end }}

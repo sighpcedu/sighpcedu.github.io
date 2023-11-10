@@ -8,9 +8,15 @@
     {{ end }}
     {{ .Content }}
 
+    <div class="block lg:hidden mb-6 lg:mb-0">
+    {{ partial "button.html" (dict "btnlink" "index.ics" "btnicon" "event" "btntext" "Subscribe to our events calendar!") }}
+    </div>
+
     <div class="flex justify-between items-center mb-6">
     <h2 class="font-semibold">UPCOMING EVENTS</h2>
-        {{ partial "button.html" (dict "btnlink" "index.ics" "btnicon" "event" "btntext" "Subscribe to our events calendar!") }}
+    <div class="hidden lg:block">
+    {{ partial "button.html" (dict "btnlink" "index.ics" "btnicon" "event" "btntext" "Subscribe to our events calendar!") }}
+    </div>
     </div>
     
     
