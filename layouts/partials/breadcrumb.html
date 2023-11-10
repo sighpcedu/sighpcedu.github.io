@@ -11,6 +11,10 @@
 {{ template "breadcrumbnav" (dict "p1" .p1.Site.Home "p2" .p2 )  }}
 {{ end }}
 <li {{ if eq .p1 .p2 }} class="text-acm-green" {{ else }} class="text-gray-400" {{ end }}>
-<a href="{{ .p1.Permalink }}">{{ .p1.Title }}</a>
+    {{- if .p1.Params.linkTitle }}
+    <a href="{{ .p1.Permalink }}">{{ .p1.Params.linkTitle }}</a>
+    {{- else }}
+    <a href="{{ .p1.Permalink }}">{{ .p1.Name }}</a>
+    {{ end }}
 </li>
 {{ end }}

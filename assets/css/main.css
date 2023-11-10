@@ -35,7 +35,7 @@ body {
 }
 
 .breadcrumb-list {
-    @apply text-sm mb-6 list-none p-0 indent-0;
+    @apply text-sm mb-6 list-none p-0 m-0 indent-0;
 }
 
 .breadcrumb-list > li {
@@ -97,15 +97,19 @@ a:hover {
 }
 
 ol {
-    @apply list-decimal list-inside pl-6 -indent-6 mb-4; 
+    @apply list-decimal list-outside ml-6 mb-4; 
 }
 
 ul {
-    @apply list-disc list-inside pl-6 -indent-6 mb-4;
+    @apply list-disc list-outside ml-6 mb-4;
 }
 
 ul li::marker {
-    @apply text-acm-orange;
+    @apply text-acm-orange w-6 ;
+}
+
+ol li::marker {
+    @apply text-acm-orange font-semibold;
 }
 
 #toc ul {
@@ -120,10 +124,14 @@ table tr td {
   @apply p-2;
 }
 
+table th {
+    @apply text-left p-2 header-font text-lg text-acm-orange border-b border-acm-orange;
+}
+
 table {
-  @apply my-4;
+  @apply my-4 w-full;
 }
 
 tr:nth-child(even) {
-  @apply bg-gray-100;
+  @apply bg-zinc-100;
 } 

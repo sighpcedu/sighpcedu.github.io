@@ -2,8 +2,6 @@
 title: By-Laws
 ---
 
-# By-Laws
-
 The SIGHPC Education chapter is the first ACM virtual Chapter. As such, we have devised a set of by-laws that reflects the fact that our membership will be widely distributed geographically and will participate in many of our activities remotely using Internet technologies.
 
 ## <p style="text-align: center;"> By-laws of the Special Interest Group on High Performance Computing Education  Association for Computing Machinery (SIGHPC Education ACM) Chapter.</p>

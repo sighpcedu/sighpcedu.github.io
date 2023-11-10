@@ -1,7 +1,8 @@
-<div class="flex flex-col mb-2  border-l-2 p-4 border-acm-green-500 bg-zinc-50">
+<div class="flex flex-col mb-2  border-l-2 border-acm-green-500 bg-zinc-50">
     {{ $dateTime := time (print .Params.EventDate (string "T") .Params.EventTime) .Params.TimeZone }}
-    <div class="pb-0 header-font text-lg font-semibold"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
-    <div class="text-gray-600 text-sm italic pb-2">{{ $dateTime.Format "Monday, January 2, 2006 at 3:04 PM MST" }} </div>
+    <div class="flex-grow bg-zinc-100 p-4"><h3 class="font-semibold p-0"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3></div>
+    <div class="px-4 py-2"><div class="text-zinc-600 text-sm italic pb-2">{{ $dateTime.Format "Monday, January 2, 2006 at 3:04 PM MST" }} </div>
     <div class="mb-4"> {{ .Summary | safeHTML }} </div>
     <div class="text-sm italic flex justify-end"><a href="{{ .RelPermalink }}"><div class="bg-zinc-100 border border-zinc-200 p-2 rounded text-acm-blue-600 font-semibold hover:bg-zinc-200">Read More</div></a></div>
+</div>
 </div>

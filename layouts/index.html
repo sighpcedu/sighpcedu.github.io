@@ -1,5 +1,6 @@
 {{ define "main" }}
 <main class="container mx-auto px-4 max-w-6xl">
+	<a href="{{ .RelPermalink }}"><h1 class="text-center">Welcome to the {{ .Title }}!</h1></a>
 	{{.Content}}
 </main>
 {{ end }}

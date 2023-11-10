@@ -1,12 +1,22 @@
 ---
 menu: main
-title: Committees
+title: SigHPC Education Working Committees
+LinkTitle: Committees
 weight: 40
 ---
 
-# SigHPC Education Working Committees
+## Volunteer with us!
 
-The SIGHPC Education Chapter relies on volunteers to assist in advancing a variety of training and education topics and activities. We currently have five working committees. Each has a charter purpose and short- and long-term goals. Each of their pages summarizes those goals and links to a description of the current committee projects. If you wish to contribute, you can find volunteer opportunities relating to each of the committees.
+The chapter depends on volunteers to carry out our mission. This work is done primarily through our standing committees.  Volunteers can participate in several ways:
+
+* Undertake a short-term project or assignment that contributes to the work of a committee
+* Join a committee and participate fully in its operations and decisions
+
+Each committee is described in the committees section of the website. Included is a summary of the current activities and opportunities for volunteers to take on specific projects. Look these over and then contact the chair to discuss your possible participation in the committee activities.
+
+## SigHPC Education Working Committees
+
+We currently have five working committees. Each has a charter purpose and short- and long-term goals. Each of their pages summarizes those goals and links to a description of the current committee projects. If you wish to contribute, you can find volunteer opportunities relating to each of the committees.
 
 - [**Computational Science Education Committee**]({{< relref "computational-science-education" >}})  
 - [**K12 Education Committee**]({{< relref "k12" >}})  

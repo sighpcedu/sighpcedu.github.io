@@ -1,8 +1,6 @@
 ---
-title: Systems Professionals
+title: Systems Professionals Committee
 ---
-
-# Systems Professionals
 
 ## Committee Description
 
@@ -14,3 +12,17 @@ This committee is charged with curating, recommending and making available mater
 ## Committee Goals
 
 The committee will develop a process through which members can add material to a repository, and prepare materials for workshops and webinars. The Systems Professionals Committee of the SIGHPC Education Chapter has assembled a list of training resources for systems professionals.  In the the future, we also expect to include reviews of the materials.
+
+## Contacts 
+
+We welcome your participation in the education-content committee.  You can join the committee or just volunteer to undertake a part of the on-going projects.
+
+### Committee Chairs
+
+Adam Hough
+adam.hough[at]gmail.com
+
+## Volunteer Opportunities
+
+1. Revise and add to the current list of systems professionals training materials
+2. Participate in systems professionals outreach sessions at conferences and workshops

@@ -1,0 +1,6 @@
+<div class="flex flex-col border-l-2 border-acm-green-500 bg-zinc-50 mb-6">
+  {{- if .Get 0 }}
+  <div class="flex-grow bg-zinc-100 p-4"><h2 class="font-semibold p-0">{{ .Get 0 }}</h2></div>
+  {{ end -}}
+  <div class="p-4">{{ .Inner | markdownify }}</div>
+</div>

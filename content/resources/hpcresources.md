@@ -2,8 +2,6 @@
 title: HPC Resource Links
 ---
 
-# HPC Resource Links
-
 ## Getting Started
 
 | Resource Name                                                                                                   | Type                 |

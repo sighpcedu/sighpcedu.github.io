@@ -1,8 +1,6 @@
 ---
-title: Computational Science Education
+title: Computational Science Education Committee
 ---
-
-# Computational Science Education Committee
 
 ## Committee Description
 
@@ -25,3 +23,11 @@ The committee will explore education programs and instructional materials for co
 * Sponsoring webinars on teaching computational science in various disciplines
 * Promoting sharing of educational resources
 * Provide people with access to the latest information on computational science programs, student internships and various events (e.g. summer schools, hackathon events) that are in place, as a source of information.
+
+## Volunteer Opportunities
+
+1. Review and update the list of HPC resources on the chapter website
+2. Review and update the list of computational science resources on the chapter website
+3. Volunteer to present on your curriculum and activities
+4. Volunteer to write a blog post about your education activities
+5. Volunteer to be part of the repository working group

@@ -1,7 +1,7 @@
 {{ define "main" }}
-<div class="container mx-auto max-w-5xl">
+<div class="container mx-auto max-w-5xl px-4">
     {{ partial "breadcrumb.html" . }}
-    {{ if ne .Parent.Title "SigHPCEdu Website" }}
+    {{ if not .Parent.IsHome }}
     <h1>Events for the {{ .Parent.Title }} Committee</h1>
     {{ else }}
     <h1>Events for the ACM SigHPC Education Chapter</h1>
@@ -10,7 +10,7 @@
 
     <div class="flex justify-between items-center mb-6">
     <h2 class="font-semibold">UPCOMING EVENTS</h2>
-    <div class="flex items-center justify-center"><a href="index.ics" class="rounded border-2 border-acm-orange-light text-acm-orange hover:bg-zinc-100 font-semibold italic flex items-center justify-center p-2"><span class="material-symbols-rounded pr-2">event</span><span>Subscribe to our events calendar!</span></a></div>
+        {{ partial "button.html" (dict "btnlink" "index.ics" "btnicon" "event" "btntext" "Subscribe to our events calendar!") }}
     </div>
     
     
