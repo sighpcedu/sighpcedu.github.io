@@ -1,7 +1,7 @@
-<div class="flex flex-col pb-4">
+<div class="flex flex-col mb-2  border-l-2 p-4 border-acm-green-500 bg-zinc-50">
     {{ $dateTime := time (print .Params.EventDate (string "T") .Params.EventTime) .Params.TimeZone }}
-    <h3 class="pb-0"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <div class="pb-0 header-font text-lg"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
     <div class="text-gray-400 text-sm italic pb-2">{{ $dateTime.Format "Monday, January 2, 2006 at 3:04 PM MST" }} </div>
-    <div> {{ .Summary }} </div>
-    <div class="text-sm text-gray-400 italic"><a href="{{ .RelPermalink }}">Read More...</a></div>
+    <div class="mb-4"> {{ .Summary | safeHTML }} </div>
+    <div class="text-sm italic flex justify-end"><a href="{{ .RelPermalink }}"><div class="bg-acm-green-500 p-1 rounded-md text-white">Read More...</div></a></div>
 </div>

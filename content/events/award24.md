@@ -1,5 +1,5 @@
 ---
-Title: Award 2024
+Title: Educational Award For Outstanding Contribution to Computational Science Education
 EventDate: 2024-03-15
 EventTime: 13:00:00
 TimeZone: America/Detroit
@@ -7,8 +7,6 @@ category: event
 # Published date:
 Date: 2023-10-31T-6:00:00-02:00
 ---
-
-## Educational Award For Outstanding Contribution to Computational Science Education
 
 The ACM SIGHPC Education Chapter is announcing an upcoming call for nominations for the 2024 education award to recognize outstanding contributions to computational, data-enabled science, and HPC education and training in all disciplines.  
 
