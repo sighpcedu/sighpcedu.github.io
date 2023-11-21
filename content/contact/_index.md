@@ -26,7 +26,7 @@ gassrg[at]ucmail.uc.edu
 **_Katherine Cahill_**  
 Education and Training Specialist  
 Ohio Supercomputer Center  
-kcahill[at]osc.edu  
+katharine.cahill[at]njit.edu  
 
 ### At Large Board Members  
 
