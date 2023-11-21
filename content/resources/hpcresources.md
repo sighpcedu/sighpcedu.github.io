@@ -19,7 +19,8 @@ title: HPC Resource Links
 | [U Illinois Computational Science and Engineering](https://www.cse.illinois.edu/cse-training)       | Workshops                              |
 | [Software Carpentry - Basic Skills for Research Computing](https://software-carpentry.org/lessons/) | Web Training                           |
 | [Data Carpentry](https://datacarpentry.org/lessons/)                                                | Web Training                           |
-| [HPC Carpentry](https://theartofhpc.com/carpentry.html)                                             | Web Training                           |
+| [HPC Carpentry](https://www.hpc-carpentry.org/)                                                     | Web Training                           |
+| [The Art of HPC](https://theartofhpc.com/carpentry.html)                                            | Web Training                           |
 | [MIT LLSC-Supercloud Teaching Examples](https://github.com/llsc-supercloud/teaching-examples)       | Hands-on Examples in Jupyter Notebooks |
 | [HPC Univeristy Training Resources](http://hpcuniveristy.org/resources/search)                      | Repository of resources                |
 | [XSEDE Online Training Catalog]([(https://software.xsede.org/training-discovery)])                  | Repository                             |
