@@ -15,7 +15,7 @@ Our blog has short articles that include interviews with students, faculty, and 
 {{< card "Undergraduate Summer Opportunities>}}
 Our members have assembled a list of resources for undergraduates seeking HPC, computational science, or data science summer opportunities.
 
-[Undergraduate Summer Opportunities]({{< relref "ugsummerresources" >}})
+[**Undergraduate Summer Opportunities**]({{< relref "ugsummerresources" >}})
 {{< /card >}}
 
 {{< card "HPC Resources" >}}
