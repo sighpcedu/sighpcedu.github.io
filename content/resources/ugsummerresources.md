@@ -1,7 +1,6 @@
 ---
 title: Undergraduate Summer Opportunities
 ---
-# Undergraduate Summer Opportunities
 
 We've assembled a list of summer undergraduate opportunities we're aware of in HPC, computational science, or data science.  This list is certainly not complete, so if you know of additional opportunities, please email us at chair at sighpcedu dot com and we'll add it here!
 
