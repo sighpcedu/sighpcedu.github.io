@@ -8,16 +8,14 @@ weight: 20
 The links below provide access to HPC Educational resources, K-12 (pre-university) educational resources, and educational resources for systems professionals. 
 The materials include, but are not limited to, courses, tutorials, reference guides, repositories and websites. The HPC educational material has been roughly sorted and is grouped by experience level.
 
-<!--
-## Undergraduate Summer Opportunities
-
-Our members have assembled a list of resources for undergraduates seeking HPC and computational science summer opportunities.
-
-[Undergraduate Summer Opportunities]({{< relref "ugsummerresources" >}})
-//-->
-
 {{< card "Read our blog" >}}
 Our blog has short articles that include interviews with students, faculty, and staff involved in computational science education.  It also highlights examples of education and training programs.  You can find it [here](https://blog.sighpceducation.acm.org/wp).
+{{< /card >}}
+
+{{< card "Undergraduate Summer Opportunities>}}
+Our members have assembled a list of resources for undergraduates seeking HPC, computational science, or data science summer opportunities.
+
+[Undergraduate Summer Opportunities]({{< relref "ugsummerresources" >}})
 {{< /card >}}
 
 {{< card "HPC Resources" >}}
