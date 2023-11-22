@@ -28,6 +28,24 @@ Dates: May 20 - August 2, 2024.
 Eligibility: Completed one year of undergraduate work and able to work in the US.  
 Applications Due: January 19, 2024.  
 
+Program: [Lawrence Livermore National Lab HPC Cluster Engineer Academy](https://computing.llnl.gov/hpc-cluster-engineer-academy)  
+Location: Livermore, CA  
+Dates: A subset of May 6 - August 30, 2024.  
+Eligiblity: Enrolled undergraduate.  
+Applications Due: January 26, 2024.  
+
+Program: [Lawrence Livermore National Lab DevOps Internship Team](https://computing.llnl.gov/devops-internship-team-do-it)  
+Location: Livermore, CA  
+Dates: A subset of May 6 - August 30, 2024.  
+Eligiblity: Enrolled undergraduate.  
+Applications Due: January 26, 2024.  
+
+Program: [Lawrence Livermore National Lab Data Science Summer Institute](https://data-science.llnl.gov/dssi)  
+Location: Livermore, CA  
+Dates: May 20 - August 9, 2024 or June 24 - September 13, 2024.   
+Eligiblity: Enrolled undergraduate.  
+Applications Due: January 26, 2024.  
+
 Program:  [NCSA: The Future of Discovery: Training Students to Build and Apply Open Source Machine Learning Models and Tools (FoDOMMaT) (NSF REU)](https://reu.ncsa.illinois.edu/welcome-to-reu-inclusion/)  
 Location: Urbana-Champaign, IL  
 Dates: May 20-July 26, 2023  
@@ -57,24 +75,6 @@ Location: Los Alamos, NM
 Dates: Varies  
 Eligibility: US citizens who meet the course requirements, typically juniors  
 Applications Due: Rolling  
-
-Program: [Lawrence Livermore National Lab HPC Cluster Engineer Academy](https://computing.llnl.gov/hpc-cluster-engineer-academy)  
-Location: Livermore, CA  
-Dates: A subset of May 6 - August 30, 2024.  
-Eligiblity: Enrolled undergraduate.  
-Applications Due: January 26, 2024.  
-
-Program: [Lawrence Livermore National Lab DevOps Internship Team](https://computing.llnl.gov/devops-internship-team-do-it)  
-Location: Livermore, CA  
-Dates: A subset of May 6 - August 30, 2024.  
-Eligiblity: Enrolled undergraduate.  
-Applications Due: January 26, 2024.  
-
-Program: [Lawrence Livermore National Lab Data Science Summer Institute](https://data-science.llnl.gov/dssi)  
-Location: Livermore, CA  
-Dates: May 20 - August 9, 2024 or June 24 - September 13, 2024.   
-Eligiblity: Enrolled undergraduate.  
-Applications Due: January 26, 2024.  
 
 <!--Program: [iRODS Consortium Internships](https://irods.org/2023/01/irods-internship-summer-2023/)  
 Location: Chapel Hill, NC  
