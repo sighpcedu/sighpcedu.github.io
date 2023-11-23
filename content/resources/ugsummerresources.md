@@ -10,6 +10,12 @@ Dates: May 22-July 29, 2023
 Eligibility: US citizens or permanent residents with at least 1 semester of college remaining.  
 Applications Due: March 1, 2023  //-->
 
+Program: [CRA Distributed Research Experiences for Undergraduates (DREU)](https://cra.org/cra-wp/dreu/)  
+Location: Varies  
+Dates: Summer 2024, students and mentors decide specific dates   
+Eligibility: Undergrads.  Most funds are reserved for US citizens and permanent residents.  Priority is given to students from underrepresented groups.  
+Applications Due: December 15, 2023 (early deadline); February 15 (general deadline)  
+
 Program: [Los Alamos National Lab Supercomputer Institute](https://www.lanl.gov/projects/national-security-education-center/information-science-technology/summer-schools/cscnsi/index.php)  
 Location: Los Alamos, NM  
 Dates: May 20 – August 9, 2024.  
@@ -45,6 +51,12 @@ Location: Livermore, CA
 Dates: May 20 - August 9, 2024 or June 24 - September 13, 2024.   
 Eligiblity: Enrolled undergraduate.  
 Applications Due: January 26, 2024.  
+
+Program: [WSU/UHCL REU: Advancing Data-Driven Deep Coupling of Computational Simulations and Experiments](https://reu.encs.vancouver.wsu.edu/)  
+Location: Vancouver, WA or Houston, TX, depending on project
+Dates: May 25 - August 2, 2024  
+Eligibility: US citizen or permanent resident enrolled as an undergraduate  
+Applications Due: March 15, 2024  
 
 Program:  [NCSA: The Future of Discovery: Training Students to Build and Apply Open Source Machine Learning Models and Tools (FoDOMMaT) (NSF REU)](https://reu.ncsa.illinois.edu/welcome-to-reu-inclusion/)  
 Location: Urbana-Champaign, IL  
