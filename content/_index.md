@@ -7,13 +7,17 @@ weight: 10
 {{< button "https://services.acm.org/public/qj/chapqj/chapqj_control.cfm?chap=116970" "Join the ACM SigHPC Education Chapter" "group" >}}
 
 {{< card "Announcements" >}}
+### Undergraduate Summer Opportunities for Summer 2024
+
+The [Undergraduate Summer Opportunities]({{< relref ugsummerresources >}}) page is up to date for Summer 2024! 
+
 ### Preliminary Call for Nominations
 
 The chapter is announcing the call for nominations for the 2024 Educational Award For Outstanding Contribution to Computational Science Education.  [See the announcement dates.]({{< relref award24 >}})
 
 ### Education Activities at SC2023
 
-We have compiled a list of education and training events taking place at SC2024.  See the list [here]({{< relref events >}}).
+We have compiled a list of education and training events taking place at SC2023.  See the list [here]({{< relref sc23 >}}).
 {{< /card >}}
 
 
