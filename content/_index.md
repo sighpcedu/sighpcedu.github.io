@@ -9,14 +9,19 @@ weight: 10
 {{< button "https://services.acm.org/public/qj/chapqj/chapqj_control.cfm?chap=116970" "Join the ACM SigHPC Education Chapter" "group" >}}
 
 {{< card "Announcements" >}}
-### Annual Meeting
-Please join us for our annual meeting on January 9, 2024 at 10 AM EST.  [See details here](https://sighpceducation.acm.org/events/annual24/)### Undergraduate Summer Opportunities for Summer 2024
 
+### Undergraduate Summer Opportunities for Summer 2024
 The [Undergraduate Summer Opportunities]({{< relref ugsummerresources >}}) page is up to date for Summer 2024! 
 
 ### Preliminary Call for Nominations
 
 The chapter is announcing the call for nominations for the 2024 Educational Award For Outstanding Contribution to Computational Science Education.  [See the announcement dates.]({{< relref award24 >}})
+
+### Annual Meeting
+
+Please join us for our annual meeting on January 9, 2024 at 10 AM EST.  [See details here](https://sighpceducation.acm.org/events/annual24/)
+
+
 
 
 <!-- ## About the Chapter
