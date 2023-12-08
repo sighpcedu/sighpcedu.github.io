@@ -19,7 +19,7 @@ The chapter is announcing the call for nominations for the 2024 Educational Awar
 
 ### Annual Meeting
 
-Please join us for our annual meeting on January 9, 2024 at 10 AM EST.  [See details here](https://sighpceducation.acm.org/events/annual24/)
+Please join us for our annual meeting on January 9, 2024 at 10 AM EST.  [See details here](https://sighpceducation.acm.org/events/annual24/){{< /card >}}
 
 
 
