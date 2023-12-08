@@ -4,14 +4,13 @@ LinkTitle: Home
 weight: 10
 ---
 
-### Annual Meeting
 
-Please join us for our annual meeting on January 9, 2024 at 10 AM EST.  [See details here](https://sighpceducation.acm.org/events/annual24/)
 
 {{< button "https://services.acm.org/public/qj/chapqj/chapqj_control.cfm?chap=116970" "Join the ACM SigHPC Education Chapter" "group" >}}
 
 {{< card "Announcements" >}}
-### Undergraduate Summer Opportunities for Summer 2024
+### Annual Meeting
+Please join us for our annual meeting on January 9, 2024 at 10 AM EST.  [See details here](https://sighpceducation.acm.org/events/annual24/)### Undergraduate Summer Opportunities for Summer 2024
 
 The [Undergraduate Summer Opportunities]({{< relref ugsummerresources >}}) page is up to date for Summer 2024! 
 
