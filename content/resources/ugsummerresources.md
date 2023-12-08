@@ -52,8 +52,20 @@ Dates: May 20 - August 9, 2024 or June 24 - September 13, 2024.
 Eligiblity: Enrolled undergraduate.  
 Applications Due: January 26, 2024.  
 
+Program: [TACC SCIPE AI in Civil Engineering](https://www.tacc.utexas.edu/education/undergraduates-graduates/scipe/)  
+Location: Austin, TX  
+Dates: June 1 - June 30, 2024.  
+Eligibility: Undergrads studying at a US institution.  
+Applications Due: February 6, 2024.  
+
+Program: [Anvil Research Experiences for Undergraduates](https://www.rcac.purdue.edu/anvil/reu)  
+Location: West Lafayette, IN  
+Dates: May 19 - August 4, 2024.  
+Eligibility: U.S. Citizen or permanent resident.  
+Applications Due: February 16, 2024.  
+
 Program: [WSU/UHCL REU: Advancing Data-Driven Deep Coupling of Computational Simulations and Experiments](https://reu.encs.vancouver.wsu.edu/)  
-Location: Vancouver, WA or Houston, TX, depending on project
+Location: Vancouver, WA or Houston, TX, depending on project  
 Dates: May 25 - August 2, 2024  
 Eligibility: US citizen or permanent resident enrolled as an undergraduate  
 Applications Due: March 15, 2024  
