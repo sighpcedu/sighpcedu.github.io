@@ -14,4 +14,5 @@ Join us at our annual meeting on January 9 at 9:00 AM Eastern Standard Time.
 
 We will review the chapter's activities over the past year and solicit ideas from the membership on actions to be taken in the coming year.
 
+
 [Join with zoom](https://us02web.zoom.us/j/87850867555?pwd=S2pOdWFkTXIwazRlMVR4OGZVbFlXUT09)
