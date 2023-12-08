@@ -336,6 +336,17 @@ CLASS:PUBLIC
 URL:https://sighpceducation.acm.org/events/sc23/
 END:VEVENT
 BEGIN:VEVENT
+UID: 67e22fbb80768c37bb1d79fab8def4ad@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20231208T152901
+DTSTART:20240109T150000Z
+DTEND:20240109T160000Z
+SUMMARY:SIGHPC Education Annual Meeting 2024 - ACM SigHPC Education Chapter - AMC SIGHPC Education ChapterDESCRIPTION:SIGHPC Education Annual Meeting 2024 Join us at our annual meeting on January 9 at 9:00 AM Eastern Standard Time. We will review the chapter&rsquo;s activities over the past year and solicit ideas from the membership on actions to be taken in the coming year. Join with zoom
+CLASS:PUBLIC
+URL:https://sighpceducation.acm.org/events/annual24/
+END:VEVENT
+BEGIN:VEVENT
 UID: 7fd6077c8a5ec4fad55884df8ff2001b@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
