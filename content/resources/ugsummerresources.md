@@ -52,6 +52,18 @@ Dates: May 20 - August 9, 2024 or June 24 - September 13, 2024.
 Eligiblity: Enrolled undergraduate.  
 Applications Due: January 26, 2024.  
 
+Program: [TACC SGX3 Science Gateway Development Internship](https://sciencegateways.org/internships)  
+Location: Austin, TX  
+Dates: June 3 - August 2, 2024.  
+Eligibility: All undergraduates.  
+Application Due: Reviews begin on November 1, 2023; applications close on January 31, 2024.  
+
+Program: [Flatiron Institute - Simons Foundation Center for Computational Neuroscience](https://apply.interfolio.com/137388)  
+Location: New York, NY  
+Dates: May 28 - August 9, 2024.  
+Eligibility: Enrolled undergraduate.  
+Applications Due: February 2, 2024.  
+
 Program: [TACC SCIPE AI in Civil Engineering](https://www.tacc.utexas.edu/education/undergraduates-graduates/scipe/)  
 Location: Austin, TX  
 Dates: June 1 - June 30, 2024.  
