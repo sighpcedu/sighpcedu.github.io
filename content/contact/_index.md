@@ -12,7 +12,8 @@ _Want to serve as an officer? See the [Officer Requirements]({{< relref officer-
 ### Chair
 
 **_Scott Callaghan_**  
-Southern California Earthquake Center  
+Computer Scientist
+Statewide California Earthquake Center  
 scottcal[at]usc.edu  
 
 ### Vice Chair
@@ -24,17 +25,11 @@ gassrg[at]ucmail.uc.edu
 ### Secretary Treasurer  
 
 **_Katherine Cahill_**  
-Education and Training Specialist  
-Ohio Supercomputer Center  
+Associate Director, High Performance Research Computing
+New Jersey Institute of Technology
 katharine.cahill[at]njit.edu  
 
 ### At Large Board Members  
-
-**_Luis A. Cuero Parra_**  
-Assistant Professor  
-Department of Computer Science and Information Systems  
-University of North Georgia  
-luis.cuevaparra[at]ung.edu
 
 **_David Joiner_**  
 Associate Professor  
