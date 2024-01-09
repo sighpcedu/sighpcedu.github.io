@@ -12,7 +12,7 @@ _Want to serve as an officer? See the [Officer Requirements]({{< relref officer-
 ### Chair
 
 **_Scott Callaghan_**  
-Computer Scientist
+Computer Scientist  
 Statewide California Earthquake Center  
 scottcal[at]usc.edu  
 
@@ -25,8 +25,8 @@ gassrg[at]ucmail.uc.edu
 ### Secretary Treasurer  
 
 **_Katherine Cahill_**  
-Associate Director, High Performance Research Computing
-New Jersey Institute of Technology
+Associate Director, High Performance Research Computing  
+New Jersey Institute of Technology  
 katharine.cahill[at]njit.edu  
 
 ### At Large Board Members  
