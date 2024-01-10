@@ -7,7 +7,7 @@ BEGIN:VEVENT
 UID: 67e22fbb80768c37bb1d79fab8def4ad@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
-DTSTAMP:20240110T184520
+DTSTAMP:20240110T184820
 DTSTART:20240109T150000Z
 DTEND:20240109T160000Z
 SUMMARY:SIGHPC Education Annual Meeting 2024 - ACM SigHPC Education Chapter - AMC SIGHPC Education ChapterDESCRIPTION:SIGHPC Education Annual Meeting 2024 Materials from the annual meeting on January 9 at 10:00 AM Eastern Standard Time. Meeting video Presentation slides
