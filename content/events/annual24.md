@@ -1,11 +1,11 @@
-----
+---
 Title: SIGHPC Education Annual Meeting 2024
 EventDate: 2024-01-09
 EventTime: 10:00:00
 TimeZone: America/Detroit
 category: event
 # Published date:
-Date: 2024-01-10T-9:00:00-06:00
+Date: 2024-01-10T09:00:00-06:00
 ---
 
 ## SIGHPC Education Annual Meeting 2024
