@@ -14,4 +14,4 @@ Materials from the annual meeting on January 9 at 10:00 AM Eastern Standard Time
 
 [Meeting video](https://youtu.be/FJoJ15n5bMs)
 
-[Presentation slides](/files/annual2024_slides)
+[Presentation slides](/files/annual2024slides)
