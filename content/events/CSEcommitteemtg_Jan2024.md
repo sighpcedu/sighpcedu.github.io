@@ -9,8 +9,8 @@ Summary: Computational Science Education Committee meeting to discuss curriculum
 
 ---
 
-Computational Science Education Committee will meet on the 4th Wednesday of the month at 9am eastern over the next several months. 
+Computational Science Education Committee will meet on the 4th Wednesday of the month at 9am eastern over the next several months.
 We will discuss ongoing computational science currciulum projects. The metadata working group will also review metadata work for an HPC education and
-training catalog from the HPC-ED project, see [here](https://hpc-ed.github.io/) for more information. 
+training catalog from the HPC-ED project, see [here](https://hpc-ed.github.io/) for more information.
 
 Meeting details are [available here](../files/CSEJan2024-meeting.pdf).
