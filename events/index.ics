@@ -4,6 +4,17 @@ PRODID:-//gohugo.io//Hugo 92//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID: f033646b7f0270220ab5e0478d3ad3db@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20240116T143814
+DTSTART:20240208T160000Z
+DTEND:20240208T170000Z
+SUMMARY:Magic Castle - Terraforming the cloud to teach HPC - ACM SigHPC Education Chapter - AMC SIGHPC Education ChapterDESCRIPTION:SIGHPC Education Webinar Magic Castle - Terraforming the cloud to teach HPC Are you new to the world of HPC and are trying to find an affordable and accessible way that you can learn, practice and experiment? Do you miss the days when learning about HPC was connecting a few gray boxes together and configuring a cluster? Do you wish you could transfer all the complexity inherent in production HPC systems into an accessible sandbox environment, designed to facilitate teaching and experimental development?
+CLASS:PUBLIC
+URL:https://sighpceducation.acm.org/events/magic_castle/
+END:VEVENT
+BEGIN:VEVENT
 UID: 67e22fbb80768c37bb1d79fab8def4ad@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
