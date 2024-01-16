@@ -12,10 +12,10 @@ The materials include, but are not limited to, courses, tutorials, reference gui
 Our blog has short articles that include interviews with students, faculty, and staff involved in computational science education.  It also highlights examples of education and training programs.  You can find it [here](https://blog.sighpceducation.acm.org/wp).
 {{< /card >}}
 
-{{< card "Undergraduate Summer Opportunities" >}}
-Our members have assembled a list of resources for undergraduates seeking HPC, computational science, or data science summer opportunities.
+{{< card "Undergraduate Research and Internship Opportunities" >}}
+Our members have assembled a list of resources for undergraduates seeking HPC, computational science, or data science opportunities during university breaks.
 
-[**Undergraduate Summer Opportunities**]({{< relref "ugsummerresources" >}})
+[**Undergraduate Research and Internship Opportunities**]({{< relref "ugsummerresources" >}})
 {{< /card >}}
 
 {{< card "HPC Resources" >}}
