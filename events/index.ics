@@ -334,6 +334,17 @@ CLASS:PUBLIC
 URL:https://sighpceducation.acm.org/events/bphte20_technical_program/
 END:VEVENT
 BEGIN:VEVENT
+UID: 5a197f70e911eddedbb53deb02d596c9@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20240116T184432
+DTSTART:20240124T140000Z
+DTEND:20240124T150000Z
+SUMMARY:Computational Science Education Committee Meeting - ACM SigHPC Education Chapter - AMC SIGHPC Education ChapterDESCRIPTION:Computational Science Education Committee will meet on the 4th Wednesday of the month at 9am eastern over the next several months. We will discuss ongoing computational science currciulum projects. The metadata working group will also review metadata work for an HPC education and training catalog from the HPC-ED project, see here for more information. Meeting details are available here.
+CLASS:PUBLIC
+URL:https://sighpceducation.acm.org/events/csecommitteemtg_jan2024/
+END:VEVENT
+BEGIN:VEVENT
 UID: 51a8ba6ba9deef19e9dde33eafdf1e7c@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
