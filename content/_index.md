@@ -1,12 +1,12 @@
 ---
-Title: ACM SigHPC Education Chapter
+Title: ACM SIGHPC Education Chapter
 LinkTitle: Home
 weight: 10
 ---
 
 
 
-{{< button "https://services.acm.org/public/qj/chapqj/chapqj_control.cfm?chap=116970" "Join the ACM SigHPC Education Chapter" "group" >}}
+{{< button "https://services.acm.org/public/qj/chapqj/chapqj_control.cfm?chap=116970" "Join the ACM SIGHPC Education Chapter" "group" >}}
 
 {{< card "Announcements" >}}
 
@@ -32,7 +32,7 @@ View the video and slides from the annual meeting on January 9, 2024 at 10 AM ES
 Membership is open in anyone interested in computational science and HPC education.  More information and a link to the membership application can be found on the [Membership page]({{< relref membership >}})
 {{< /card >}}
 
-{{< card "Read the SigHPC Education Blog" >}}
+{{< card "Read the SIGHPC Education Blog" >}}
 Our blog has short articles that include interviews with students, faculty, and staff involved in computational science education.  It also highlights examples of education and training programs.  You can find it [here](https://blog.sighpceducation.acm.org/wp).
 {{< /card >}}
 

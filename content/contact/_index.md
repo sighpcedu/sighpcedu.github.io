@@ -7,7 +7,7 @@ weight: 100
 
 _Want to serve as an officer? See the [Officer Requirements]({{< relref officer-requirements >}})_.
 
-## SigHPC Education Board
+## SIGHPC Education Board
 
 ### Chair
 

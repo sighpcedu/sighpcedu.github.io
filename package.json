@@ -1,7 +1,7 @@
 {
   "name": "sighpcedu",
   "version": "0.0.1",
-  "description": "The Website for the ACM SigHPC Education Chapter",
+  "description": "The Website for the ACM SIGHPC Education Chapter",
   "main": "index.js",
   "scripts": {
     "css": "npx tailwindcss -i assets/css/main.css -o assets/css/built.css --minify",

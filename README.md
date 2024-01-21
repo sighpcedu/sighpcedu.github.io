@@ -1,8 +1,8 @@
-# ACM SigHPC Education Chapter Website
+# ACM SIGHPC Education Chapter Website
 
 ## Contributing events or content
 
-Chapter members can contribute events or edit / add content to the SigHPC Edu 
+Chapter members can contribute events or edit / add content to the SIGHPC Edu 
 website. The workflow is
 
 1. Fork the [website repository](https://github.com/sighpcedu/sighpcedu.github.io) on GitHub.

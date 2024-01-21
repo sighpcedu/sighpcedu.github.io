@@ -1,5 +1,5 @@
 ---
-title: About the ACM SigHPC Education Chapter
+title: About the ACM SIGHPC Education Chapter
 linktitle: About
 menu: main
 weight: 10

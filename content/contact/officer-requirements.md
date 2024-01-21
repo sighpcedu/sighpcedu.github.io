@@ -1,18 +1,18 @@
 ---
 
-title: SigHPC Education Chapter Officers
+title: SIGHPC Education Chapter Officers
 
 ---
 
 ## SIGHPC Education Chapter Officers
 
-Volunteerism is the key component to the continued success of our SigHPC Education Chapter. We encourage SIGHPC members to consider serving as a chapter officer.  Nominations and applications for officers will be conducted each year and must be submitted around mid-April.  The officers shall be elected by a plurality of the votes cast at the annual election, to be held towards the end of April.  New officers will take office in May and serve for one year.
+Volunteerism is the key component to the continued success of our SIGHPC Education Chapter. We encourage SIGHPC members to consider serving as a chapter officer.  Nominations and applications for officers will be conducted each year and must be submitted around mid-April.  The officers shall be elected by a plurality of the votes cast at the annual election, to be held towards the end of April.  New officers will take office in May and serve for one year.
 
 The following are descriptions for each office:  
 
 ## Chair
 
-The Chair is the principal officer and is responsible for leading the Chapter and managing its activities in accordance with the policies and procedures of the ACM and the SigHPC Education Chapter bylaws. These activities include completion and submission of the financial report to ACM headquarters, prompt payment of bills, and presiding at all meetings of the Chapter and of its Executive Council.  The chair must be a full member of ACM as well as a member of the chapter.  
+The Chair is the principal officer and is responsible for leading the Chapter and managing its activities in accordance with the policies and procedures of the ACM and the SIGHPC Education Chapter bylaws. These activities include completion and submission of the financial report to ACM headquarters, prompt payment of bills, and presiding at all meetings of the Chapter and of its Executive Council.  The chair must be a full member of ACM as well as a member of the chapter.  
 
 ## Vice Chair
 
