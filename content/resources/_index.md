@@ -15,7 +15,7 @@ Our blog has short articles that include interviews with students, faculty, and 
 {{< card "Undergraduate Research and Internship Opportunities" >}}
 Our members have assembled a list of resources for undergraduates seeking HPC, computational science, or data science opportunities during university breaks.
 
-[**Undergraduate Research and Internship Opportunities**]({{< relref "ugsummerresources" >}})
+[**Undergraduate Research and Internship Opportunities**]({{< relref "ugopportunities" >}})
 {{< /card >}}
 
 {{< card "HPC Resources" >}}

@@ -11,7 +11,7 @@ weight: 10
 {{< card "Announcements" >}}
 
 ### Undergraduate Research Opportunities for 2024
-The [Undergraduate Research and Internship Opportunities]({{< relref ugsummerresources >}}) page is up to date for 2024! 
+The [Undergraduate Research and Internship Opportunities]({{< relref ugopportunities >}}) page is up to date for 2024! 
 
 ### Preliminary Call for Nominations
 
