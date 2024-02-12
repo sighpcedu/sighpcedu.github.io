@@ -11,7 +11,7 @@ Date: 2024-01-16T08:00:00-06:00
 
 [Meeting video](https://youtu.be/yS8Hec2YPeA)
 
-[Presentation slides](Magic_Castle-2024.pdf)
+[Presentation slides](../files/Magic_Castle-2024.pdf)
 
 ## SIGHPC Education Webinar Magic Castle - Terraforming the cloud to teach HPC
 
