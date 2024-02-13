@@ -6,12 +6,6 @@ aliases:
 
 We've assembled a list of undergraduate opportunities we're aware of in HPC, computational science, or data science.  This list is certainly not complete, so if you know of additional opportunities, please email us at chair at sighpcedu dot com and we'll add it here!
 
-<!-- Program: [LSU Interdisciplinary Research Experience in Computational Sciences (NSF REU)](https://reu.cct.lsu.edu/)  
-Location: Baton Rouge, LA  
-Dates: May 22-July 29, 2023  
-Eligibility: US citizens or permanent residents with at least 1 semester of college remaining.  
-Applications Due: March 1, 2023  //-->
-
 <!-- Program: [Los Alamos National Lab Supercomputer Institute](https://www.lanl.gov/projects/national-security-education-center/information-science-technology/summer-schools/cscnsi/index.php)  
 Location: Los Alamos, NM  
 Dates: May 20 – August 9, 2024.  
@@ -24,65 +18,65 @@ Dates: June 10 - August 9, 2024.
 Eligibility: US citizen, 18+ enrolled undergraduate. Preference given to rising seniors.  
 Applications due: January 3, 2024.  //-->
 
-Program: [NCAR Summer Internships in Parallel Computational Science (SIParCS)](https://www2.cisl.ucar.edu/outreach/internships/how_to_apply)  
+<!-- Program: [NCAR Summer Internships in Parallel Computational Science (SIParCS)](https://www2.cisl.ucar.edu/outreach/internships/how_to_apply)  
 Location: Boulder, CO  
 Dates: May 20 - August 2, 2024.  
 Eligibility: Completed one year of undergraduate work and able to work in the US.  
-Applications Due: January 19, 2024.  
+Applications Due: January 19, 2024.  //-->
 
-Program: [Lawrence Livermore National Lab HPC Cluster Engineer Academy](https://computing.llnl.gov/hpc-cluster-engineer-academy)  
+<!-- Program: [Lawrence Livermore National Lab HPC Cluster Engineer Academy](https://computing.llnl.gov/hpc-cluster-engineer-academy)  
 Location: Livermore, CA  
 Dates: A subset of May 6 - August 30, 2024.  
 Eligiblity: Enrolled undergraduate.  
-Applications Due: January 26, 2024.  
+Applications Due: January 26, 2024.  //-->
 
-Program: [Lawrence Livermore National Lab DevOps Internship Team](https://computing.llnl.gov/devops-internship-team-do-it)  
+<!-- Program: [Lawrence Livermore National Lab DevOps Internship Team](https://computing.llnl.gov/devops-internship-team-do-it)  
 Location: Livermore, CA  
 Dates: A subset of May 6 - August 30, 2024.  
 Eligiblity: Enrolled undergraduate.  
-Applications Due: January 26, 2024.  
+Applications Due: January 26, 2024.  //-->
 
-Program: [Lawrence Livermore National Lab Data Science Summer Institute](https://data-science.llnl.gov/dssi)  
+<!-- Program: [Lawrence Livermore National Lab Data Science Summer Institute](https://data-science.llnl.gov/dssi)  
 Location: Livermore, CA  
 Dates: May 20 - August 9, 2024 or June 24 - September 13, 2024.   
 Eligiblity: Enrolled undergraduate.  
-Applications Due: January 26, 2024.  
+Applications Due: January 26, 2024.  //-->
 
-Program: [TACC SGX3 Science Gateway Development Internship](https://sciencegateways.org/internships)  
+<!-- Program: [TACC SGX3 Science Gateway Development Internship](https://sciencegateways.org/internships)  
 Location: Austin, TX  
 Dates: June 3 - August 2, 2024.  
 Eligibility: All undergraduates.  
-Application Due: Reviews begin on November 1, 2023; applications close on January 31, 2024.  
+Application Due: Reviews begin on November 1, 2023; applications close on January 31, 2024.  //-->
 
-Program: [Clarkson University REU: High Performance Computing with Engineering Applications](http://reu-hpc.clarkson.edu/)  
+<!-- Program: [Clarkson University REU: High Performance Computing with Engineering Applications](http://reu-hpc.clarkson.edu/)  
 Location: Potsdam, NY  
 Dates: May 19 - July 23, 2024.  
 Eligibility: US citizen or permanent resident.  
-Application Due: February 1, 2024.  
+Application Due: February 1, 2024.  //-->
 
-Program: [Flatiron Institute - Simons Foundation Center for Computational Neuroscience](https://apply.interfolio.com/137388)  
+<!-- Program: [Flatiron Institute - Simons Foundation Center for Computational Neuroscience](https://apply.interfolio.com/137388)  
 Location: New York, NY  
 Dates: May 28 - August 9, 2024.  
 Eligibility: Enrolled undergraduate.  
-Applications Due: February 2, 2024.  
+Applications Due: February 2, 2024.  //-->
 
-Program: [Flatiron Institute - Simons Foundation Scientific Computing Core, High Performance Computing Intern](https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue-New-York-NY/High-Performance-Computing-Intern--Hardware-and-Software-Benchmarking-_R0001467-1?workerSubType=5a680967794410df19190359dd181ffb)  
+<!-- Program: [Flatiron Institute - Simons Foundation Scientific Computing Core, High Performance Computing Intern](https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue-New-York-NY/High-Performance-Computing-Intern--Hardware-and-Software-Benchmarking-_R0001467-1?workerSubType=5a680967794410df19190359dd181ffb)  
 Location: New York, NY  
 Dates: Late May - mid August, 2024.  
 Eligibility: Enrolled undergraduate or graduate.  
-Applications Due: February 2, 2024.  
+Applications Due: February 2, 2024.  //-->
 
-Program: [Flatiron Institute - Simons Foundation Scientific Computing Core, Scientific Computing Intern](https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue-New-York-NY/Scientific-Computing-Intern_R0001468-1?workerSubType=5a680967794410df19190359dd181ffb)  
+<!-- Program: [Flatiron Institute - Simons Foundation Scientific Computing Core, Scientific Computing Intern](https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue-New-York-NY/Scientific-Computing-Intern_R0001468-1?workerSubType=5a680967794410df19190359dd181ffb)  
 Location: New York, NY  
 Dates: Late May - mid August, 2024.  
 Eligibility: Enrolled undergraduate or graduate.  
-Applications Due: February 2, 2024.  
+Applications Due: February 2, 2024.  //-->
 
-Program: [TACC SCIPE AI in Civil Engineering](https://www.tacc.utexas.edu/education/undergraduates-graduates/scipe/)  
+<!-- Program: [TACC SCIPE AI in Civil Engineering](https://www.tacc.utexas.edu/education/undergraduates-graduates/scipe/)  
 Location: Austin, TX  
 Dates: June 1 - June 30, 2024.  
 Eligibility: Undergrads studying at a US institution.  
-Applications Due: February 6, 2024.  
+Applications Due: February 6, 2024.  //-->
 
 Program: [CRA Distributed Research Experiences for Undergraduates (DREU)](https://cra.org/cra-wp/dreu/)  
 Location: Varies  
@@ -96,11 +90,23 @@ Dates: May 19 - August 4, 2024.
 Eligibility: U.S. Citizen or permanent resident.  
 Applications Due: February 16, 2024.  
 
+Program: [Michigan State REU: Advanced Computational Research Experience](https://icer-acres.msu.edu/)  
+Location: East Lansing, MI  
+Dates: May 20 - July 26, 2024.  
+Eligiblity: U.S. Citizen or permanent resident.  
+Applications Due: February 29, 2024.  
+
 Program: [UW-Eau Claire REU:  Advancing high-performance computing opportunities in undergraduate research at UW-Eau Claire to meet challenges of multidisciplinary computational science](https://www.uwec.edu/academics/college-arts-sciences/nsf-reu/)  
 Location: Eau Claire, WI  
 Dates: June 3 - August 9, 2024.  
 Eligibility: U.S. Citizen or permanent resident.  
 Applications Due: March 1, 2024.  
+
+Program: [LSU Interdisciplinary Research Experience in Computational Sciences (NSF REU)](https://reu.cct.lsu.edu/)  
+Location: Baton Rouge, LA  
+Dates: May 27-August 3, 2024  
+Eligibility: US citizens or permanent residents with at least 1 semester of college remaining.  
+Applications Due: March 1, 2024  
 
 Program: [WSU/UHCL REU: Advancing Data-Driven Deep Coupling of Computational Simulations and Experiments](https://reu.encs.vancouver.wsu.edu/)  
 Location: Vancouver, WA or Houston, TX, depending on project  
@@ -110,8 +116,14 @@ Applications Due: March 15, 2024.
 
 Program:  [NCSA: The Future of Discovery: Training Students to Build and Apply Open Source Machine Learning Models and Tools (FoDOMMaT) (NSF REU)](https://reu.ncsa.illinois.edu/welcome-to-reu-inclusion/)  
 Location: Urbana-Champaign, IL  
-Dates: May 20-July 26, 2023  
+Dates: May 20-July 26, 2024  
 Eligibility: US citizens or permanent residents enrolled in a degree program, 18+ by the start of the program.  
+Applications Due:  March 17, 2024.  
+
+Program: [CSUN REU: Applying Data Science on Energy-efficient Cluster Systems and Applications](https://www.csun.edu/reu)  
+Location: Northridge, CA  
+Dates: June 3 - July 26, 2024  
+Eligibility: US citizens or permanent residents with at least one year of undergraduate schooling remaining.  Computer Science, Computer Information Systems, Computer Engineering, or related majors.  
 Applications Due:  March 17, 2024.  
 
 Program: [Los Alamos National Laboratory Computational Sciences Undergraduate Internship Program](https://lanl.jobs/search/jobdetails/computational-sciences-undergraduate-internship-program/36942a43-0a8b-477d-bd2e-ac79c8f78391)  
