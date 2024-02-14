@@ -334,10 +334,21 @@ CLASS:PUBLIC
 URL:https://sighpceducation.acm.org/events/bphte20_technical_program/
 END:VEVENT
 BEGIN:VEVENT
+UID: 7503b9067ddf9e6f19c8c09c07065130@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20240214T194228
+DTSTART:20240228T140000Z
+DTEND:20240228T150000Z
+SUMMARY:Computational Science Education Committee Meeting - ACM SIGHPC Education Chapter - AMC SIGHPC Education ChapterDESCRIPTION:Computational Science Education Committee meeting to discuss curriculum and metadata projects.
+CLASS:PUBLIC
+URL:https://sighpceducation.acm.org/events/csecommitteemtg_feb2024/
+END:VEVENT
+BEGIN:VEVENT
 UID: 5a197f70e911eddedbb53deb02d596c9@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
-DTSTAMP:20240116T202434
+DTSTAMP:20240214T194228
 DTSTART:20240124T140000Z
 DTEND:20240124T150000Z
 SUMMARY:Computational Science Education Committee Meeting - ACM SIGHPC Education Chapter - AMC SIGHPC Education ChapterDESCRIPTION:Computational Science Education Committee meeting to discuss curriculum and metadata projects.
