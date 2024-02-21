@@ -4,6 +4,17 @@ PRODID:-//gohugo.io//Hugo 92//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID: 2fa979c78147de2e96061deebbd9ea91@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20240221T145353
+DTSTART:20241117T130000Z
+DTEND:20241117T140000Z
+SUMMARY:Workshop on Best Practices for HPC Training and Education - ACM SIGHPC Education Chapter - AMC SIGHPC Education ChapterDESCRIPTION:Call for Papers Eleventh SC Workshop on Best Practices for HPC Training and Education (BPHTE24) November 17-22, 2024 Held in conjunction with SC24: The International Conference on High Performance Computing, Networking, Storage, and Analysis https://sc24.supercomputing.org/ Since 2014, the Best Practices for HPC Training workshop series at SC has provided a global forum for addressing common challenges and solutions for enhancing HPC training and education, for sharing information through large and small group discussions, and for fostering collaboration opportunities.
+CLASS:PUBLIC
+URL:https://sighpceducation.acm.org/events/bphte24cfp/
+END:VEVENT
+BEGIN:VEVENT
 UID: f033646b7f0270220ab5e0478d3ad3db@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
