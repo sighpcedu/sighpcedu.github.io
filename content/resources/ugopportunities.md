@@ -78,17 +78,17 @@ Dates: June 1 - June 30, 2024.
 Eligibility: Undergrads studying at a US institution.  
 Applications Due: February 6, 2024.  //-->
 
-Program: [CRA Distributed Research Experiences for Undergraduates (DREU)](https://cra.org/cra-wp/dreu/)  
+<!-- Program: [CRA Distributed Research Experiences for Undergraduates (DREU)](https://cra.org/cra-wp/dreu/)  
 Location: Varies  
 Dates: Summer 2024, students and mentors decide specific dates   
 Eligibility: Undergrads.  Most funds are reserved for US citizens and permanent residents.  Priority is given to students from underrepresented groups.  
-Applications Due: December 15, 2023 (early deadline); February 15 (general deadline)  
+Applications Due: December 15, 2023 (early deadline); February 15 (general deadline)  //-->
 
-Program: [Anvil Research Experiences for Undergraduates](https://www.rcac.purdue.edu/anvil/reu)  
+<!-- Program: [Anvil Research Experiences for Undergraduates](https://www.rcac.purdue.edu/anvil/reu)  
 Location: West Lafayette, IN  
 Dates: May 19 - August 4, 2024.  
 Eligibility: U.S. Citizen or permanent resident.  
-Applications Due: February 16, 2024.  
+Applications Due: February 16, 2024.  //-->
 
 Program: [Michigan State REU: Advanced Computational Research Experience](https://icer-acres.msu.edu/)  
 Location: East Lansing, MI  
@@ -107,6 +107,12 @@ Location: Baton Rouge, LA
 Dates: May 27-August 3, 2024  
 Eligibility: US citizens or permanent residents with at least 1 semester of college remaining.  
 Applications Due: March 1, 2024  
+
+Program: [ACCESS Student Training and Engagement Program (STEP)](https://operations.access-ci.org/step)  
+Location: Initial training in Miami, FL; work done both in Urbana-Champaign, IL and virtually  
+Dates: May 13 - May 24 in Miami; June-July in Champaign; July-August virtually  
+Eligibility: Undergraduate and graduate students attending US-based institutions.  Priority given to underrepresented populations in STEM.  
+Applications Due: Extended to March 3, 2024.  
 
 Program: [WSU/UHCL REU: Advancing Data-Driven Deep Coupling of Computational Simulations and Experiments](https://reu.encs.vancouver.wsu.edu/)  
 Location: Vancouver, WA or Houston, TX, depending on project  
