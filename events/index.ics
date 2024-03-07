@@ -367,6 +367,17 @@ CLASS:PUBLIC
 URL:https://sighpceducation.acm.org/events/csecommitteemtg_jan2024/
 END:VEVENT
 BEGIN:VEVENT
+UID: 4998fab3444bd1bb5e4a7d9cd0e2f06e@sighpceducation.acm.org
+STATUS:CONFIRMED
+SEQUENCE:0
+DTSTAMP:20240307T053647
+DTSTART:20240318T090000Z
+DTEND:20240318T100000Z
+SUMMARY:Diary of a Pawsey Intern (Mentor) – Panel Discussion - ACM SIGHPC Education Chapter - AMC SIGHPC Education ChapterDESCRIPTION:Panel discussion featuring interns from the Australian Internship Program.
+CLASS:PUBLIC
+URL:https://sighpceducation.acm.org/events/pawseyinternpanel24/
+END:VEVENT
+BEGIN:VEVENT
 UID: 51a8ba6ba9deef19e9dde33eafdf1e7c@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
