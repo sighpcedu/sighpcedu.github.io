@@ -5,7 +5,6 @@ EventTime: 17:00:00
 TimeZone: Australia/Perth
 category: event
 Date: 2024-03-05T-9:00:00-06:00 {{/* This is the PUBLISHED date, any date in the future will not be published to the deployed website */}}
-Summary: Panel discussion featuring interns from the Australian Internship Program.
 
 ---
 
