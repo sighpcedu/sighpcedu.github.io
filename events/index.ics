@@ -370,10 +370,10 @@ BEGIN:VEVENT
 UID: 4998fab3444bd1bb5e4a7d9cd0e2f06e@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
-DTSTAMP:20240307T053647
+DTSTAMP:20240307T053913
 DTSTART:20240318T090000Z
 DTEND:20240318T100000Z
-SUMMARY:Diary of a Pawsey Intern (Mentor) – Panel Discussion - ACM SIGHPC Education Chapter - AMC SIGHPC Education ChapterDESCRIPTION:Panel discussion featuring interns from the Australian Internship Program.
+SUMMARY:Diary of a Pawsey Intern (Mentor) – Panel Discussion - ACM SIGHPC Education Chapter - AMC SIGHPC Education ChapterDESCRIPTION:Just as Greg muddles his way through middle school in Diary of a Wimpy Kid, Pawsey Interns are asked to navigate a confusing world of science and high performance computing – sometimes with little to no background in either. Join this panel discussion to learn about the 10-week, paid Australian Internship Program as experienced by the Interns and Intern Mentors. Hear their journeys, their challenges and their successes – from bootcamp training through to final project showcase.
 CLASS:PUBLIC
 URL:https://sighpceducation.acm.org/events/pawseyinternpanel24/
 END:VEVENT
