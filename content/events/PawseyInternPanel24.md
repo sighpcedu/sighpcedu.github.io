@@ -13,4 +13,8 @@ Pawsey Interns are asked to navigate a confusing world of science and high perfo
 Join this panel discussion to learn about the 10-week, paid Australian Internship Program as experienced by the Interns and Intern Mentors.
 Hear their journeys, their challenges and their successes – from bootcamp training through to final project showcase. 
 
-A Zoom link for the panel will be posted here!
+Zoom link: https://us02web.zoom.us/j/82057899036?pwd=YS9zWGZ4VllFTWc0YmZCb0duUTUwZz09
+
+Meeting ID: 820 5789 9036
+
+Passcode: 315413
