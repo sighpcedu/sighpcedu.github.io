@@ -23,3 +23,4 @@ We currently have five working committees. Each has a charter purpose and short-
 - [**Outreach Committee**]({{< relref "outreach" >}})  
 - [**Workshop Committee**]({{< relref "workshop" >}})  
 - [**Systems Professionals Committee**]({{< relref "systems-professionals" >}})  
+- [**Awards Committee**]({{< relref "awards" >}})  
