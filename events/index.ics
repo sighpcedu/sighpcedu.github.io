@@ -392,7 +392,7 @@ BEGIN:VEVENT
 UID: bd246209524a271894cf95dc307540fd@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
-DTSTAMP:20240317T190833
+DTSTAMP:20240317T190957
 DTSTART:20240628T050000Z
 DTEND:20240628T060000Z
 SUMMARY:Nominations Open - Educational Award For Outstanding Contribution to Computational Science Education - ACM SIGHPC Education Chapter - AMC SIGHPC Education ChapterDESCRIPTION:The ACM SIGHPC Education Chapter is announcing the initiation of a biannual education award to recognize outstanding contributions to computational, data-enabled science, and HPC education and training in all disciplines. We are seeking nominations for candidates who have led projects or programs that have made significant contributions to computational science education, defined broadly to include all disciplines and all education levels. The executive committee of the SIGHPC Education Chapter (Chair, Vice-chair, and Secretary-treasurer) and SIGHPC are not eligible for this award.
