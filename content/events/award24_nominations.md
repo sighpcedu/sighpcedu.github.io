@@ -24,8 +24,8 @@ Nominations will include a statement endorsing the nominee, and up to three lett
 
 Application forms templates are below:
 
-[Nomination Form Word Template](https://sighpceducation.acm.org/committees/awards/committees/awards/Education_Award_Nomination_Form.docx)  
-[Nomination Form LateX Template](https://sighpceducation.acm.org/committees/awards/committees/awards/Education_Award_Nomination_Form.tex)  
+[Nomination Form Word Template](https://sighpceducation.acm.org/committees/awards/Education_Award_Nomination_Form.docx)  
+[Nomination Form LateX Template](https://sighpceducation.acm.org/committees/awards/Education_Award_Nomination_Form.tex)  
 
- - [2024 Awards Committee](https://sighpceducation.acm.org/committees/awards/committees/awards/index)
+ - [2024 Awards Committee](https://sighpceducation.acm.org/committees/awards/index)
 
