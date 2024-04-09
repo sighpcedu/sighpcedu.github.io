@@ -12,7 +12,7 @@ weight: 10
 
 ### Call for Papers [Workshop on Best Practices for HPC Training and Education](https://sighpceducation.acm.org/events/bphte24cfp/)
 
-### Webinar [Video Using Magic Castle to Teach HPC](https://sighpceducation.acm.org/events/magic_castle/)
+### Panel [Diary of a Pawsey Intern (Mentor)](https://sighpceducation.acm.org/events/pawseyinternpanel24/)
 
 ### Undergraduate Research Opportunities for 2024
 The [Undergraduate Research and Internship Opportunities]({{< relref ugopportunities >}}) page is up to date for 2024! 
