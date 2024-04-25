@@ -7,10 +7,10 @@ BEGIN:VEVENT
 UID: f04310dcd15e6865fee142b9746f8e07@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
-DTSTAMP:20240405T184509
+DTSTAMP:20240425T150806
 DTSTART:20240425T130000Z
 DTEND:20240425T140000Z
-SUMMARY:CodeRefinery - ACM SIGHPC Education Chapter - AMC SIGHPC Education ChapterDESCRIPTION:SIGHPC Education Webinar CodeRefinery - collaboratively training the next generation of Research Software Engineers CodeRefinery has been teaching over 2500 researchers since 2016 in FAIR research software development practices. All training materials (https://coderefinery.org/lessons/core/) are publicly available for everyone to use for self-learning and reusing (CC-BY) and we offer two free online workshops a year where we try to reach hundreds of participants and dozens of team leaders. The lessons are collaboratively developed with contributions from Nordics and beyond.
+SUMMARY:CodeRefinery - ACM SIGHPC Education Chapter - AMC SIGHPC Education ChapterDESCRIPTION:SIGHPC Education Webinar CodeRefinery - collaboratively training the next generation of Research Software Engineers YouTube Video Presentation slides CodeRefinery has been teaching over 2500 researchers since 2016 in FAIR research software development practices. All training materials (https://coderefinery.org/lessons/core/) are publicly available for everyone to use for self-learning and reusing (CC-BY) and we offer two free online workshops a year where we try to reach hundreds of participants and dozens of team leaders.
 CLASS:PUBLIC
 URL:https://sighpceducation.acm.org/events/code_refinery/
 END:VEVENT
