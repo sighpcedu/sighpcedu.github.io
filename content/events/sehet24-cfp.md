@@ -152,7 +152,6 @@ website](https://easychair.org/cfp/SEHET24).
     Urbana-Champaign
 -   Julia Mullen, MIT Lincoln Laboratory
 -   Susan H. Mehringer, Cornell University
--   Richard M. Coffey, Argonne National Laboratory (ANL)
 -   Henry Neeman, University of Oklahoma
 -   Gowtham Shankara, Michigan Technological University
 -   John Coulter, Georgia Institute of Technology
