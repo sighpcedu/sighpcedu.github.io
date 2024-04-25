@@ -17,7 +17,7 @@ weight: 10
 ### Undergraduate Research Opportunities for 2024
 The [Undergraduate Research and Internship Opportunities]({{< relref ugopportunities >}}) page is up to date for 2024! 
 
-### Preliminary Call for Nominations
+### Call for Nominations
 
 The chapter is announcing the call for nominations for the 2024 Educational Award For Outstanding Contribution to Computational Science Education.  [See the announcement dates.]({{< relref award24_nominations >}})
 
