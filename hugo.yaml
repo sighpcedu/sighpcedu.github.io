@@ -26,6 +26,12 @@ cascade:
   _target:
     path: '/events/**'
 
+menus:
+  main:
+  - name: Blog
+    URL: https://blog.sighpceducation.acm.org/wp/
+    weight: 15
+
 params:
   repo_url: https://github.com/sighpcedu/sighpcedu.github.io
   joinLink: https://services.acm.org/public/qj/chapqj/chapqj_control.cfm?chap=116970
