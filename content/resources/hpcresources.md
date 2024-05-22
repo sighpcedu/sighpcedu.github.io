@@ -53,7 +53,7 @@ title: HPC Resource Links
 
 | Resource Name                                                                                         | Type     |
 |-------------------------------------------------------------------------------------------------------|----------|
-| [NERSC Online Tutorials](https://www.nersc.gov/users/training/online-tutorials)                       | Tutorial |
+| [NERSC Online Tutorials](https://www.nersc.gov/users/training/)                                       | Tutorial |
 | [Large Data Visualization](https://cvw.cac.cornell.edu/LargeVis/)                                     | Tutorial |
 | [HPC Textbook and Parallel Programming Book](https://theartofhpc.com/istc.html)                       | Book     |
 | [Parallel Programming in MPI and OpenMP](https://theartofhpc.com/pcse.html)                           | Book     |
