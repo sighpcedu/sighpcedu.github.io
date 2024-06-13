@@ -7,10 +7,10 @@ BEGIN:VEVENT
 UID: f006714431a7df2215033c0195613039@sighpceducation.acm.org
 STATUS:CONFIRMED
 SEQUENCE:0
-DTSTAMP:20240524T143814
+DTSTAMP:20240613T134647
 DTSTART:20240612T160000Z
 DTEND:20240612T170000Z
-SUMMARY:HPC Carpentry - ACM SIGHPC Education Chapter - AMC SIGHPC Education ChapterDESCRIPTION:SIGHPC Education Webinar HPC Carpentry Register and Connect to This Meeting The HPC Carpentry project has deep roots in some high-performance computing communities and has evolved considerably over several years. The basic idea is to make use of pedagogical techniques and the community-based continuous self-improvement that can be realized in the open-source world to develop instructional materials for novice users of HPC facilities. This fills an instructional gap that arises for both novice users of existing facilities, and investigators in research domains where HPC resources are newly available to them, due to the decreasing cost of increasingly sophisticated computing power.
+SUMMARY:HPC Carpentry - ACM SIGHPC Education Chapter - AMC SIGHPC Education ChapterDESCRIPTION:SIGHPC Education Webinar HPC Carpentry YouTube Video) The HPC Carpentry project has deep roots in some high-performance computing communities and has evolved considerably over several years. The basic idea is to make use of pedagogical techniques and the community-based continuous self-improvement that can be realized in the open-source world to develop instructional materials for novice users of HPC facilities. This fills an instructional gap that arises for both novice users of existing facilities, and investigators in research domains where HPC resources are newly available to them, due to the decreasing cost of increasingly sophisticated computing power.
 CLASS:PUBLIC
 URL:https://sighpceducation.acm.org/events/hpccarpentry/
 END:VEVENT
