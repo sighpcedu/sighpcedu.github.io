@@ -10,7 +10,7 @@ Date: 2024-05-24T08:00:00-06:00
 
 ## SIGHPC Education Webinar  HPC Carpentry
 
-[Register and Connect to This Meeting](https://us02web.zoom.us/meeting/register/tZIvd--prjIiHtVgDtcneIBe8FAsGGe6ljjp)
+[YouTube Video](https://youtu.be/Wv0rf3Fyh7M))
 
 The HPC Carpentry project has deep roots in some high-performance computing communities and has evolved considerably over several years.  The basic idea is to make use of pedagogical techniques and the community-based continuous self-improvement that can be realized in the open-source world to develop instructional materials for novice users of HPC facilities.
 
