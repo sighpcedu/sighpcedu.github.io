@@ -7,6 +7,7 @@ category: event
 # Published date:
 Date: 2024-01-10T09:00:00-06:00
 location: PEARC24 Conference. Providence, RI, USA 
+draft: true
 Summary: |
     **CALL FOR PAPERS:** The SEHET24 workshop is an [ACM SIGHPC Education
     Chapter](https://sighpceducation.acm.org) coordinated effort aimed at

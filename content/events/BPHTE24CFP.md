@@ -1,6 +1,6 @@
 ---
-Title: Workshop on Best Practices for HPC Training and Education
-EventDate: 2024-11-17
+Title: "CFP: Eleventh SC Workshop on Best Practices for HPC Training and Education (BPHTE24)"
+EventDate: 2024-08-12
 EventTime: 8:00:00
 TimeZone: America/Detroit
 category: event
