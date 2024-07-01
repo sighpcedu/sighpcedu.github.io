@@ -18,43 +18,44 @@ scottcal[at]usc.edu
 
 ### Vice Chair
 
-**_Richard Gass_**  
-University of Cincinnati  
-gassrg[at]ucmail.uc.edu  
+**_Weronika Filinger_**  
+Project Manager and Programme Director  
+EPCC  
+w.filinger[at]epcc.ed.ac.uk
 
 ### Secretary Treasurer  
 
-**_Katherine Cahill_**  
-Associate Director, High Performance Research Computing  
-New Jersey Institute of Technology  
-katharine.cahill[at]njit.edu  
+**_Georgia Stuart_**  
+Research Scientist & Lead HPC Facilitator  
+Research Computing & Data  
+University of Massachusetts Amherst  
+gstuart[at]umass.edu 
 
 ### At Large Board Members  
 
 **_David Joiner_**  
 Associate Professor  
 Kean University  
-djoiner@keen.edu  
+djoiner[at]keen.edu  
 
-**_Georgia Stuart_**  
-Research Scientist & Lead HPC Facilitator  
-Research Computing & Data  
-University of Massachusetts Amherst  
-gstuart@umass.edu 
+**_Ana Marija Sokovic_**  
+Computational Scientist  
+University of Illinois Chicago  
+sokovic.anamarija[at]gmail.com
 
 ### European, Asia/Pacific, and African At Large Board Members
 
 **_Martin Callaghan_**  
-Research Computing Consultant  
-University of Leeds  
-callaghanmt(at)gmail.com  
+Principal Consultant  
+Red Oak Consulting  
+martin.callaghan[at]redoakconsulting.co.uk
 
-**_Ann Backhaus_**  
-Education and Training Manager  
+**_Fathima Haseen_**  
+Education and Training Specialist  
 Pawsey Supercomputing Centre  
-ann.backhaus(at)pawsey.org.au  
+fathima.haseen[at]csiro.au
 
 **_Bryan Johnston_**  
 Senior HPC Technologist  
 Centre for High Performance Computing  
-bjohnston(at)csir.co.za  
+bjohnston(at)csir.co.za
