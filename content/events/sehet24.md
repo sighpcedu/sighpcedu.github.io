@@ -42,16 +42,16 @@ online learning tools to new HPC platforms.
 
 | **Time** | **Topic** |
 |---|---|
-| 09:00 AM-9:10 AM | Welcome SIGHPC Education Chapter  Nitin Sukhija, Slippery Rock University of Pennsylvania |
+| 09:00 AM-9:10 AM | **Welcome SIGHPC Education Chapter**,  Nitin Sukhija, Slippery Rock University of Pennsylvania |
 | **_9:10 AM - 10:30 AM_** | **_Paper Session_** |
-| 9:10 AM - 9:35 AM | "An Interdisciplinary Introduction to High Performance Computing for Undergraduate Programs". Cody Stevens, Sean Anderson and Adam Carlson |
-| 9:35 AM - 10:00 AM | "Assessing the Impact of a CyberTraining Project: Expanding the Metrics". Sandra Nite, Josh Winchell, Maikel Pennings, Dhruva Chakravorty and Keith Jackson |
-| 10:00 AM - 10:15 AM | "Creating Guidelines Supplementing Data Analytics Program in Community College to Prepare Careers in STEM and HPC". Elizabeth Bautista |
-| 10:15 AM - 10:30 AM | "Enhancing Online Learning Resources with an Integrated HPC Glossary". Ben Trumbore and Susan Mehringer |
+| 9:10 AM - 9:35 AM | *"An Interdisciplinary Introduction to High Performance Computing for Undergraduate Programs"*. Cody Stevens, Sean Anderson and Adam Carlson |
+| 9:35 AM - 10:00 AM | *"Assessing the Impact of a CyberTraining Project: Expanding the Metrics"*. Sandra Nite, Josh Winchell, Maikel Pennings, Dhruva Chakravorty and Keith Jackson |
+| 10:00 AM - 10:15 AM | *"Creating Guidelines Supplementing Data Analytics Program in Community College to Prepare Careers in STEM and HPC"*. Elizabeth Bautista |
+| 10:15 AM - 10:30 AM | *"Enhancing Online Learning Resources with an Integrated HPC Glossary"*. Ben Trumbore and Susan Mehringer |
 | **_10:30 AM - 11:00 AM_** | **_Break_** |
 | **_11:00 AM - 11:45 AM_** | **_Computational AI Session_** |
-| 11:00 AM - 11:15 AM | "The National Artificial Intelligence Research Resource (NAIRR) Pilot Support, Opportunities and Resources, ". Sharon Geva |
-| 11:15 AM - 11:45 AM | "Introduction to AI and HPC". Juanjo Garcia and Gil Speyer |
+| 11:00 AM - 11:15 AM | *"The National Artificial Intelligence Research Resource (NAIRR) Pilot Support, Opportunities and Resources"*. Sharon Geva |
+| 11:15 AM - 11:45 AM | *"Introduction to AI and HPC"*. Juanjo Garcia and Gil Speyer |
 | **_11:45 AM - 12:30 PM_** | **_Discussion Session_** |
-| 11:45 AM - 12:25 PM | Panel: "HPC Education and Training: Human-Centric Computing Perspective" Jane Herriman (Lawrence Livermore National Laboratory), Fang (Cherry) Liu (Georgia Institute of Technology), Robert Sinkovits (San Diego Supercomputer Center), Linda Akli (Texas Advanced Computing Center), and Richard Knepper (Cornell University) |
+| 11:45 AM - 12:25 PM | Panel: *"HPC Education and Training: Human-Centric Computing Perspective"*, Jane Herriman (Lawrence Livermore National Laboratory), Fang (Cherry) Liu (Georgia Institute of Technology), Robert Sinkovits (San Diego Supercomputer Center), Linda Akli (Texas Advanced Computing Center), and Richard Knepper (Cornell University) |
 | 12:25 PM - 12:30 PM | Next Steps and Action Plans |
