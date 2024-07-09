@@ -2,7 +2,7 @@
 Title: SIGHPC Education Chapter Annual Meeting
 EventDate: 2022-12-08
 EventTime: 10:00:00
-TimeZone: US/Eastern
+TimeZone: America/New_York
 category: event
 # Published date:
 Date: 2022-02-13T12:00:00-06:00

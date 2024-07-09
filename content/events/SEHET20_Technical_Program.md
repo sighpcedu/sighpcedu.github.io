@@ -2,7 +2,7 @@
 title: SEHET20 Technical Program
 EventDate: 2020-07-27
 EventTime: 13:00:00
-TimeZone: US/Pacific
+TimeZone: America/Los_Angeles
 category: event
 # Published date:
 Date: 2022-02-13T12:00:00-06:00

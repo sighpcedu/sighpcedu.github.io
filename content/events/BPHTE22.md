@@ -2,7 +2,7 @@
 Title: BPHTE22 Call for Papers
 EventDate: 2022-11-13
 EventTime: 9:00:00
-TimeZone: US/Mountain
+TimeZone: America/Denver
 category: event
 # Published date:
 Date: 2022-02-13T12:00:00-06:00
