@@ -14,7 +14,7 @@ Date: 2024-02-20T08:00:00-06:00
 November 17-22, 2024
 
 
-Held in conjunction with SC24: The International Conference on High Performance Computing, Networking, Storage, and Analysis
+*Held in conjunction with SC24: The International Conference on High Performance Computing, Networking, Storage, and Analysis*
 
 
 [https://sc24.supercomputing.org/](https://sc24.supercomputing.org/)
@@ -43,7 +43,7 @@ Topics of interest include, but are not limited to, the following:
 
 ## Submission Guidelines  
 
-The Workshop on Best Practices for HPC Training and Education (BPHTE24) follows a three-part submission process, with abstracts due by August 12, 2024, notification of acceptance by August 31, 2024, full papers due by September 9, 2024 and presentations by September 16, 2024 (There will be no extensions). Abstracts, papers and presentations must be submitted via the [BPHTE24 online submissions system.](https://submissions.supercomputing.org/?page=Submit&id=SC24WorkshopBestPracticesforHPCTrainingandEducationAbstract&site=sc24)
+The Workshop on Best Practices for HPC Training and Education (BPHTE24) follows a three-part submission process, with abstracts due by August 12, 2024, notification of acceptance by August 31, 2024, full papers due by September 9, 2024 and presentations by September 16, 2024 (There will be no extensions). Abstracts, papers and presentations must be submitted via the [BPHTE24 online submissions system.](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopBestPracticesforHPCTrainingandEducationAbstract&site=sc24)
 
 _The workshop papers, extended lightning talks and demo abstracts will be published in a special issue of [Journal of Computational Science Education](http://jocse.org/)_ For full consideration for publication, each paper and extended abstract should describe: :  
 
@@ -58,11 +58,11 @@ _The workshop papers, extended lightning talks and demo abstracts will be publis
 
 ## Abstract Submission (due August 12 , 2024)
 
-The first stage of a three-stage submission process for the workshop. The first step is to submit an abstract (max 250 words) for your paper, lightning talk or demonstration submission. Upon submission of this abstract, a link will appear on your "My Submissions" page for you to upload your additional extended abstract (max 2 pages). Incomplete submissions (i.e., ones that do not include a file upload) will not be reviewed. Please view sample submission [here.](https://submissions.supercomputing.org/?page=SampleForm&id=SC20WorkshopBestPracticesforHPCTrainingandEducationAbstract&site=sc20)
+The first stage of a three-stage submission process for the workshop. The first step is to submit an abstract (max 250 words) for your paper, lightning talk or demonstration submission. Upon submission of this abstract, a link will appear on your "My Submissions" page for you to upload your additional extended abstract (max 2 pages). Incomplete submissions (i.e., ones that do not include a file upload) will not be reviewed. Please view sample submission [here](https://submissions.supercomputing.org/?page=SampleForm&id=SCWorkshopBestPracticesforHPCTrainingandEducationAbstract&site=sc24).
 
 **Final Paper Submission (due September 9, 2024)**  
 
-Upon acceptance of your abstract, the second stage of the two-stage submission process is to submit a full paper, updated abstract or demo files depending on your submission type, to the online submission system. Please view sample submission [here.](https://submissions.supercomputing.org/?page=SampleForm&id=SC23WorkshopBestPracticesforHPCTrainingandEducationFinalSubmission&site=sc24)
+Upon acceptance of your abstract, the second stage of the two-stage submission process is to submit a full paper, updated abstract or demo files depending on your submission type, to the online submission system. Please view sample submission [here](https://submissions.supercomputing.org/?page=SampleForm&id=SCWorkshopBestPracticesforHPCTrainingandEducationFinalSubmission&site=sc24).
 
 **Final Presentation Submission (due September 16, 2024)**  
 
@@ -82,13 +82,13 @@ Submissions will be peer-reviewed by at least 3 individuals. After the prelimina
 
 ### Submission types
 
-All submissions must indicate the topic of interest listed above and the contribution types (full papers, lightning talks and demos). Please view sample submission from Journal of Computational Science Education [here](https://submissions.supercomputing.org/?page=SampleForm&d=SC24WorkshopBestPracticesforHPCTrainingandEducationAbstract&site=sc24)
+All submissions must indicate the topic of interest listed above and the contribution types (full papers, lightning talks and demos). Please view sample submission from Journal of Computational Science Education [here](https://submissions.supercomputing.org/?page=SampleForm&id=SCWorkshopBestPracticesforHPCTrainingandEducationAbstract&site=sc24).
 
 ###  Dual submission 
 
 Submission material cannot overlap substantially with any paper previously accepted for publication or under review by any conference or journal during the SC review process.
 
-_Paper submission is available online via: submissions link on the [Workshop website.](https://submissions.supercomputing.org/?page=Submit&id=SC23WorkshopBestPracticesforHPCTrainingandEducationAbstract&site=sc24)_
+_Paper submission is available online via: submissions link on the [Workshop website](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopBestPracticesforHPCTrainingandEducationAbstract&site=sc24)._
 
 ## Important Dates:  
 Submissions Open: May 18, 2024  
