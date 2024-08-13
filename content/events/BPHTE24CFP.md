@@ -1,7 +1,7 @@
 ---
 Title: "CFP: Eleventh SC Workshop on Best Practices for HPC Training and Education (BPHTE24)"
-EventDate: 2024-08-12
-EventTime: 8:00:00
+EventDate: 2024-08-19
+EventTime: 23:59:00
 TimeZone: America/Detroit
 category: event
 # Published date:
@@ -10,6 +10,7 @@ Date: 2024-02-20T08:00:00-06:00
 
 ## Call for Papers Eleventh SC Workshop on Best Practices for HPC Training and Education (BPHTE24)
 
+***ABSTRACT DUE DATE EXTENDED TO AUGUST 19, 2024***
 
 November 17-22, 2024
 
@@ -43,7 +44,7 @@ Topics of interest include, but are not limited to, the following:
 
 ## Submission Guidelines  
 
-The Workshop on Best Practices for HPC Training and Education (BPHTE24) follows a three-part submission process, with abstracts due by August 12, 2024, notification of acceptance by August 31, 2024, full papers due by September 9, 2024 and presentations by September 16, 2024 (There will be no extensions). Abstracts, papers and presentations must be submitted via the [BPHTE24 online submissions system.](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopBestPracticesforHPCTrainingandEducationAbstract&site=sc24)
+The Workshop on Best Practices for HPC Training and Education (BPHTE24) follows a three-part submission process, with abstracts due by August 19, 2024, notification of acceptance by August 31, 2024, full papers due by September 9, 2024 and presentations by September 16, 2024 (There will be no extensions). Abstracts, papers and presentations must be submitted via the [BPHTE24 online submissions system.](https://submissions.supercomputing.org/?page=Submit&id=SC24WorkshopBestPracticesforHPCTrainingandEducationAbstract&site=sc24)
 
 _The workshop papers, extended lightning talks and demo abstracts will be published in a special issue of [Journal of Computational Science Education](http://jocse.org/)_ For full consideration for publication, each paper and extended abstract should describe: :  
 
@@ -56,7 +57,7 @@ _The workshop papers, extended lightning talks and demo abstracts will be publis
 *   reproducibility of the processes and resources
 *   relevance to the broad range of training or education topics associated with the workshop
 
-## Abstract Submission (due August 12 , 2024)
+## Abstract Submission (due August 19, 2024)
 
 The first stage of a three-stage submission process for the workshop. The first step is to submit an abstract (max 250 words) for your paper, lightning talk or demonstration submission. Upon submission of this abstract, a link will appear on your "My Submissions" page for you to upload your additional extended abstract (max 2 pages). Incomplete submissions (i.e., ones that do not include a file upload) will not be reviewed. Please view sample submission [here](https://submissions.supercomputing.org/?page=SampleForm&id=SCWorkshopBestPracticesforHPCTrainingandEducationAbstract&site=sc24).
 
@@ -92,7 +93,7 @@ _Paper submission is available online via: submissions link on the [Workshop web
 
 ## Important Dates:  
 Submissions Open: May 18, 2024  
-Abstract Submission Deadline: August 12, 2024  
+Abstract Submission Deadline: August 19, 2024  
 Notification of acceptance: August 31, 2024  
 Final paper submissions: September 9, 2024  
 Final Presentation Due: September 16, 2024  
