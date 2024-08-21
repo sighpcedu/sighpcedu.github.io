@@ -23,6 +23,8 @@ The Oak Ridge Leadership Computing Facility (OLCF) provides ParaView server inst
 
 This tutorial covers using ParaView to process data at the Oak Ridge Leadership Computing Facility. We focus on running ParaView on the Frontier HPC system. In this tutorial, we cover connecting an interactive session to Frontier, performing several visualization operations on data characteristic of that analyzed at OLCF, and setting up automated batch processing. We also discuss how to leverage the GPU processors on Frontier through ParaView’s use of VTK-m. Although the particulars of this tutorial focus on Frontier, the procedure is similar for other HPC systems. ParaView was designed to run on anything from laptops to supercomputers, so you can analyze small datasets all the way up to exascale datasets.
 
-Registration information and post-event materials can be found here:
+Registration information and post-event materials can be found here: [^1]
 
 [https://www.olcf.ornl.gov/calendar/paraview-on-frontier/](https://www.olcf.ornl.gov/calendar/paraview-on-frontier/)
+
+[^1]: All are welcome to register and attend. However, an active Frontier allocation is required to participate in the hands-on component.
