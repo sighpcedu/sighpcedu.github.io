@@ -15,10 +15,12 @@ The ACM SIGHPC Education Chapter is excited to announce the recipient of the 202
 
 
 **Winner: Luis Felipe Coimbra Costa**
+
 The 2024 award goes to Luis Felipe Coimbra Costa for his pioneering work on the Heroine's Learning Journey (HLJ). Luis Felipe developed HLJ to tackle gender disparities in STEM education, particularly in computational science. The program’s innovative approach, which combines narrative-driven learning with the Heroines Learning System (HeLaS), has significantly increased diverse participation in STEM courses. His contributions stand out as a model for inclusivity and motivation in STEM education.
 
 
 **Honorable Mention: Henry Neeman**
+
 With over 30 years of experience, Henry Neeman has been a pillar in the HPC community. As Director of the University of Oklahoma's Supercomputing Center for Education & Research (OSCER), he has helped countless students and faculty integrate advanced computing into their work. Henry is renowned for his exceptional ability to connect people, fostering collaborations that have shaped computational science education. His leadership in initiatives like the SC11 Education Program has left a lasting impact on K-12 and undergraduate curricula.
 
 
