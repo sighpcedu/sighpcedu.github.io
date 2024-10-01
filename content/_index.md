@@ -10,21 +10,9 @@ weight: 10
 
 {{< card "Announcements" >}}
 
-### Call for Papers [Workshop on Best Practices for HPC Training and Education](https://sighpceducation.acm.org/events/bphte24cfp/)
+### Congratulate our [2024 Educational Award honorees!](https://sighpceducation.acm.org/events/award24_announce)
 
-### Panel [Diary of a Pawsey Intern (Mentor)](https://sighpceducation.acm.org/events/pawseyinternpanel24/)
-
-### Undergraduate Research Opportunities for 2024
-The [Undergraduate Research and Internship Opportunities]({{< relref ugopportunities >}}) page is up to date for 2024! 
-
-### Call for Nominations
-
-The chapter is announcing the call for nominations for the 2024 Educational Award For Outstanding Contribution to Computational Science Education.  [See the announcement dates.]({{< relref award24_nominations >}})
-
-### Annual Meeting
-
-View the video and slides from the annual meeting on January 9, 2024 at 10 AM EST.  [Links to the meeting](https://sighpceducation.acm.org/events/annual24/){{< /card >}}
-
+### Upcoming [Workshop on Best Practices for HPC Training and Education](https://sighpceducation.acm.org/events/bphte24cfp/){{< /card >}}
 
 
 
