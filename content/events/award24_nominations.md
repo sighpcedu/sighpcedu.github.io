@@ -18,7 +18,7 @@ Nominations will be evaluated based on these criteria:
 * The project or program enhances the ability to engage, serve, and retain a diverse community of participants
 * The work has been recognized through presentations and publications.
 
-The recipient will receive a $2000 cash award, and travel support to attend the SC conference.
+The recipient will receive a $2000 cash award, and travel support to attend the SC conference.  For individuals with a permanent residence outside of the United States that receive a monetary award, ACM will withhold 30% of the award value for US taxes in compliance with the Internal Revenue Service. Based on the individual's location, they may be able to reclaim the tax withholding amount. ACM and SIGHPC will not provide assistance in reclaiming the withheld taxes. 
 
 Nominations will include a statement endorsing the nominee, and up to three letters of endorsement. Applications are due by Friday June 28, 2024 at anywhere on earth. The chapter will choose up to one award winner and up to two honorable mentions. Questions concerning award eligibility and nominations can be directed to award@sighpceducation.acm.org.
 
