@@ -1,5 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ACM SIGHPC Education Chapter on AMC SIGHPC Education Chapter</title><link>https://sighpceducation.acm.org/</link><description>Recent content in ACM SIGHPC Education Chapter on AMC SIGHPC Education Chapter</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://sighpceducation.acm.org/index.xml" rel="self" type="application/rss+xml"/><item><title>About the ACM SIGHPC Education Chapter</title><link>https://sighpceducation.acm.org/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/about/</guid><description>The SIGHPC Education chapter has as its purpose the promotion of interest in and knowledge of applications of High Performance Computing (HPC) and computational science. Join us in our efforts to promote computational science and HPC training and education by:
-Participating in our webinars and workshops, highlighted on our events pages Volunteer to work with one of our standing committees to provide leadership and coordination of events, training and education activities and resources for the community Use our pointers to training and education materials to find resources that help to update your skills and knowledge Learn from and contribute to our blog on computational science education and training Our goals Promote an increased knowledge of, and greater interest in, the educational and scientific aspects of HPC and their applications.</description></item><item><title>ParaView on Frontier Tutorial</title><link>https://sighpceducation.acm.org/events/2024-08-29-paraview-on-frontier/</link><pubDate>Wed, 21 Aug 2024 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/2024-08-29-paraview-on-frontier/</guid><description>ParaView is an open-source, multi-platform data analysis and visualization application that allows users to quickly build visualizations to analyze their data using qualitative and quantitative techniques. This tutorial covers using ParaView to process data at the Oak Ridge Leadership Computing Facility. Although the particulars of this tutorial focus on Frontier, the procedure is similar for other HPC systems. ParaView was designed to run on anything from laptops to supercomputers, so you can analyze small datasets all the way up to exascale datasets.</description></item><item><title>Seventh Workshop on Strategies for Enhancing HPC Education and Training (SEHET24)</title><link>https://sighpceducation.acm.org/events/sehet24/</link><pubDate>Sun, 30 Jun 2024 00:00:00 -0400</pubDate><guid>https://sighpceducation.acm.org/events/sehet24/</guid><description>The SEHET24 workshop is an &lt;a href="https://sighpceducation.acm.org">ACM SIGHPC Education
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ACM SIGHPC Education Chapter on AMC SIGHPC Education Chapter</title><link>https://sighpceducation.acm.org/</link><description>Recent content in ACM SIGHPC Education Chapter on AMC SIGHPC Education Chapter</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://sighpceducation.acm.org/index.xml" rel="self" type="application/rss+xml"/><item><title>About the ACM SIGHPC Education Chapter</title><link>https://sighpceducation.acm.org/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/about/</guid><description>&lt;p>The SIGHPC Education chapter has as its purpose the promotion of interest in and knowledge of applications of High Performance Computing (HPC) and computational science. Join us in our efforts to promote computational science and HPC training and education by:&lt;/p>
+&lt;ul>
+&lt;li>Participating in our webinars and workshops, highlighted on our events pages&lt;/li>
+&lt;li>Volunteer to work with one of our standing committees to provide leadership and coordination of events, training and education activities and resources for the community&lt;/li>
+&lt;li>Use our pointers to training and education materials to find resources that help to update your skills and knowledge&lt;/li>
+&lt;li>Learn from and contribute to our blog on computational science education and training&lt;/li>
+&lt;/ul>
+&lt;h2 id="our-goals">Our goals&lt;/h2>
+&lt;ul>
+&lt;li>Promote an increased knowledge of, and greater interest in, the educational and scientific aspects of HPC and their applications.&lt;/li>
+&lt;li>Provide a means of communication among individuals having an interest in education and career building activities relating to HPC and computational science.&lt;/li>
+&lt;li>Promote and collate education activities and programs through formal and informal education and training activities.&lt;/li>
+&lt;li>Provide guidance to the community on the competencies required for effective application of computational modeling, simulation, data analysis, and visualization techniques.&lt;/li>
+&lt;li>Provide information on quality educational programs and materials as will as facilitating experience building access to existing HPC resources.&lt;/li>
+&lt;/ul>
+&lt;p>To encourage worldwide membership, SIGHPC Education is a virtual chapter and will offer various ways for members to participate in learning activities over the Internet.&lt;/p></description></item><item><title>SC2024 Education Activities</title><link>https://sighpceducation.acm.org/events/sc24/</link><pubDate>Tue, 12 Nov 2024 08:00:00 -0500</pubDate><guid>https://sighpceducation.acm.org/events/sc24/</guid><description>Listings of HPC education workshops, talks, and BOFs at SC24.</description></item><item><title>SIGHPC Education Annual Meeting 2025</title><link>https://sighpceducation.acm.org/events/annual25/</link><pubDate>Tue, 12 Nov 2024 08:00:00 -0500</pubDate><guid>https://sighpceducation.acm.org/events/annual25/</guid><description>&lt;p>SIGHPC Education will hold the annual meeting on January 15 at 10:00 AM Eastern Standard Time.&lt;/p></description></item><item><title>ParaView on Frontier Tutorial</title><link>https://sighpceducation.acm.org/events/2024-08-29-paraview-on-frontier/</link><pubDate>Wed, 21 Aug 2024 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/2024-08-29-paraview-on-frontier/</guid><description>ParaView is an open-source, multi-platform data analysis and visualization application that allows users to quickly build visualizations to analyze their data using qualitative and quantitative techniques. This tutorial covers using ParaView to process data at the Oak Ridge Leadership Computing Facility. Although the particulars of this tutorial focus on Frontier, the procedure is similar for other HPC systems. ParaView was designed to run on anything from laptops to supercomputers, so you can analyze small datasets all the way up to exascale datasets.</description></item><item><title>Seventh Workshop on Strategies for Enhancing HPC Education and Training (SEHET24)</title><link>https://sighpceducation.acm.org/events/sehet24/</link><pubDate>Sun, 30 Jun 2024 00:00:00 -0400</pubDate><guid>https://sighpceducation.acm.org/events/sehet24/</guid><description>The SEHET24 workshop is an &lt;a href="https://sighpceducation.acm.org">ACM SIGHPC Education
 Chapter&lt;/a> coordinated effort aimed at
 fostering collaborations among the practitioners from traditional and
 emerging fields to explore strategies to enhance computational,
@@ -7,116 +21,622 @@ data-enabled and HPC educational needs. Attendees will discuss
 approaches for developing and deploying HPC training and education, as
 well as identifying new challenges and opportunities for keeping pace
 with the rapid pace of technological advances - from collaborative and
-online learning tools to new HPC platforms.</description></item><item><title>HPC Carpentry</title><link>https://sighpceducation.acm.org/events/hpccarpentry/</link><pubDate>Fri, 24 May 2024 08:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/hpccarpentry/</guid><description>SIGHPC Education Webinar HPC Carpentry YouTube Video
-The HPC Carpentry project has deep roots in some high-performance computing communities and has evolved considerably over several years. The basic idea is to make use of pedagogical techniques and the community-based continuous self-improvement that can be realized in the open-source world to develop instructional materials for novice users of HPC facilities.
-This fills an instructional gap that arises for both novice users of existing facilities, and investigators in research domains where HPC resources are newly available to them, due to the decreasing cost of increasingly sophisticated computing power.</description></item><item><title>CodeRefinery</title><link>https://sighpceducation.acm.org/events/code_refinery/</link><pubDate>Thu, 04 Apr 2024 08:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/code_refinery/</guid><description>SIGHPC Education Webinar CodeRefinery - collaboratively training the next generation of Research Software Engineers YouTube Video
-Presentation slides
-CodeRefinery has been teaching over 2500 researchers since 2016 in FAIR research software development practices. All training materials (https://coderefinery.org/lessons/core/) are publicly available for everyone to use for self-learning and reusing (CC-BY) and we offer two free online workshops a year where we try to reach hundreds of participants and dozens of team leaders.</description></item><item><title>CFP: Eleventh SC Workshop on Best Practices for HPC Training and Education (BPHTE24)</title><link>https://sighpceducation.acm.org/events/bphte24cfp/</link><pubDate>Tue, 20 Feb 2024 08:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/bphte24cfp/</guid><description>Call for Papers Eleventh SC Workshop on Best Practices for HPC Training and Education (BPHTE24) ABSTRACT DUE DATE EXTENDED TO AUGUST 19, 2024
-November 17-22, 2024
-Held in conjunction with SC24: The International Conference on High Performance Computing, Networking, Storage, and Analysis
-https://sc24.supercomputing.org/
-Since 2014, the Best Practices for HPC Training workshop series at SC has provided a global forum for addressing common challenges and solutions for enhancing HPC training and education, for sharing information through large and small group discussions, and for fostering collaboration opportunities.</description></item><item><title>Magic Castle - Terraforming the cloud to teach HPC</title><link>https://sighpceducation.acm.org/events/magic_castle/</link><pubDate>Tue, 16 Jan 2024 08:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/magic_castle/</guid><description>Webinar Recording Meeting video
-Presentation slides
-SIGHPC Education Webinar Magic Castle - Terraforming the cloud to teach HPC Are you new to the world of HPC and are trying to find an affordable and accessible way that you can learn, practice and experiment? Do you miss the days when learning about HPC was connecting a few gray boxes together and configuring a cluster? Do you wish you could transfer all the complexity inherent in production HPC systems into an accessible sandbox environment, designed to facilitate teaching and experimental development?</description></item><item><title>SIGHPC Education Annual Meeting 2024</title><link>https://sighpceducation.acm.org/events/annual24/</link><pubDate>Wed, 10 Jan 2024 09:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/annual24/</guid><description>SIGHPC Education Annual Meeting 2024 Materials from the annual meeting on January 9 at 10:00 AM Eastern Standard Time.
-Meeting video
-Presentation slides</description></item><item><title>SEHET23 Technical Progam</title><link>https://sighpceducation.acm.org/events/sehet_23_tech/</link><pubDate>Wed, 05 Jul 2023 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/sehet_23_tech/</guid><description>Sixth Workshop on Strategies for Enhancing HPC Education and Training (SEHET23) Technical Program Monday July 24, 2023
-Time: 8:30 AM - 11:30 AM (PST)
-08:30 AM-8:45 AM
-Welcome SIGHPC Education Chapter
-Nitin Sukhija, Slippery Rock University of Pennsylvania
-8:45 AM -10:45 AM
-Paper Session
-8:45 AM -9:00 AM
-&amp;ldquo;Assessing Shared Material Usage in the High Performance Computing (HPC) Education and Training Community&amp;rdquo;. Susan Mehringer, Katharine Cahill, Charlie Dey, Scott Lathrop, J-P Navarro, Jeaime Powell and Mary Thomas</description></item><item><title>Three years of the ARCHER2 training service</title><link>https://sighpceducation.acm.org/events/archer2/</link><pubDate>Tue, 30 May 2023 01:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/archer2/</guid><description>SIGHPC Education Global Seminar Series - Three years of the ARCHER2 training service - a retrospective and forward look Juan Rodriguez Herrera
-Thursday, June 8
-16:00 BST
-11:00 AM EDT
-YouTube Video
-Abstract The ARCHER2 training service started in April 2020 with an online programme of courses and virtual tutorials. EPCC, as part of the ARCHER2 UK National service, deliver a training programme that covers a wide range of scientific disciplines and technology platforms, and addresses the training requirements of users with different needs and level of experience.</description></item><item><title>SIGHPC Education Global Seminar Series - Africa 1</title><link>https://sighpceducation.acm.org/events/africa1/</link><pubDate>Wed, 22 Mar 2023 10:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/africa1/</guid><description>SIGHPC Education Global Seminar Series - Africa 1 Bryan Johnston, Binjamin Barsch
-Friday, March 31 2023 at 08:30 AM EDT
-YouTube Video Presentation Slides: Talk #01 | Talk #02 Chat Transcript Abstract Talk 1: Towards Sustainable HPC Workforce Development for the HPC Ecosystems Community in Africa The HPC Ecosystems Project is responsible for the distribution and deployment of HPC Systems in Africa, as well as HPC Personnel training related to these systems.</description></item><item><title>Computational Physics Webinar - Computational Physics in the Classroom</title><link>https://sighpceducation.acm.org/events/physicsclass/</link><pubDate>Wed, 08 Mar 2023 10:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/physicsclass/</guid><description>Computational Physics Webinar - Computational Physics in the Classroom David Joiner, Rubin Landau, Robert Panoff, Richard Gass
-Wednesday, April 5 at 1:00 PM EDT.
-YouTube Video Presentation Slides: Talk #01 | Talk #02 | Talk #03 Abstract Presenters will discuss various aspects of integrating computational physics into the classroom
-Running classroom 3D Physics simulations with visualization in Unity Game Engine (David Joiner) Many Body for Anybody (Robert Panoff) Some CP Topics that Should be Taught, but Usually Aren&amp;rsquo;t (Rubin Landau) The session was moderated by Richard Gass</description></item><item><title>EESSI - A streamed, production-quality, multi-platform HPC software stack</title><link>https://sighpceducation.acm.org/events/eessi/</link><pubDate>Mon, 16 Jan 2023 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/eessi/</guid><description>EESSI: A streamed, production-quality, multi-platform HPC software stack Dr. Alan O&amp;rsquo;Cais and Kenneth Hoste
-Wednesday, January 25 at 10:00 AM ET.
-YouTube Video
-Presentation Slides
-Abstract The European Environment for Scientific Software Installations EESSI project aims to provide a ready-to-use stack of production-quality scientific software installations that can be leveraged easily on a variety of platforms, ranging from personal workstations to cloud environments and supercomputer infrastructure, without making compromises with respect to performance.</description></item><item><title>BPHTE23 Call for Papers</title><link>https://sighpceducation.acm.org/events/bphte23cfp/</link><pubDate>Tue, 03 Jan 2023 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/bphte23cfp/</guid><description>BPHTE23 CFP Call for Papers Tenth SC Workshop on Best Practices for HPC Training and Education (BPHTE23)
-November 12-17, 2023
-Held in conjunction with SC23: The International Conference on High Performance Computing, Networking, Storage, and Analysis
-https://sc23.supercomputing.org/
-Since 2014, the Best Practices for HPC Training workshop series at SC has provided a global forum for addressing common challenges and solutions for enhancing HPC training and education, for sharing information through large and small group discussions, and for fostering collaboration opportunities.</description></item><item><title>Second Workshop on Strategies for Enhancing HPC Education and Training Curriculum - SEHET19</title><link>https://sighpceducation.acm.org/events/sehet19/</link><pubDate>Tue, 30 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/sehet19/</guid><description>Second Workshop on Strategies for Enhancing HPC Education and Training PEARC Conference, Chicago, IL, July 28 - August 1, 2019 Presentation Slides</description></item><item><title>Educational Award For Outstanding Contribution to Computational Science Education</title><link>https://sighpceducation.acm.org/events/award_announce/</link><pubDate>Fri, 19 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/award_announce/</guid><description>ACM SIGHPC Education Chapter Educational Award For Outstanding Contribution to Computational Science Education The ACM SIGHPC Education Chapter is pleased to announce the first recipient of the Educational Award for Outstanding Contribution to Computational Science Education Dr. Robert M. Panoff.
-Dr. Robert Panoff is noted for his work assisting faculty with the integration of computational science into the undergraduate curriculum. Dr. Panoff also collected and distributed curricular materials as exemplars for adoption in the curriculum.</description></item><item><title>Sixth SC Workshop on Best Practices for HPC Training and Education - BPHTE19</title><link>https://sighpceducation.acm.org/events/bphte19agenda/</link><pubDate>Fri, 19 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/bphte19agenda/</guid><description>Sixth SC Workshop on Best Practices for HPC Training and Education - BPHTE19 Sunday November 17, 2019
-Time: 9 AM - 5:30 PM
-09:00 PM-09:20 AM
-Welcome SIGHPC Education Chapter
-Nitin Sukhija, Slippery Rock University of Pennsylvania
-Scott Lathrop, University of Illinois
-Julia Mullen, Massachusetts Institute of Technology
-Nia Alexandrov, Daresbury Laboratory, Sci-Tech Daresbury
-9:20 AM -12:30 PM
-Paper Session I: (Chair: Scott Lathrop)
-09:20 AM -09:40 AM
-FreeCompilerCamp.org: Training for OpenMP Compiler Development from Cloud.</description></item><item><title>Third Workshop on Strategies for Enhancing HPC Education and Training (SEHET20)</title><link>https://sighpceducation.acm.org/events/sehet20/</link><pubDate>Thu, 18 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/sehet20/</guid><description>Third Workshop on Strategies for Enhancing HPC Education and Training (SEHET20) at PEARC20 SEHET20_Technical_Program</description></item><item><title>March 2020 SIGHPC Education Chapter Update</title><link>https://sighpceducation.acm.org/events/update2020-3/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/update2020-3/</guid><description>March 2020 SIGHPC Education Chapter Update Monday March 16, 11 AM Eastern Time YouTube Video Presentation Slides</description></item><item><title>Mentoring Maximize Your Impact</title><link>https://sighpceducation.acm.org/events/mentoring_webinar/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/mentoring_webinar/</guid><description>Mentoring Webinar
-Mentoring: Maximize Your Impact Sally Ellingson, Sarvani Chadalapaka, Jay Lofstead, and Julian Kunkel
-Wednesday, November 6 at 12:00 PM ET.
-YouTube video
-Mentoring has the potential for great impact, and can play a key role in building community and bringing new researchers to HPC. However, sometimes getting involved in mentoring can be intimidating, and it can be difficult to find best practices for mentoring in HPC. In this webinar, &amp;ldquo;Mentoring: Maximize Your Impact&amp;rdquo;, four panelists with extensive mentoring experience will share their perspectives on effective mentoring, their own experiences, and tips on how to organize your mentoring program, followed by discussion and Q&amp;amp;A.</description></item><item><title>Overview of the 2019 Outreach Activities of the IEEE Technical Consortium on High Performance Computing</title><link>https://sighpceducation.acm.org/events/ieee/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/ieee/</guid><description>Overview of the 2019 Outreach Activities of the IEEE Technical Consortium on High Performance Computing Presentation Slides YouTube Video</description></item><item><title>Using flipped classroom and Jupiter Notebooks to teach undergraduates parallel programming</title><link>https://sighpceducation.acm.org/events/flipped/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/flipped/</guid><description>Using flipped classroom and Jupiter Notebooks to teach undergraduates parallel programming YouTube Video</description></item><item><title>Webinar - Choosing Accessible Conferencing and Chat Platforms</title><link>https://sighpceducation.acm.org/events/accessible/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/accessible/</guid><description> Choosing Accessible Conferencing and Chat Platforms Friday November 6, 2020 at 3:00 PM ET YouTube Video Chat contents with related links</description></item><item><title>Webinar - Doing more with Google CoLab - CUDA Programming and beyond</title><link>https://sighpceducation.acm.org/events/annual20/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/annual20/</guid><description> Annual Meeting and Member Update 2020 Tuesday, December 1, 9 AM ET YouTube Video Presentation Slides</description></item><item><title>Webinar - Doing more with Google CoLab - CUDA Programming and beyond</title><link>https://sighpceducation.acm.org/events/colab/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/colab/</guid><description> Webinar: Doing more with Google CoLab: CUDA Programming and beyond Thursday, March 17, 2022 11 AM EDT YouTube Video Presentation Details</description></item><item><title>Webinar - Incorporating High Performance Computing in a Physics Curriculum</title><link>https://sighpceducation.acm.org/events/physics1/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/physics1/</guid><description>Webinar - Incorporating High Performance Computing in a Physics Curriculum Tuesday September 15, 2020 at 10:00 AM ET YouTube Video Presentation Slides</description></item><item><title>Webinar - Integrating Computational Science into the Chemistry Curriculum</title><link>https://sighpceducation.acm.org/events/chem/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/chem/</guid><description>Integrating Computational Science into the Chemistry Curriculum Friday March 6, 2020 3 PM Eastern Time YouTube Video</description></item><item><title>Webinar - Introducing Computational Science in the Undergraduate Physics Curriculum</title><link>https://sighpceducation.acm.org/events/physics2/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/physics2/</guid><description>Introducing Computational Science in the Undergraduate Physics Curriculum Session 1: Thursday, November 14, 2019 YouTube Video Session 2: Friday, December 6, 2019 YouTube Video Presentation 1 Presentation 2</description></item><item><title>Webinar - Student Simulations of Local Wildfires in a Liberal Arts Geography Course</title><link>https://sighpceducation.acm.org/events/wildfire/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/wildfire/</guid><description>Student Simulations of Local Wildfires in a Liberal Arts Geography Course Thursday, January 27, 2022 11 AM ET YouTube Video</description></item><item><title>Workshop on Best Practices for HPC Training and Education - Agenda</title><link>https://sighpceducation.acm.org/events/sc19/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/sc19/</guid><description>Agenda - Workshop on Best Practices for HPC Training and Education BPHTE19 Agenda</description></item><item><title>Membership</title><link>https://sighpceducation.acm.org/membership/</link><pubDate>Wed, 20 Apr 2022 14:18:18 -0400</pubDate><guid>https://sighpceducation.acm.org/membership/</guid><description>group Join the SIGHPC Education ACM Chapter Chapter membership is open to anyone with an interest in High Performance Computing (HPC) education. Chapter members do not need to be members of ACM or enrolled with an educational institution
-Membership is $10 for professionals and $5 for students and you can join at this location: Membership Application. Once you have joined, you will be on our email list to receive notices of activities and events.</description></item><item><title>BPHTE22 Call for Papers</title><link>https://sighpceducation.acm.org/events/bphte22/</link><pubDate>Sun, 13 Feb 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/bphte22/</guid><description>BPHTE22 CFP Call for Papers
-Ninth SC Workshop on Best Practices for HPC Training and Education (BPHTE22)
-November 13-18, 2022
-Held in conjunction with SC22: The International Conference on High Performance Computing, Networking, Storage, and Analysis
-https://sc22.supercomputing.org/
-Since 2014, the Best Practices for HPC Training workshop series at SC has provided a global forum for addressing common challenges and solutions for enhancing HPC training and education, for sharing information through large and small group discussions, and for fostering collaboration opportunities.</description></item><item><title>Events 2018 and Prior</title><link>https://sighpceducation.acm.org/events/pre2018/</link><pubDate>Sun, 13 Feb 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/pre2018/</guid><description>Events from 2018 and Earlier OpenMP: An Industrial Strength On-Node Programming Model
-Monday January 7, 2018 11 AM Eastern Time Webinar Video Extending Computational Training Using Informal Means
-Tuesday, December 4, 2018 - YouTube Video Fifth SC Workshop on Best Practices for HPC Training and Education
-The Morgan Teaching to Increase Diversity in STEM (MTIDES) Project
-YouTube Video Introducing the HPC Certification Program
-Presentation Slides YouTube Video Trends and Strategies in Advanced Research Computing Education</description></item><item><title>SEHET20 Technical Program</title><link>https://sighpceducation.acm.org/events/sehet20_technical_program/</link><pubDate>Sun, 13 Feb 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/sehet20_technical_program/</guid><description>Third Workshop on Strategies for Enhancing HPC Education and Training (SEHET20)
-Monday July 27, 2020
-Time: 1:00 PM - 5 PM (PST)
-01:00 PM-1:20 PM
-Welcome SIGHPC Education Chapter
-Nitin Sukhija, Slippery Rock University of Pennsylvania
-1:20 PM -3:00 PM
-Paper Session
-1:20 PM -1:40 PM
-&amp;ldquo;Ask.Cyberinfrastructure.org: Creating a Platform for Self-Service Learning and Collaboration in the Rapidly Changing Environment of Research Computing&amp;rdquo;. Julie Ma, Torey Battelle, Katia Bulekova, John Goodhue, Aaron Culich and Jacob Pessin</description></item><item><title>SEHET22</title><link>https://sighpceducation.acm.org/events/sehet22/</link><pubDate>Sun, 13 Feb 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/sehet22/</guid><description>Fifth Workshop on Strategies for Enhancing HPC Education and Training (SEHET22)
-Monday July 11, 2022
-Time: 8:30 AM - 11:30 AM (EST)
-08:30 AM-8:45 AM
-Welcome SIGHPC Education Chapter
-Nitin Sukhija, Slippery Rock University of Pennsylvania
-8:45 AM -10:45 AM
-Paper Session
-8:45 AM -9:00 AM
-&amp;ldquo;The Multi-Tier Assistance, Training, and Computational Help (MATCH) project, a Track 2 NSF ACCESS Initiative&amp;rdquo;. Shelley Knuth, Julie Ma, Alan Chalker, Ewa Deelman, Layla Freeborn, VikrAM Gazula, John Goodhue, JAMes Griffioen, David Hudak, Andrew Pasquale and Mats Rynge</description></item><item><title>SIGHPC Education Chapter Annual Meeting</title><link>https://sighpceducation.acm.org/events/annual22/</link><pubDate>Sun, 13 Feb 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/annual22/</guid><description>SIGHPC Education Chapter Annual Meeting Come join us for our annual chapter meeting! This is a great opportunity to interact with chapter leadership, learn about ongoing projects, and help us shape our priorities for the upcoming year.
-Thursday, December 8, 10-11 am EST
-Post-meeting notes and presentation archive Meeting recording Meeting chat transcript Meeting notes Jamboard Chapter presentation Committee presentations Outreach committee Computational science education committee K-12 committee SYSPROS committee Workshop committee</description></item><item><title>BPHTE20 Technical Program</title><link>https://sighpceducation.acm.org/events/bphte20_technical_program/</link><pubDate>Fri, 02 Oct 2020 09:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/bphte20_technical_program/</guid><description>Tenth SC Workshop on Best Practices for HPC Training and Education BPHTE23 Wednesday November 11, 2020
-Time: 10 AM - 6:30 PM (EST)
-10:00 PM-10:15 AM
-Welcome SIGHPC Education Chapter
-Nitin Sukhija, Slippery Rock University of Pennsylvania
-10:15 AM -12:00 PM
-Session I: (Chair: Scott Lathrop)
-10:15 AM -10:30 AM
-DeapSECURE Computational Training for Cybersecurity Student: Improvements, Mid-Stage Evaluation, and Lessons Learned. Purwanto, He, Ossom, Zhang, Zhu, Arcaute, Sosonkina, Wu</description></item><item><title>Awards Committee</title><link>https://sighpceducation.acm.org/committees/awards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/committees/awards/</guid><description>Committee Description The awards committee is responsible for coordinating, revewing and selecting the bi-annual SigHPCEdu award to recognize outstanding contributions to computational, data-enabled science, and HPC education and training in all disciplines.
-2024 Committee 2024 committee consists of the following members.
-Dirk Colbry colbrydi[at].msu.edu
-Linda Akli lakli[at]tacc.utexas.edu Juana Moreno moreno[at]lsu.edu
-Aaron Weeden aaronwee[at]buffalo.edu Weronika Filinger w.filinger[at]epcc.ed.ac.uk
-Volunteer Opportunities A new committee is selected every two years. To join a future SigHPCEdu committee please send an email to the SigHPCEdu chair.</description></item><item><title>By-Laws</title><link>https://sighpceducation.acm.org/bylaws/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/bylaws/</guid><description>The SIGHPC Education chapter is the first ACM virtual Chapter. As such, we have devised a set of by-laws that reflects the fact that our membership will be widely distributed geographically and will participate in many of our activities remotely using Internet technologies.
-By-laws of the Special Interest Group on High Performance Computing Education Association for Computing Machinery (SIGHPC Education ACM) Chapter. Chartered: May 9, 2014 Article I: Name and Scope This organization shall be called: SIGHPC Education ACM Chapter.</description></item><item><title>Computational Science Education Committee</title><link>https://sighpceducation.acm.org/committees/computational-science-education/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/committees/computational-science-education/</guid><description>Committee Description This committee will be responsible for developing strategies to incorporate and/or enhance computational science education at all levels of education.
-The committee will explore education programs and instructional materials for computational and data science across the curriculum. This committee is charged with making available educational material relating to computational science and High Performance Computing. To accomplish this, the committee has assembled and maintains a list of related educational resources They also work with the Outreach Committee to identify and promote reviews of education and training content through webinars and chapter blog.</description></item><item><title>Computational Science Education Committee Meeting</title><link>https://sighpceducation.acm.org/events/csecommitteemtg_feb2024/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/events/csecommitteemtg_feb2024/</guid><description>Computational Science Education Committee meeting to discuss curriculum and metadata projects.</description></item><item><title>Computational Science Education Committee Meeting</title><link>https://sighpceducation.acm.org/events/csecommitteemtg_jan2024/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/events/csecommitteemtg_jan2024/</guid><description>Computational Science Education Committee meeting to discuss curriculum and metadata projects.</description></item><item><title>Computational Science Resources</title><link>https://sighpceducation.acm.org/resources/compsciresources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/resources/compsciresources/</guid><description>General Resource Name Type Interactive Science and Math Simulations Web Applets National Science Digital Library Computational Science Education Repository Petasale Education Modules Catalog Repository Petasale Education Modules - Undergraduate Repository Computational Science Education Reference Desk Repository Programming on Parallel Machines Textbook Open Encyclopedia of Parallel Algorithmic Features Textbook Specific Disciplines Resource Type Physics and Math Applets Applets Physics Laboratory Instructions Repository Shodor Model Example &amp;amp; Tools Repository - Chemistry, Biology. Math Economics Agent Models Repository Virtual Physics Laboratory Forum Computational Chemistry for Chemistry Educators Repository</description></item><item><title>Diary of a Pawsey Intern (Mentor) – Panel Discussion</title><link>https://sighpceducation.acm.org/events/pawseyinternpanel24/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/events/pawseyinternpanel24/</guid><description>Panel Recording
-Just as Greg muddles his way through middle school in Diary of a Wimpy Kid, Pawsey Interns are asked to navigate a confusing world of science and high performance computing – sometimes with little to no background in either. Join this panel discussion to learn about the 10-week, paid Australian Internship Program as experienced by the Interns and Intern Mentors. Hear their journeys, their challenges and their successes – from bootcamp training through to final project showcase.</description></item><item><title>Educational Award For Outstanding Contribution to Computational Science Education</title><link>https://sighpceducation.acm.org/events/award24/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/events/award24/</guid><description>The ACM SIGHPC Education Chapter is announcing an upcoming call for nominations for the 2024 education award to recognize outstanding contributions to computational, data-enabled science, and HPC education and training in all disciplines.
-The call for nominations will be issued in March, 2024 with a deadline for submissions on May 31 2024.
-We are seeking candidates who have led projects or programs that have made significant contributions to computational science education defined broadly to include all disciplines and all education levels.</description></item><item><title>Educational Award For Outstanding Contribution to Computational Science Education</title><link>https://sighpceducation.acm.org/events/award24_announce/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/events/award24_announce/</guid><description>ACM SIGHPC Education Chapter Educational Award For Outstanding Contribution to Computational Science Education The ACM SIGHPC Education Chapter is excited to announce the recipient of the 2024 Educational Award for Outstanding Contribution to Computational Science Education. We received an impressive number of applications, making the selection process highly competitive. We are proud to recognize both an honorable mention and a winner who have made significant contributions to the advancement of computational science education.</description></item><item><title>HPC Resource Links</title><link>https://sighpceducation.acm.org/resources/hpcresources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/resources/hpcresources/</guid><description>Getting Started Resource Name Type Oklahoma University Center for Education and Research Workshops Software Carpentry: Basic Skills for Research Computing Web training Matlab_Octave Tutorial Basics - Supercomputing Portal Repository and Links ARCHER-UK National Supercomputing Service Online Training Repository Everyone Resource Name Type U Illinois Computational Science and Engineering Workshops Software Carpentry - Basic Skills for Research Computing Web Training Data Carpentry Web Training HPC Carpentry Web Training The Art of HPC Web Training MIT LLSC-Supercloud Teaching Examples Hands-on Examples in Jupyter Notebooks HPC Univeristy Training Resources Repository of resources XSEDE Online Training Catalog Repository Novice and Intermediate Resource Name Type MPI Tutorial Tutorial VISIT Visualization Tutorial Tutorial Paraview Visualization Tutorial Tutorial parallel Matlab-parallelOctave Tutorial 2016 Argonne Training Program on Extreme Computing -ATPESC Tutorial Supercomputing Portal -Basics Repository and Links Supercomputing Portal - Development Repository and Links Supercomputing Portal - Debugging Repository and Links Supercomputing Portal - Visualization Repository and Links CINECA-SCAI Online Training Repository CINECA-SCAI Training Slides Repository ARCHER-UK National Supercomputing Service Virtual Tutorials Repository ARCHER-UK National Supercomputing Service Online Training Repository Pawsey Supercomputing Centre User Training Material Repository Petasale Education Modules Catalog Repository Petasale Education Modules - Undergraduate Repository Code Vault for HPC Code Samples Repository Introduction to Visualization Repository Open Encyclopedia of Parallel Algorithmic Features Textbook Intermediate and Advanced Resource Name Type NERSC Online Tutorials Tutorial Large Data Visualization Tutorial HPC Textbook and Parallel Programming Book Book Parallel Programming in MPI and OpenMP Book Programming on Parallel Machines Textbook</description></item><item><title>K-12 Education Committee</title><link>https://sighpceducation.acm.org/committees/k12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/committees/k12/</guid><description>Committee Description The purpose of the SIGHPC Education K-12 Committee is to support educators introducing HPC &amp;amp; Data Science concepts in K-12 settings by:
-Building community and connecting people working in this space Identifying and promoting useful teaching resources and activities, aligned with the discipline standards, including Math &amp;amp; Science (and relevant standards from other countries. Supporting professional development for both in-service and pre-service teachers, particularly in the Computational Thinking and Parallel Thinking spaces Identifying gaps in the existing resources and supporting the development of new resources to fill those gaps.</description></item><item><title>Nominations Open - Educational Award For Outstanding Contribution to Computational Science Education</title><link>https://sighpceducation.acm.org/events/award24_nominations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/events/award24_nominations/</guid><description>The ACM SIGHPC Education Chapter is announcing the initiation of a biannual education award to recognize outstanding contributions to computational, data-enabled science, and HPC education and training in all disciplines. We are seeking nominations for candidates who have led projects or programs that have made significant contributions to computational science education, defined broadly to include all disciplines and all education levels. The executive committee of the SIGHPC Education Chapter (Chair, Vice-chair, and Secretary-treasurer) and SIGHPC are not eligible for this award.</description></item><item><title>Outreach Committee</title><link>https://sighpceducation.acm.org/committees/outreach/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/committees/outreach/</guid><description>Committee Description The outreach committee is responsible for arranging and promoting a variety of communications mechanisms for the Chapter. This includes promotion of workshops via the Chapter website, email, social media, and other communications outlets. The committee also sees volunteers to provide webinars on a variety of HPC education and training topics, posts to the Chapter blog, presentations at professional meetings, and short videos on training topics.
-Committee Goals Promote the chapter&amp;rsquo;s education goals through webinars, blog posts, and social media Maintain communication channels through announcements of chapter events and activities Solicit participation in webinars, blog additions, and other communication channels Join the Committee We welcome participation in committee activities in several ways.</description></item><item><title>SC2023 Education Activities</title><link>https://sighpceducation.acm.org/events/sc23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/events/sc23/</guid><description>Listings of HPC education workshops, talks, and BOFs at SC23.</description></item><item><title>SIGHPC Education Chapter Officers</title><link>https://sighpceducation.acm.org/contact/officer-requirements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/contact/officer-requirements/</guid><description>SIGHPC Education Chapter Officers Volunteerism is the key component to the continued success of our SIGHPC Education Chapter. We encourage SIGHPC members to consider serving as a chapter officer. Nominations and applications for officers will be conducted each year and must be submitted around mid-April. The officers shall be elected by a plurality of the votes cast at the annual election, to be held towards the end of April. New officers will take office in May and serve for one year.</description></item><item><title>Systems Professional Resources</title><link>https://sighpceducation.acm.org/resources/systems/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/resources/systems/</guid><description>The Systems Professionals Committee of the SIGHPC Education Chapter had assembled a list of training resources for systems professionals. In the the future, we also expect to include reviews of the materials. Please provide additional information for this resource listing.
-Linux Cluster Institute Oklahoma University Virtual Residency Introductory/Intermediate Workshops Los Alamos National Laboratory Information Science and Technology Institute ISTI</description></item><item><title>Systems Professionals Committee</title><link>https://sighpceducation.acm.org/committees/systems-professionals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/committees/systems-professionals/</guid><description>Committee Description This committee is charged with curating, recommending and making available material and resources addressing topics of interest to the HPC systems professionals.
-Beyond technical topics of interest this committee is charged with the identification and promotion of materials geared towards initial entry and professional development of the wide range of professionals who help to manage HPC systems. To accomplish this, the committee will work with other committees to leverage existing efforts in technical infrastructure, communications and outreach work and other efforts.</description></item><item><title>Tenth SC Workshop on Best Practices for HPC Training and Education BPHTE23</title><link>https://sighpceducation.acm.org/events/bphte23_tech_program/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/events/bphte23_tech_program/</guid><description>A workshop on Best Practices for HPC Training and Education (BPHTE23) at SC23</description></item><item><title>Undergraduate Internship and Research Opportunities</title><link>https://sighpceducation.acm.org/resources/ugopportunities/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/resources/ugopportunities/</guid><description>We&amp;rsquo;ve assembled a list of undergraduate opportunities we&amp;rsquo;re aware of in HPC, computational science, or data science. This list is certainly not complete, so if you know of additional opportunities, please email us at chair at sighpcedu dot com and we&amp;rsquo;ll add it here!
-Program: Michigan State REU: Advanced Computational Research Experience
-Location: East Lansing, MI
-Dates: May 20 - July 26, 2024.
-Eligiblity: U.S. Citizen or permanent resident.
-Applications Due: February 29, 2024.</description></item><item><title>Workshop Committee</title><link>https://sighpceducation.acm.org/committees/workshop/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/committees/workshop/</guid><description>Committee Description The SIGHPC Workshop Committee has its mission promoting the interest in and knowledge of applications of High Performance Computing (HPC) by organizing, coordinating and managing in-person and virtual events and workshops. We are actively engaged in fostering collaborations between all HPC Community members at all education levels in the scientific and big data applications domain, and in facilitating a global forum for HPC and non-HPC members interaction, and in promoting opportunities for members to expand their knowledge of high performance computing.</description></item></channel></rss>
+online learning tools to new HPC platforms.</description></item><item><title>HPC Carpentry</title><link>https://sighpceducation.acm.org/events/hpccarpentry/</link><pubDate>Fri, 24 May 2024 08:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/hpccarpentry/</guid><description>&lt;h2 id="sighpc-education-webinar--hpc-carpentry">SIGHPC Education Webinar HPC Carpentry&lt;/h2>
+&lt;p>&lt;a href="https://youtu.be/Wv0rf3Fyh7M">YouTube Video&lt;/a>&lt;/p>
+&lt;p>The HPC Carpentry project has deep roots in some high-performance computing communities and has evolved considerably over several years. The basic idea is to make use of pedagogical techniques and the community-based continuous self-improvement that can be realized in the open-source world to develop instructional materials for novice users of HPC facilities.&lt;/p>
+&lt;p>This fills an instructional gap that arises for both novice users of existing facilities, and investigators in research domains where HPC resources are newly available to them, due to the decreasing cost of increasingly sophisticated computing power.&lt;/p></description></item><item><title>CodeRefinery</title><link>https://sighpceducation.acm.org/events/code_refinery/</link><pubDate>Thu, 04 Apr 2024 08:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/code_refinery/</guid><description>&lt;h2 id="sighpc-education-webinar-coderefinery---collaboratively-training-the-next-generation-of-research-software-engineers">SIGHPC Education Webinar CodeRefinery - collaboratively training the next generation of Research Software Engineers&lt;/h2>
+&lt;p>&lt;a href="https://youtu.be/q4WXp89SSQI">YouTube Video&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://zenodo.org/records/11065411">Presentation slides&lt;/a>&lt;/p>
+&lt;p>CodeRefinery has been teaching over 2500 researchers since 2016 in FAIR research software development practices. All training materials (&lt;a href="https://coderefinery.org/lessons/core/">https://coderefinery.org/lessons/core/&lt;/a>) are publicly available for everyone to use for self-learning and reusing (CC-BY) and we offer two free online workshops a year where we try to reach hundreds of participants and dozens of team leaders. The lessons are collaboratively developed with contributions from Nordics and beyond.&lt;/p></description></item><item><title>Nominations Open - Educational Award For Outstanding Contribution to Computational Science Education</title><link>https://sighpceducation.acm.org/events/award24_nominations/</link><pubDate>Sun, 17 Mar 2024 08:00:00 -0500</pubDate><guid>https://sighpceducation.acm.org/events/award24_nominations/</guid><description>&lt;p>The ACM SIGHPC Education Chapter is announcing the initiation of a biannual education award to recognize outstanding contributions to computational, data-enabled science, and HPC education and training in all disciplines. We are seeking nominations for candidates who have led projects or programs that have made significant contributions to computational science education, defined broadly to include all disciplines and all education levels. The executive committee of the SIGHPC Education Chapter (Chair, Vice-chair, and Secretary-treasurer) and SIGHPC are not eligible for this award.&lt;/p></description></item><item><title>Diary of a Pawsey Intern (Mentor) – Panel Discussion</title><link>https://sighpceducation.acm.org/events/pawseyinternpanel24/</link><pubDate>Tue, 05 Mar 2024 08:00:00 -0500</pubDate><guid>https://sighpceducation.acm.org/events/pawseyinternpanel24/</guid><description>&lt;p>&lt;a href="https://youtu.be/sUDYZmtJnfQ">Panel Recording&lt;/a>&lt;/p>
+&lt;p>Just as Greg muddles his way through middle school in Diary of a Wimpy Kid,
+Pawsey Interns are asked to navigate a confusing world of science and high performance computing – sometimes with little to no background in either.
+Join this panel discussion to learn about the 10-week, paid Australian Internship Program as experienced by the Interns and Intern Mentors.
+Hear their journeys, their challenges and their successes – from bootcamp training through to final project showcase.&lt;/p></description></item><item><title>CFP: Eleventh SC Workshop on Best Practices for HPC Training and Education (BPHTE24)</title><link>https://sighpceducation.acm.org/events/bphte24cfp/</link><pubDate>Tue, 20 Feb 2024 08:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/bphte24cfp/</guid><description>&lt;h2 id="call-for-papers-eleventh-sc-workshop-on-best-practices-for-hpc-training-and-education-bphte24">Call for Papers Eleventh SC Workshop on Best Practices for HPC Training and Education (BPHTE24)&lt;/h2>
+&lt;p>&lt;em>&lt;strong>ABSTRACT DUE DATE EXTENDED TO AUGUST 19, 2024&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>November 17-22, 2024&lt;/p>
+&lt;p>&lt;em>Held in conjunction with SC24: The International Conference on High Performance Computing, Networking, Storage, and Analysis&lt;/em>&lt;/p>
+&lt;p>&lt;a href="https://sc24.supercomputing.org/">https://sc24.supercomputing.org/&lt;/a>&lt;/p>
+&lt;p>Since 2014, the Best Practices for HPC Training workshop series at SC has provided a global forum for addressing common challenges and solutions for enhancing HPC training and education, for sharing information through large and small group discussions, and for fostering collaboration opportunities. The Eleventh workshop (BPHTE24), an &lt;a href="https://sighpceducation.acm.org">ACM SIGHPC Education Chapter&lt;/a> coordinated effort, is a full day workshop focusing on extending collaborations among practitioners from traditional and emerging fields, exploring the challenges in developing and deploying HPC training and education, and identifying new challenges and opportunities for the latest HPC platforms. The workshop will provide opportunities for: disseminating results, understanding the recent challenges with effectiveness of HPC education and training materials and promoting collaborations among HPC educators, trainers and users. We are planning for papers, lightning talks and demos to be presented by members of the international community. &lt;em>The workshop papers, extended lightning talks and demo abstracts will be published in a special issue of &lt;a href="http://jocse.org/">Journal of Computational Science Education&lt;/a>&lt;/em> .&lt;/p></description></item><item><title>Computational Science Education Committee Meeting</title><link>https://sighpceducation.acm.org/events/csecommitteemtg_feb2024/</link><pubDate>Wed, 14 Feb 2024 08:00:00 -0500</pubDate><guid>https://sighpceducation.acm.org/events/csecommitteemtg_feb2024/</guid><description>Computational Science Education Committee meeting to discuss curriculum and metadata projects.</description></item><item><title>Magic Castle - Terraforming the cloud to teach HPC</title><link>https://sighpceducation.acm.org/events/magic_castle/</link><pubDate>Tue, 16 Jan 2024 08:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/magic_castle/</guid><description>&lt;h2 id="webinar-recording">Webinar Recording&lt;/h2>
+&lt;p>&lt;a href="https://youtu.be/yS8Hec2YPeA">Meeting video&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../files/Magic_Castle-2024.pdf">Presentation slides&lt;/a>&lt;/p>
+&lt;h2 id="sighpc-education-webinar-magic-castle---terraforming-the-cloud-to-teach-hpc">SIGHPC Education Webinar Magic Castle - Terraforming the cloud to teach HPC&lt;/h2>
+&lt;p>Are you new to the world of HPC and are trying to find an affordable and accessible way that you can learn, practice and experiment? Do you miss the days when learning about HPC was connecting a few gray boxes together and configuring a cluster? Do you wish you could transfer all the complexity inherent in production HPC systems into an accessible sandbox environment, designed to facilitate teaching and experimental development? Stop wishing and learn about Magic Castle!&lt;/p></description></item><item><title>Computational Science Education Committee Meeting</title><link>https://sighpceducation.acm.org/events/csecommitteemtg_jan2024/</link><pubDate>Tue, 16 Jan 2024 08:00:00 -0500</pubDate><guid>https://sighpceducation.acm.org/events/csecommitteemtg_jan2024/</guid><description>Computational Science Education Committee meeting to discuss curriculum and metadata projects.</description></item><item><title>SIGHPC Education Annual Meeting 2024</title><link>https://sighpceducation.acm.org/events/annual24/</link><pubDate>Wed, 10 Jan 2024 09:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/annual24/</guid><description>&lt;h2 id="sighpc-education-annual-meeting-2024">SIGHPC Education Annual Meeting 2024&lt;/h2>
+&lt;p>Materials from the annual meeting on January 9 at 10:00 AM Eastern Standard Time.&lt;/p>
+&lt;p>&lt;a href="https://youtu.be/FJoJ15n5bMs">Meeting video&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../files/annual2024slides.pdf">Presentation slides&lt;/a>&lt;/p></description></item><item><title>Educational Award For Outstanding Contribution to Computational Science Education</title><link>https://sighpceducation.acm.org/events/award24/</link><pubDate>Tue, 31 Oct 2023 08:00:00 -0500</pubDate><guid>https://sighpceducation.acm.org/events/award24/</guid><description>&lt;p>The ACM SIGHPC Education Chapter is announcing an upcoming call for nominations for the 2024 education award to recognize outstanding contributions to computational, data-enabled science, and HPC education and training in all disciplines.&lt;/p>
+&lt;p>The call for nominations will be issued in March, 2024 with a deadline for submissions on May 31 2024.&lt;/p>
+&lt;p>We are seeking candidates who have led projects or programs that have made significant contributions to computational science education defined broadly to include all disciplines and all education levels.&lt;/p></description></item><item><title>SC2023 Education Activities</title><link>https://sighpceducation.acm.org/events/sc23/</link><pubDate>Tue, 31 Oct 2023 08:00:00 -0500</pubDate><guid>https://sighpceducation.acm.org/events/sc23/</guid><description>Listings of HPC education workshops, talks, and BOFs at SC23.</description></item><item><title>Tenth SC Workshop on Best Practices for HPC Training and Education BPHTE23</title><link>https://sighpceducation.acm.org/events/bphte23_tech_program/</link><pubDate>Mon, 02 Oct 2023 08:00:00 -0500</pubDate><guid>https://sighpceducation.acm.org/events/bphte23_tech_program/</guid><description>A workshop on Best Practices for HPC Training and Education (BPHTE23) at SC23</description></item><item><title>SEHET23 Technical Progam</title><link>https://sighpceducation.acm.org/events/sehet_23_tech/</link><pubDate>Wed, 05 Jul 2023 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/sehet_23_tech/</guid><description>&lt;h1 id="sixth-workshop-on-strategies-for-enhancing-hpc-education-and-training-sehet23httpswebcventcomevent432c5157-4c39-4db1-a2cd-d6bba1ddc25dwebsitepage645d57e4-75eb-4769-b2c0-f201a0bfc6ce">&lt;a href="https://web.cvent.com/event/432c5157-4c39-4db1-a2cd-d6bba1ddc25d/websitePage:645d57e4-75eb-4769-b2c0-f201a0bfc6ce">Sixth Workshop on Strategies for Enhancing HPC Education and Training (SEHET23)&lt;/a>&lt;/h1>
+&lt;h1 id="technical-program">Technical Program&lt;/h1>
+&lt;hr>
+&lt;h3 id="heading">&lt;/h3>
+&lt;p>Monday July 24, 2023&lt;br>
+Time: 8:30 AM - 11:30 AM (PST)&lt;/p>
+&lt;p>08:30 AM-8:45 AM&lt;/p>
+&lt;p>&lt;strong>Welcome SIGHPC Education Chapter&lt;/strong>&lt;/p>
+&lt;p>Nitin Sukhija, Slippery Rock University of Pennsylvania&lt;/p>
+&lt;p>8:45 AM -10:45 AM&lt;/p>
+&lt;p>&lt;strong>Paper Session&lt;/strong>&lt;/p>
+&lt;p>8:45 AM -9:00 AM&lt;/p>
+&lt;p>&lt;em>&amp;ldquo;Assessing Shared Material Usage in the High Performance Computing (HPC) Education and Training Community&amp;rdquo;.&lt;/em> Susan Mehringer, Katharine Cahill, Charlie Dey, Scott Lathrop, J-P Navarro, Jeaime Powell and Mary Thomas&lt;/p></description></item><item><title>Three years of the ARCHER2 training service</title><link>https://sighpceducation.acm.org/events/archer2/</link><pubDate>Tue, 30 May 2023 01:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/archer2/</guid><description>&lt;h2 id="sighpc-education-global-seminar-series---three-years-of-the-archer2-training-service---a-retrospective-and-forward-look">SIGHPC Education Global Seminar Series - Three years of the ARCHER2 training service - a retrospective and forward look&lt;/h2>
+&lt;p>Juan Rodriguez Herrera&lt;/p>
+&lt;p>&lt;strong>Thursday, June 8&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>16:00 BST&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>11:00 AM EDT&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://youtu.be/IJv0LLTwZkM">YouTube Video&lt;/a>&lt;/p>
+&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The ARCHER2 training service started in April 2020 with an online programme of courses and virtual tutorials. EPCC, as part of the ARCHER2 UK National service, deliver a training programme that covers a wide range of scientific disciplines and technology platforms, and addresses the training requirements of users with different needs and level of experience.&lt;/p></description></item><item><title>SIGHPC Education Global Seminar Series - Africa 1</title><link>https://sighpceducation.acm.org/events/africa1/</link><pubDate>Wed, 22 Mar 2023 10:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/africa1/</guid><description>&lt;h2 id="sighpc-education-global-seminar-series---africa-1">SIGHPC Education Global Seminar Series - Africa 1&lt;/h2>
+&lt;p>Bryan Johnston, Binjamin Barsch&lt;/p>
+&lt;p>&lt;strong>Friday, March 31 2023 at 08:30 AM EDT&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=tjA_-wlWRKk">YouTube Video&lt;/a>&lt;/li>
+&lt;li>Presentation Slides: &lt;a href="../files/HPC_Ecosystems_Presentation.pdf">Talk #01&lt;/a> | &lt;a href="../files/20230331_SIGHPCEduGlobalSeminarSeries_02_ReachingNewHeightsInCoding.pdf">Talk #02&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../files/20230331_SIGHPCEduGlobalSeminarSeries_Chat.txt">Chat Transcript&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;h3 id="talk-1-towards-sustainable-hpc-workforce-development-for-the-hpc-ecosystems-community-in-africa">Talk 1: Towards Sustainable HPC Workforce Development for the HPC Ecosystems Community in Africa&lt;/h3>
+&lt;p>The HPC Ecosystems Project is responsible for the distribution and deployment of HPC Systems in Africa, as well as HPC Personnel training related to these systems.&lt;/p></description></item><item><title>Computational Physics Webinar - Computational Physics in the Classroom</title><link>https://sighpceducation.acm.org/events/physicsclass/</link><pubDate>Wed, 08 Mar 2023 10:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/physicsclass/</guid><description>&lt;h2 id="computational-physics-webinar---computational-physics-in-the-classroom">Computational Physics Webinar - Computational Physics in the Classroom&lt;/h2>
+&lt;p>David Joiner, Rubin Landau, Robert Panoff, Richard Gass&lt;/p>
+&lt;p>&lt;strong>Wednesday, April 5 at 1:00 PM EDT.&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://youtu.be/RzKrVoDsEyQ">YouTube Video&lt;/a>&lt;/li>
+&lt;li>Presentation Slides: &lt;a href="../files/Computational_Physics_for_Physics_Educators.pdf">Talk #01&lt;/a> | &lt;a href="http://www.shodor.org/talks/manybody">Talk #02&lt;/a> | &lt;a href="../files/landau.pdf">Talk #03&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Presenters will discuss various aspects of integrating computational physics into the classroom&lt;/p>
+&lt;ul>
+&lt;li>Running classroom 3D Physics simulations with visualization in Unity Game Engine (David Joiner)&lt;/li>
+&lt;li>Many Body for Anybody (Robert Panoff)&lt;/li>
+&lt;li>Some CP Topics that Should be Taught, but Usually Aren&amp;rsquo;t (Rubin Landau)&lt;/li>
+&lt;/ul>
+&lt;p>The session was moderated by Richard Gass&lt;/p></description></item><item><title>EESSI - A streamed, production-quality, multi-platform HPC software stack</title><link>https://sighpceducation.acm.org/events/eessi/</link><pubDate>Mon, 16 Jan 2023 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/eessi/</guid><description>&lt;h2 id="eessi-a-streamed-production-quality-multi-platform-hpc-software-stack">EESSI: A streamed, production-quality, multi-platform HPC software stack&lt;/h2>
+&lt;p>Dr. Alan O&amp;rsquo;Cais and Kenneth Hoste&lt;/p>
+&lt;p>&lt;strong>Wednesday, January 25 at 10:00 AM ET.&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://youtu.be/oZPXjFmGb0k">YouTube Video&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../files/EESSI-SigHPC-Education-2023-01-25.pdf">Presentation Slides&lt;/a>&lt;/p>
+&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The European Environment for Scientific Software Installations &lt;a href="https://eessi.github.io/docs/">EESSI&lt;/a> project aims to provide a ready-to-use stack of production-quality scientific software installations that can be leveraged easily on a variety of platforms, ranging from personal workstations to cloud environments and supercomputer infrastructure, without making compromises with respect to performance. Unlike containers,
+it exists natively on the host system with direct access to hardware and can be remotely updated (for bug fixes, security, etc.).&lt;/p></description></item><item><title>BPHTE23 Call for Papers</title><link>https://sighpceducation.acm.org/events/bphte23cfp/</link><pubDate>Tue, 03 Jan 2023 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/bphte23cfp/</guid><description>&lt;h2 id="bphte23-cfp-call-for-papers">BPHTE23 CFP Call for Papers&lt;/h2>
+&lt;p>Tenth SC Workshop on Best Practices for HPC Training and Education (BPHTE23)&lt;/p>
+&lt;p>November 12-17, 2023&lt;/p>
+&lt;p>Held in conjunction with SC23: The International Conference on High Performance Computing, Networking, Storage, and Analysis&lt;/p>
+&lt;p>&lt;a href="https://sc23.supercomputing.org/">https://sc23.supercomputing.org/&lt;/a>&lt;/p>
+&lt;p>Since 2014, the Best Practices for HPC Training workshop series at SC has provided a global forum for addressing common challenges and solutions for enhancing HPC training and education, for sharing information through large and small group discussions, and for fostering collaboration opportunities. The Tenth workshop (BPHTE23), an &lt;a href="https://sighpceducation.acm.org">ACM SIGHPC Education Chapter&lt;/a> coordinated effort, is a full day workshop focusing on extending collaborations among practitioners from traditional and emerging fields, exploring the challenges in developing and deploying HPC training and education, and identifying new challenges and opportunities for the latest HPC platforms. The workshop will provide opportunities for: disseminating results, understanding the recent challenges with effectiveness of HPC education and training materials and promoting collaborations among HPC educators, trainers and users. We are planning for papers, lightning talks and demos to be presented by members of the international community. The workshop papers, extended lightning talks and demo abstracts will be published in a special issue of &lt;a href="http://jocse.org/">Journal of Computational Science Education&lt;/a>&lt;/p></description></item><item><title>Second Workshop on Strategies for Enhancing HPC Education and Training Curriculum - SEHET19</title><link>https://sighpceducation.acm.org/events/sehet19/</link><pubDate>Tue, 30 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/sehet19/</guid><description>&lt;h2 id="second-workshop-on-strategies-for-enhancing-hpc-education-and-training">Second Workshop on Strategies for Enhancing HPC Education and Training&lt;/h2>
+&lt;h3 id="pearc-conference-chicago-il-july-28---august-1-2019">PEARC Conference, Chicago, IL, July 28 - August 1, 2019&lt;/h3>
+&lt;p>&lt;a href="https://drive.google.com/drive/folders/169NKRoPNkaqD6PgooCw0ngMsyxR5MDR4">Presentation Slides&lt;/a>&lt;/p></description></item><item><title>Educational Award For Outstanding Contribution to Computational Science Education</title><link>https://sighpceducation.acm.org/events/award_announce/</link><pubDate>Fri, 19 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/award_announce/</guid><description>&lt;h1 id="acm-sighpc-education-chapter">ACM SIGHPC Education Chapter&lt;/h1>
+&lt;h2 id="educational-award-for-outstanding-contribution-to-computational-science-education">Educational Award For Outstanding Contribution to Computational Science Education&lt;/h2>
+&lt;p>The ACM SIGHPC Education Chapter is pleased to announce the first recipient of the Educational Award for Outstanding Contribution to Computational Science Education &lt;strong>Dr. Robert M. Panoff&lt;/strong>.&lt;/p>
+&lt;p>Dr. Robert Panoff is noted for his work assisting faculty with the integration of computational science into the undergraduate curriculum. Dr. Panoff also collected and distributed curricular materials as exemplars for adoption in the curriculum. He is widely recognized for the development of Interactivate, a set of modeling tools to assist in the teaching of pre-college science and math.&lt;/p></description></item><item><title>Sixth SC Workshop on Best Practices for HPC Training and Education - BPHTE19</title><link>https://sighpceducation.acm.org/events/bphte19agenda/</link><pubDate>Fri, 19 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/bphte19agenda/</guid><description>&lt;h2 id="sixth-sc-workshop-on-best-practices-for-hpc-training-and-education---bphte19">Sixth SC Workshop on Best Practices for HPC Training and Education - BPHTE19&lt;/h2>
+&lt;hr>
+&lt;h3 id="heading">&lt;/h3>
+&lt;p>Sunday November 17, 2019&lt;br>
+Time: 9 AM - 5:30 PM&lt;/p>
+&lt;p>09:00 PM-09:20 AM&lt;/p>
+&lt;p>&lt;strong>Welcome SIGHPC Education Chapter&lt;/strong>&lt;br>
+Nitin Sukhija, Slippery Rock University of Pennsylvania&lt;br>
+Scott Lathrop, University of Illinois&lt;br>
+Julia Mullen, Massachusetts Institute of Technology&lt;br>
+Nia Alexandrov, Daresbury Laboratory, Sci-Tech Daresbury&lt;/p>
+&lt;p>9:20 AM -12:30 PM&lt;/p>
+&lt;p>&lt;strong>Paper Session I:&lt;/strong> (Chair: Scott Lathrop)&lt;/p>
+&lt;p>09:20 AM -09:40 AM&lt;/p>
+&lt;p>&lt;em>FreeCompilerCamp.org: Training for OpenMP Compiler Development from Cloud.&lt;/em> Wang, Mishra, Liao, Yan, Chapman&lt;/p></description></item><item><title>Third Workshop on Strategies for Enhancing HPC Education and Training (SEHET20)</title><link>https://sighpceducation.acm.org/events/sehet20/</link><pubDate>Thu, 18 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/sehet20/</guid><description>&lt;h1 id="third-workshop-on-strategies-for-enhancing-hpc-education-and-training-sehet20-at-pearc20">Third Workshop on Strategies for Enhancing HPC Education and Training (SEHET20) at PEARC20&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="SEHET20_Technical_Program.md">SEHET20_Technical_Program&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>March 2020 SIGHPC Education Chapter Update</title><link>https://sighpceducation.acm.org/events/update2020-3/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/update2020-3/</guid><description>&lt;h1 id="march-2020-sighpc-education-chapter-update">March 2020 SIGHPC Education Chapter Update&lt;/h1>
+&lt;ul>
+&lt;li>Monday March 16, 11 AM Eastern Time&lt;/li>
+&lt;li>&lt;a href="https://youtu.be/oSz166nHO4U">YouTube Video&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../files/updatemarch2020.pdf">Presentation Slides&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Mentoring Maximize Your Impact</title><link>https://sighpceducation.acm.org/events/mentoring_webinar/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/mentoring_webinar/</guid><description>&lt;p>Mentoring Webinar&lt;/p>
+&lt;h1 id="mentoring-maximize-your-impact">Mentoring: Maximize Your Impact&lt;/h1>
+&lt;p>Sally Ellingson, Sarvani Chadalapaka, Jay Lofstead, and Julian Kunkel&lt;/p>
+&lt;p>&lt;strong>Wednesday, November 6 at 12:00 PM ET.&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://youtu.be/ObhlPYUmNJs">YouTube video&lt;/a>&lt;/p>
+&lt;p>Mentoring has the potential for great impact, and can play a key role in building community and bringing new researchers to HPC. However, sometimes getting involved in mentoring can be intimidating, and it can be difficult to find best practices for mentoring in HPC. In this webinar, &amp;ldquo;Mentoring: Maximize Your Impact&amp;rdquo;, four panelists with extensive mentoring experience will share their perspectives on effective mentoring, their own experiences, and tips on how to organize your mentoring program, followed by discussion and Q&amp;amp;A. Join us on November 6th at noon EST/5 pm GMT for an exciting discussion!&lt;/p></description></item><item><title>Overview of the 2019 Outreach Activities of the IEEE Technical Consortium on High Performance Computing</title><link>https://sighpceducation.acm.org/events/ieee/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/ieee/</guid><description>&lt;h2 id="overview-of-the-2019-outreach-activities-of-the-ieee-technical-consortium-on-high-performance-computing">Overview of the 2019 Outreach Activities of the IEEE Technical Consortium on High Performance Computing&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../files/TCHPCWebinar.pdf">Presentation Slides&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://youtu.be/C35M3BQ_IjQ">YouTube Video&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Using flipped classroom and Jupiter Notebooks to teach undergraduates parallel programming</title><link>https://sighpceducation.acm.org/events/flipped/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/flipped/</guid><description>&lt;h2 id="using-flipped-classroom-and-jupiter-notebooks-to-teach-undergraduates-parallel-programming">Using flipped classroom and Jupiter Notebooks to teach undergraduates parallel programming&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://youtu.be/NqE5zMVj2gw">YouTube Video&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Webinar - Choosing Accessible Conferencing and Chat Platforms</title><link>https://sighpceducation.acm.org/events/accessible/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/accessible/</guid><description>&lt;hr>
+&lt;hr>
+&lt;h1 id="choosing-accessible-conferencing-and-chat-platforms">Choosing Accessible Conferencing and Chat Platforms&lt;/h1>
+&lt;ul>
+&lt;li>Friday November 6, 2020 at 3:00 PM ET&lt;/li>
+&lt;li>&lt;a href="https://youtu.be/49Li32o-kLo">YouTube Video&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../files/accessible.txt">Chat contents with related links&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Webinar - Doing more with Google CoLab - CUDA Programming and beyond</title><link>https://sighpceducation.acm.org/events/annual20/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/annual20/</guid><description>&lt;hr>
+&lt;hr>
+&lt;h1 id="annual-meeting-and-member-update-2020">Annual Meeting and Member Update 2020&lt;/h1>
+&lt;ul>
+&lt;li>Tuesday, December 1, 9 AM ET&lt;/li>
+&lt;li>&lt;a href="https://youtu.be/4zTIpekhN6E">YouTube Video&lt;/a>&lt;/li>
+&lt;li>&lt;a href="..files/20201201Chapter_meeting.pdf">Presentation Slides&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Webinar - Doing more with Google CoLab - CUDA Programming and beyond</title><link>https://sighpceducation.acm.org/events/colab/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/colab/</guid><description>&lt;hr>
+&lt;hr>
+&lt;h1 id="webinar-doing-more-with-google-colab-cuda-programming-and-beyond">Webinar: Doing more with Google CoLab: CUDA Programming and beyond&lt;/h1>
+&lt;ul>
+&lt;li>Thursday, March 17, 2022 11 AM EDT&lt;/li>
+&lt;li>&lt;a href="https://youtu.be/lJ-MnUbs4WE">YouTube Video&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://drive.google.com/drive/folders/1Uk-EuVtbiW3A0NurSzpPOd-HPzBhNXm3?usp=sharing">Presentation Details&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Webinar - Incorporating High Performance Computing in a Physics Curriculum</title><link>https://sighpceducation.acm.org/events/physics1/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/physics1/</guid><description>&lt;h1 id="webinar---incorporating-high-performance-computing-in-a-physics-curriculum">Webinar - Incorporating High Performance Computing in a Physics Curriculum&lt;/h1>
+&lt;ul>
+&lt;li>Tuesday September 15, 2020 at 10:00 AM ET&lt;/li>
+&lt;li>&lt;a href="https://youtu.be/CLPPUXQrsAE">YouTube Video&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../files/Bray.pdf">Presentation Slides&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Webinar - Integrating Computational Science into the Chemistry Curriculum</title><link>https://sighpceducation.acm.org/events/chem/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/chem/</guid><description>&lt;h1 id="integrating-computational-science-into-the-chemistry-curriculum">Integrating Computational Science into the Chemistry Curriculum&lt;/h1>
+&lt;ul>
+&lt;li>Friday March 6, 2020 3 PM Eastern Time&lt;/li>
+&lt;li>&lt;a href="https://youtu.be/-cFSxI95dRA">YouTube Video&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Webinar - Introducing Computational Science in the Undergraduate Physics Curriculum</title><link>https://sighpceducation.acm.org/events/physics2/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/physics2/</guid><description>&lt;h1 id="introducing-computational-science-in-the-undergraduate-physics-curriculum">Introducing Computational Science in the Undergraduate Physics Curriculum&lt;/h1>
+&lt;ul>
+&lt;li>Session 1: Thursday, November 14, 2019&lt;/li>
+&lt;li>&lt;a href="https://youtu.be/eXf1MXRDowg">YouTube Video&lt;/a>&lt;/li>
+&lt;li>Session 2: Friday, December 6, 2019&lt;/li>
+&lt;li>&lt;a href="https://youtu.be/tzhIfTbrCpo">YouTube Video&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://tinyurl.com/IntroCompPhys">Presentation 1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../files/physicsroos.pdf">Presentation 2&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Webinar - Student Simulations of Local Wildfires in a Liberal Arts Geography Course</title><link>https://sighpceducation.acm.org/events/wildfire/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/wildfire/</guid><description>&lt;h1 id="student-simulations-of-local-wildfires-in-a-liberal-arts-geography-course">Student Simulations of Local Wildfires in a Liberal Arts Geography Course&lt;/h1>
+&lt;ul>
+&lt;li>Thursday, January 27, 2022 11 AM ET&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=UrfiBa2EqPA">YouTube Video&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Workshop on Best Practices for HPC Training and Education - Agenda</title><link>https://sighpceducation.acm.org/events/sc19/</link><pubDate>Tue, 16 Aug 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/sc19/</guid><description>&lt;h2 id="agenda---workshop-on-best-practices-for-hpc-training-and-education">Agenda - Workshop on Best Practices for HPC Training and Education&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="bphte19agenda.md">BPHTE19 Agenda&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Membership</title><link>https://sighpceducation.acm.org/membership/</link><pubDate>Wed, 20 Apr 2022 14:18:18 -0400</pubDate><guid>https://sighpceducation.acm.org/membership/</guid><description>&lt;div class="flex items-center justify-center my-6">
+&lt;div class="flex items-center justify-center">
+ &lt;a href="https://services.acm.org/public/qj/chapqj/chapqj_control.cfm?chap=116970" class="rounded border-2 border-acm-orange-light text-acm-orange hover:bg-zinc-100 font-semibold italic flex items-center justify-center p-2">
+ &lt;span class="material-symbols-rounded pr-2">group&lt;/span>
+ &lt;span>Join the SIGHPC Education ACM Chapter&lt;/span>
+ &lt;/a>
+&lt;/div>
+
+&lt;/div>
+&lt;p>Chapter membership is open to anyone with an interest in High Performance Computing (HPC) education.
+Chapter members do not need to be members of ACM or enrolled with an educational institution&lt;/p>
+&lt;p>Membership is $10 for professionals and $5 for students and you can join at this location: &lt;a href="https://services.acm.org/public/qj/chapqj/chapqj_control.cfm?chap=116970">Membership Application&lt;/a>.
+Once you have joined, you will be on our email list to receive notices of activities and events.&lt;/p></description></item><item><title>BPHTE22 Call for Papers</title><link>https://sighpceducation.acm.org/events/bphte22/</link><pubDate>Sun, 13 Feb 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/bphte22/</guid><description>&lt;h1 id="bphte22-cfp">BPHTE22 CFP&lt;/h1>
+&lt;p>Call for Papers&lt;/p>
+&lt;p>Ninth SC Workshop on Best Practices for HPC Training and Education (BPHTE22)&lt;/p>
+&lt;p>&lt;strong>&lt;em>November 13-18, 2022&lt;/em>&lt;/strong>&lt;/p>
+&lt;p>Held in conjunction with SC22: The International Conference on High Performance Computing, Networking, Storage, and Analysis&lt;/p>
+&lt;p>&lt;a href="https://sc22.supercomputing.org/">https://sc22.supercomputing.org/&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>Since 2014, the Best Practices for HPC Training workshop series at SC has provided a global forum for addressing common challenges and solutions for enhancing HPC training and education, for sharing information through large and small group discussions, and for fostering collaboration opportunities. The Ninth workshop (BPHTE22), an &lt;a href="https://sighpceducation.acm.org">ACM SIGHPC Education Chapter&lt;/a> coordinated effort, is a full day workshop focusing on extending collaborations among practitioners from traditional and emerging fields, exploring the challenges in developing and deploying HPC training and education, and identifying new challenges and opportunities for the latest HPC platforms. The workshop will provide opportunities for: disseminating results, understanding the recent challenges with effectiveness of HPC education and training materials and promoting collaborations among HPC educators, trainers and users. We are planning for papers, lightning talks and demos to be presented by members of the international community. &lt;em>The workshop papers, extended lightning talks and demo abstracts will be published in a special issue of &lt;a href="http://jocse.org/">Journal of Computational Science Education&lt;/a>&lt;/em> .&lt;/p></description></item><item><title>Events 2018 and Prior</title><link>https://sighpceducation.acm.org/events/pre2018/</link><pubDate>Sun, 13 Feb 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/pre2018/</guid><description>&lt;h1 id="events-from-2018-and-earlier">Events from 2018 and Earlier&lt;/h1>
+&lt;ul>
+&lt;li>
+&lt;p>OpenMP: An Industrial Strength On-Node Programming Model&lt;/p>
+&lt;ul>
+&lt;li>Monday January 7, 2018 11 AM Eastern Time&lt;/li>
+&lt;li>&lt;a href="https://sighpceducation.acm.org/events/openmpvideo.html">Webinar Video&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Extending Computational Training Using Informal Means&lt;/p>
+&lt;ul>
+&lt;li>Tuesday, December 4, 2018 - &lt;a href="https://youtu.be/CJP8jkR4aCU" title="YouTube Video">YouTube Video&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sighpceducation.acm.org/BPHTE18.html" title="Fifth SC Workshop on Best Practices for HPC Training and Education">Fifth SC Workshop on Best Practices for HPC Training and Education&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The Morgan Teaching to Increase Diversity in STEM (MTIDES) Project&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://youtu.be/kXFkKoK_FJg">YouTube Video&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Introducing the HPC Certification Program&lt;/p></description></item><item><title>SEHET20 Technical Program</title><link>https://sighpceducation.acm.org/events/sehet20_technical_program/</link><pubDate>Sun, 13 Feb 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/sehet20_technical_program/</guid><description>&lt;p>&lt;a href="https://sched.co/cnTP">Third Workshop on Strategies for Enhancing HPC Education and Training (SEHET20)&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>Monday July 27, 2020&lt;br>
+Time: 1:00 PM - 5 PM (PST)&lt;/p>
+&lt;p>01:00 PM-1:20 PM&lt;/p>
+&lt;p>&lt;strong>Welcome SIGHPC Education Chapter&lt;/strong>&lt;/p>
+&lt;p>Nitin Sukhija, Slippery Rock University of Pennsylvania&lt;/p>
+&lt;p>1:20 PM -3:00 PM&lt;/p>
+&lt;p>&lt;strong>Paper Session&lt;/strong>&lt;/p>
+&lt;p>1:20 PM -1:40 PM&lt;/p>
+&lt;p>&lt;em>&amp;ldquo;Ask.Cyberinfrastructure.org: Creating a Platform for Self-Service Learning and Collaboration in the Rapidly Changing Environment of Research Computing&amp;rdquo;.&lt;/em> Julie Ma, Torey Battelle, Katia Bulekova, John Goodhue, Aaron Culich and Jacob Pessin&lt;br>
+Ask.CI, the Q&amp;amp;A site for Research Computing, was launched at PEARC18 with the goal of aggregating answers to a broad spectrum of questions that are commonly asked by the research computing community. As researchers, facilitators, staff, students, and others ask and answer questions on Ask.CI, they create a shared knowledge base for the larger community. For smaller institutions, the knowledge base provided by Ask.CI provides a wealth of knowledge that was previously not readily available to scientists and educators in an easily searchable Q&amp;amp;A format. For larger institutions, this self-service model frees up time for facilitators and cyberinfrastructure engineers to focus on more advanced subject matter. Recognizing that answers evolve rapidly with new technology and discovery, Ask.CI has built in voting mechanisms that utilize crowdsourcing to ensure that information stays up to date. Establishing a Q&amp;amp;A site of this nature requires some tenacity. In partnership with the Campus Champions, Ask.CI has gained traction, and continues to engage the broader community to establish the platform as a powerful tool for research computing. Since launch, Ask.CI has attracted over 250,000 page views (currently averaging nearly 5,000 per week), more than 400 contributors, hundreds of topics, and a broad audience that spans the US and parts of Europe and Asia. Ask.CI has shown steady growth in both contributions and audience since it was launched in 2018, and is still evolving. In the past year, we introduced &amp;ldquo;Locales,&amp;rdquo; which allow institutions to create subcategories on Ask.CI where they can experiment with posting institution-specific content and use of the site as a component of their user support strategy.&lt;/p></description></item><item><title>SEHET22</title><link>https://sighpceducation.acm.org/events/sehet22/</link><pubDate>Sun, 13 Feb 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/sehet22/</guid><description>&lt;p>&lt;a href="https://web.cvent.com/event/7b4eff30-d151-4cf4-91f0-b68c4a6c88c9/websitePage:645d57e4-75eb-4769-b2c0-f201a0bfc6ce">Fifth Workshop on Strategies for Enhancing HPC Education and Training (SEHET22)&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h3 id="heading">&lt;/h3>
+&lt;p>Monday July 11, 2022&lt;br>
+Time: 8:30 AM - 11:30 AM (EST)&lt;/p>
+&lt;p>08:30 AM-8:45 AM&lt;/p>
+&lt;p>&lt;strong>Welcome SIGHPC Education Chapter&lt;/strong>&lt;/p>
+&lt;p>Nitin Sukhija, Slippery Rock University of Pennsylvania&lt;/p>
+&lt;p>8:45 AM -10:45 AM&lt;/p>
+&lt;p>&lt;strong>Paper Session&lt;/strong>&lt;/p>
+&lt;p>8:45 AM -9:00 AM&lt;/p>
+&lt;p>&lt;strong>&lt;em>&amp;ldquo;The Multi-Tier Assistance, Training, and Computational Help (MATCH) project, a Track 2 NSF ACCESS Initiative&amp;rdquo;.&lt;/em>&lt;/strong> Shelley Knuth, Julie Ma, Alan Chalker, Ewa Deelman, Layla Freeborn, VikrAM Gazula, John Goodhue, JAMes Griffioen, David Hudak, Andrew Pasquale and Mats Rynge&lt;/p></description></item><item><title>SIGHPC Education Chapter Annual Meeting</title><link>https://sighpceducation.acm.org/events/annual22/</link><pubDate>Sun, 13 Feb 2022 12:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/annual22/</guid><description>&lt;h1 id="sighpc-education-chapter-annual-meeting">SIGHPC Education Chapter Annual Meeting&lt;/h1>
+&lt;p>Come join us for our annual chapter meeting! This is a great opportunity to interact with chapter leadership, learn about ongoing projects, and help us shape our priorities for the upcoming year.&lt;/p>
+&lt;p>&lt;em>Thursday, December 8, 10-11 am EST&lt;/em>&lt;/p>
+&lt;h2 id="post-meeting-notes-and-presentation-archive">Post-meeting notes and presentation archive&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://youtu.be/SdX5DrdUIsM">Meeting recording&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../files/annual22-chat.txt">Meeting chat transcript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.google.com/document/d/1Oz9RKY8liEx6KKr8AjQnrRhq4X6QJsHICUI5g4u0Q4U/edit">Meeting notes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://jamboard.google.com/d/1l3YVSrStBV-gN16Cv_KGokCLazwspVkRgx4SBbycUX0/viewer">Jamboard&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../files/annual22-overall.pptx">Chapter presentation&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="committee-presentations">Committee presentations&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="../files/annual22-sighpcoutreach.pptx">Outreach committee&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../files/annual22-csed.pdf">Computational science education committee&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../files/annual22-k12.pdf">K-12 committee&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../files/annual22-syspros.pdf">SYSPROS committee&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../files/annual22-workshop.pptx">Workshop committee&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- raw HTML omitted --></description></item><item><title>BPHTE20 Technical Program</title><link>https://sighpceducation.acm.org/events/bphte20_technical_program/</link><pubDate>Fri, 02 Oct 2020 09:00:00 -0600</pubDate><guid>https://sighpceducation.acm.org/events/bphte20_technical_program/</guid><description>&lt;h3 id="tenth-sc-workshop-on-best-practices-for-hpc-training-and-education-bphte23httpssc20supercomputingorgpresentationidwksp124sesssess200">&lt;a href="https://sc20.supercomputing.org/presentation/?id=wksp124&amp;amp;sess=sess200">Tenth SC Workshop on Best Practices for HPC Training and Education BPHTE23&lt;/a>&lt;/h3>
+&lt;p>Wednesday November 11, 2020&lt;br>
+Time: 10 AM - 6:30 PM (EST)&lt;/p>
+&lt;p>10:00 PM-10:15 AM&lt;/p>
+&lt;p>&lt;strong>Welcome SIGHPC Education Chapter&lt;/strong>&lt;br>
+Nitin Sukhija, Slippery Rock University of Pennsylvania&lt;/p>
+&lt;p>10:15 AM -12:00 PM&lt;/p>
+&lt;p>&lt;strong>Session I:&lt;/strong> (Chair: Scott Lathrop)&lt;/p>
+&lt;p>10:15 AM -10:30 AM&lt;/p>
+&lt;p>&lt;em>DeapSECURE Computational Training for Cybersecurity Student: Improvements, Mid-Stage Evaluation, and Lessons Learned.&lt;/em> Purwanto, He, Ossom, Zhang, Zhu, Arcaute, Sosonkina, Wu&lt;/p></description></item><item><title>Awards Committee</title><link>https://sighpceducation.acm.org/committees/awards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/committees/awards/</guid><description>&lt;h2 id="committee-description">Committee Description&lt;/h2>
+&lt;p>The awards committee is responsible for coordinating, revewing and selecting the bi-annual SigHPCEdu award to recognize outstanding contributions to computational, data-enabled science, and HPC education and training in all disciplines.&lt;/p>
+&lt;h2 id="2024-committee">2024 Committee&lt;/h2>
+&lt;p>2024 committee consists of the following members.&lt;/p>
+&lt;p>Dirk Colbry colbrydi[at].msu.edu&lt;br>
+Linda Akli lakli[at]tacc.utexas.edu &lt;br>
+Juana Moreno moreno[at]lsu.edu&lt;br>
+Aaron Weeden aaronwee[at]buffalo.edu &lt;br>
+Weronika Filinger w.filinger[at]epcc.ed.ac.uk&lt;/p>
+&lt;h2 id="volunteer-opportunities">Volunteer Opportunities&lt;/h2>
+&lt;p>A new committee is selected every two years. To join a future SigHPCEdu committee please send an email to the SigHPCEdu chair.&lt;/p></description></item><item><title>By-Laws</title><link>https://sighpceducation.acm.org/bylaws/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/bylaws/</guid><description>&lt;p>The SIGHPC Education chapter is the first ACM virtual Chapter. As such, we have devised a set of by-laws that reflects the fact that our membership will be widely distributed geographically and will participate in many of our activities remotely using Internet technologies.&lt;/p>
+&lt;h2 id="p-styletext-align-center-by-laws-of-the-special-interest-group-on-high-performance-computing-education--association-for-computing-machinery-sighpc-education-acm-chapterp">&lt;!-- raw HTML omitted --> By-laws of the Special Interest Group on High Performance Computing Education Association for Computing Machinery (SIGHPC Education ACM) Chapter.&lt;!-- raw HTML omitted -->&lt;/h2>
+&lt;h3 id="p-styletext-align-center-chartered-may-9-2014p">&lt;!-- raw HTML omitted --> Chartered: May 9, 2014&lt;!-- raw HTML omitted -->&lt;/h3>
+&lt;h3 id="article-i-name-and-scope">Article I: Name and Scope&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>This organization shall be called: SIGHPC Education ACM Chapter. In these bylaws it is referred to as the Chapter; the Association for Computing Machinery is referred to as the ACM.&lt;/p></description></item><item><title>Computational Science Education Committee</title><link>https://sighpceducation.acm.org/committees/computational-science-education/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/committees/computational-science-education/</guid><description>&lt;h2 id="committee-description">Committee Description&lt;/h2>
+&lt;p>This committee will be responsible for developing strategies to incorporate and/or enhance computational science education at all levels of education.&lt;/p>
+&lt;p>The committee will explore education programs and instructional materials for computational and data science across the curriculum. This committee is charged with making available educational material relating to computational science and High Performance Computing. To accomplish this, the committee has assembled and maintains a list of related educational resources They also work with the Outreach Committee to identify and promote reviews of education and training content through webinars and chapter blog.&lt;/p></description></item><item><title>Computational Science Resources</title><link>https://sighpceducation.acm.org/resources/compsciresources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/resources/compsciresources/</guid><description>&lt;h2 id="general">General&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Resource Name&lt;/th>
+ &lt;th>Type&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://phet.colorado.edu">Interactive Science and Math Simulations&lt;/a>&lt;/td>
+ &lt;td>Web Applets&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://nsdl.oercommons.org/browse?f.provider_set=3011">National Science Digital Library Computational Science Education&lt;/a>&lt;/td>
+ &lt;td>Repository&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://www.shodor.org/petascale/materials/catalog/">Petasale Education Modules Catalog&lt;/a>&lt;/td>
+ &lt;td>Repository&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://www.shodor.org/petascale/materials/modules/">Petasale Education Modules - Undergraduate&lt;/a>&lt;/td>
+ &lt;td>Repository&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://www.shodor.org/refdesk/">Computational Science Education Reference Desk&lt;/a>&lt;/td>
+ &lt;td>Repository&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://heather.cs.ucdavis.edu/parprocbook">Programming on Parallel Machines&lt;/a>&lt;/td>
+ &lt;td>Textbook&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://algowiki-project.org/en/Open_Encyclopedia_of_Parallel_Algorithmic_Features">Open Encyclopedia of Parallel Algorithmic Features&lt;/a>&lt;/td>
+ &lt;td>Textbook&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="specific-disciplines">Specific Disciplines&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Resource&lt;/th>
+ &lt;th>Type&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="http://www.falstad.com/mathphysics.html">Physics and Math Applets&lt;/a>&lt;/td>
+ &lt;td>Applets&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://advlabs.aapt.org">Physics Laboratory Instructions&lt;/a>&lt;/td>
+ &lt;td>Repository&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://www.shodor.org/talks-new/">Shodor Model Example &amp;amp; Tools&lt;/a>&lt;/td>
+ &lt;td>Repository - Chemistry, Biology. Math&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://www2.econ.iastate.edu/tesfatsi/ace.htm">Economics Agent Models&lt;/a>&lt;/td>
+ &lt;td>Repository&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://www.phy.ntnu.edu.tw/ntnujava/">Virtual Physics Laboratory&lt;/a>&lt;/td>
+ &lt;td>Forum&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="computationalscience.org/ccce/">Computational Chemistry for Chemistry Educators&lt;/a>&lt;/td>
+ &lt;td>Repository&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Educational Award For Outstanding Contribution to Computational Science Education</title><link>https://sighpceducation.acm.org/events/award24_announce/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/events/award24_announce/</guid><description>&lt;h1 id="acm-sighpc-education-chapter">ACM SIGHPC Education Chapter&lt;/h1>
+&lt;h2 id="educational-award-for-outstanding-contribution-to-computational-science-education">Educational Award For Outstanding Contribution to Computational Science Education&lt;/h2>
+&lt;p>The ACM SIGHPC Education Chapter is excited to announce the recipient of the 2024 Educational Award for Outstanding Contribution to Computational Science Education. We received an impressive number of applications, making the selection process highly competitive. We are proud to recognize both an honorable mention and a winner who have made significant contributions to the advancement of computational science education.&lt;/p></description></item><item><title>HPC Resource Links</title><link>https://sighpceducation.acm.org/resources/hpcresources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/resources/hpcresources/</guid><description>&lt;h2 id="getting-started">Getting Started&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Resource Name&lt;/th>
+ &lt;th>Type&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="http://www.oscer.ou.edu/education.php">Oklahoma University Center for Education and Research&lt;/a>&lt;/td>
+ &lt;td>Workshops&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://software-carpentry.org/lessons/">Software Carpentry: Basic Skills for Research Computing&lt;/a>&lt;/td>
+ &lt;td>Web training&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://www.ll.mit.edu/research-and-development/cyber-security-and-information-sciences/pmatlab">Matlab_Octave&lt;/a>&lt;/td>
+ &lt;td>Tutorial&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://supercomputing.cyi.ac.cy/index.php/practical-hpc">Basics - Supercomputing Portal&lt;/a>&lt;/td>
+ &lt;td>Repository and Links&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://www.archer.ac.uk/training/online/">ARCHER-UK National Supercomputing Service Online Training&lt;/a>&lt;/td>
+ &lt;td>Repository&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="everyone">Everyone&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Resource Name&lt;/th>
+ &lt;th>Type&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.cse.illinois.edu/cse-training">U Illinois Computational Science and Engineering&lt;/a>&lt;/td>
+ &lt;td>Workshops&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://software-carpentry.org/lessons/">Software Carpentry - Basic Skills for Research Computing&lt;/a>&lt;/td>
+ &lt;td>Web Training&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://datacarpentry.org/lessons/">Data Carpentry&lt;/a>&lt;/td>
+ &lt;td>Web Training&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.hpc-carpentry.org/">HPC Carpentry&lt;/a>&lt;/td>
+ &lt;td>Web Training&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://theartofhpc.com/carpentry.html">The Art of HPC&lt;/a>&lt;/td>
+ &lt;td>Web Training&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://github.com/llsc-supercloud/teaching-examples">MIT LLSC-Supercloud Teaching Examples&lt;/a>&lt;/td>
+ &lt;td>Hands-on Examples in Jupyter Notebooks&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://hpcuniveristy.org/resources/search">HPC Univeristy Training Resources&lt;/a>&lt;/td>
+ &lt;td>Repository of resources&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="%5B(https://software.xsede.org/training-discovery)%5D">XSEDE Online Training Catalog&lt;/a>&lt;/td>
+ &lt;td>Repository&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="novice-and-intermediate">Novice and Intermediate&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Resource Name&lt;/th>
+ &lt;th>Type&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="http://mpitutorial.com/">MPI Tutorial&lt;/a>&lt;/td>
+ &lt;td>Tutorial&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://visitusers.org/index.php?title=VisIt_Tutorial">VISIT Visualization Tutorial&lt;/a>&lt;/td>
+ &lt;td>Tutorial&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://cvw.cac.cornell.edu/ParaView/">Paraview Visualization Tutorial&lt;/a>&lt;/td>
+ &lt;td>Tutorial&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://www.ll.mit.edu/research-and-development/cyber-security-and-information-sciences/pmatlab">parallel Matlab-parallelOctave&lt;/a>&lt;/td>
+ &lt;td>Tutorial&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.youtube.com/playlist?list=PLGj2a3KTwhRb6LNVucPkwdpzg9OHd8jli">2016 Argonne Training Program on Extreme Computing -ATPESC&lt;/a>&lt;/td>
+ &lt;td>Tutorial&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://supercomputing.cyi.ac.cy/index.php/practical-hpc">Supercomputing Portal -Basics&lt;/a>&lt;/td>
+ &lt;td>Repository and Links&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://supercomputing.cyi.ac.cy/index.php/development">Supercomputing Portal - Development&lt;/a>&lt;/td>
+ &lt;td>Repository and Links&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://supercomputing.cyi.ac.cy/index.php/improvement">Supercomputing Portal - Debugging&lt;/a>&lt;/td>
+ &lt;td>Repository and Links&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://supercomputing.cyi.ac.cy/index.php/visualization">Supercomputing Portal - Visualization&lt;/a>&lt;/td>
+ &lt;td>Repository and Links&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://www.hpc.cineca.it/content/online-training">CINECA-SCAI Online Training&lt;/a>&lt;/td>
+ &lt;td>Repository&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://www.hpc.cineca.it/content/training-material">CINECA-SCAI Training Slides&lt;/a>&lt;/td>
+ &lt;td>Repository&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://www.archer.ac.uk/training/virtual/">ARCHER-UK National Supercomputing Service Virtual Tutorials&lt;/a>&lt;/td>
+ &lt;td>Repository&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://www.archer.ac.uk/training/online/">ARCHER-UK National Supercomputing Service Online Training&lt;/a>&lt;/td>
+ &lt;td>Repository&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="ttps://support.pawsey.org.au/documentation/display/US/Training+Material/">Pawsey Supercomputing Centre User Training Material&lt;/a>&lt;/td>
+ &lt;td>Repository&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://www.shodor.org/petascale/materials/catalog/">Petasale Education Modules Catalog&lt;/a>&lt;/td>
+ &lt;td>Repository&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://www.shodor.org/petascale/materials/modules/">Petasale Education Modules - Undergraduate&lt;/a>&lt;/td>
+ &lt;td>Repository&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.csc.fi/hu/web/research/-/prace-launches-codevault-repository-for-hpc-code-samples">Code Vault for HPC Code Samples&lt;/a>&lt;/td>
+ &lt;td>Repository&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="ttps://www.citutor.org/login.php?course=9&amp;amp;id=xup_guest">Introduction to Visualization&lt;/a>&lt;/td>
+ &lt;td>Repository&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://algowiki-project.org/en/Open_Encyclopedia_of_Parallel_Algorithmic_Features">Open Encyclopedia of Parallel Algorithmic Features&lt;/a>&lt;/td>
+ &lt;td>Textbook&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="intermediate-and-advanced">Intermediate and Advanced&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Resource Name&lt;/th>
+ &lt;th>Type&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.nersc.gov/users/training/">NERSC Online Tutorials&lt;/a>&lt;/td>
+ &lt;td>Tutorial&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://cvw.cac.cornell.edu/LargeVis/">Large Data Visualization&lt;/a>&lt;/td>
+ &lt;td>Tutorial&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://theartofhpc.com/istc.html">HPC Textbook and Parallel Programming Book&lt;/a>&lt;/td>
+ &lt;td>Book&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://theartofhpc.com/pcse.html">Parallel Programming in MPI and OpenMP&lt;/a>&lt;/td>
+ &lt;td>Book&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://heather.cs.ucdavis.edu/parprocbook">Programming on Parallel Machines&lt;/a>&lt;/td>
+ &lt;td>Textbook&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>K-12 Education Committee</title><link>https://sighpceducation.acm.org/committees/k12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/committees/k12/</guid><description>&lt;h2 id="committee-description">Committee Description&lt;/h2>
+&lt;p>The purpose of the SIGHPC Education K-12 Committee is to support educators introducing HPC &amp;amp; Data Science concepts in K-12 settings by:&lt;/p>
+&lt;ol>
+&lt;li>Building community and connecting people working in this space&lt;/li>
+&lt;li>Identifying and promoting useful teaching resources and activities, aligned with the discipline standards, including Math &amp;amp; Science (and relevant standards from other countries.&lt;/li>
+&lt;li>Supporting professional development for both in-service and pre-service teachers, particularly in the Computational Thinking and Parallel Thinking spaces&lt;/li>
+&lt;li>Identifying gaps in the existing resources and supporting the development of new resources to fill those gaps.&lt;/li>
+&lt;li>Identifying funding and resource opportunities to support these activities&lt;/li>
+&lt;/ol>
+&lt;h2 id="committee-goals">Committee Goals&lt;/h2>
+&lt;ol>
+&lt;li>In coordination with the education content committee, develop pathways in Data Science and HPC education at the K-12 level to best prepare students to advance their undergraduate studies.&lt;/li>
+&lt;li>Build career identification resources for K-12 to demonstrate the application of these skills&lt;/li>
+&lt;li>Identify resources directly relevant to the K-12 (pre-college) charter, which may then be proposed for addition to the repository of resources for K-12 education in HPC and Data Science.
+Support and advocate for pre-service teacher training in Computational and Data Science.&lt;/li>
+&lt;li>Seek partnerships with appropriate teacher professional associations around the world.&lt;/li>
+&lt;/ol>
+&lt;h2 id="volunteer-opportunities">Volunteer Opportunities&lt;/h2>
+&lt;ol>
+&lt;li>Review and update the contents of the K-12 education resources repository&lt;/li>
+&lt;li>Conduct of survey of HPC centers to document their programs for pre-college students and teachers&lt;/li>
+&lt;/ol></description></item><item><title>Outreach Committee</title><link>https://sighpceducation.acm.org/committees/outreach/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/committees/outreach/</guid><description>&lt;h2 id="committee-description">Committee Description&lt;/h2>
+&lt;p>The outreach committee is responsible for arranging and promoting a variety of communications mechanisms for the Chapter. This includes promotion of workshops via the Chapter website, email, social media, and other communications outlets. The committee also sees volunteers to provide webinars on a variety of HPC education and training topics, posts to the Chapter blog, presentations at professional meetings, and short videos on training topics.&lt;/p>
+&lt;h2 id="committee-goals">Committee Goals&lt;/h2>
+&lt;ul>
+&lt;li>Promote the chapter&amp;rsquo;s education goals through webinars, blog posts, and social media&lt;/li>
+&lt;li>Maintain communication channels through announcements of chapter events and activities&lt;/li>
+&lt;li>Solicit participation in webinars, blog additions, and other communication channels&lt;/li>
+&lt;/ul>
+&lt;h2 id="join-the-committee">Join the Committee&lt;/h2>
+&lt;p>We welcome participation in committee activities in several ways. You can choose to volunteer to start one of the projects in the activities folder linked below. You can also join the committee to help oversee all of the outreach activities. To do either of these or just to get more information, please contact the committee chair.&lt;/p></description></item><item><title>SIGHPC Education Chapter Officers</title><link>https://sighpceducation.acm.org/contact/officer-requirements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/contact/officer-requirements/</guid><description>&lt;h2 id="sighpc-education-chapter-officers">SIGHPC Education Chapter Officers&lt;/h2>
+&lt;p>Volunteerism is the key component to the continued success of our SIGHPC Education Chapter. We encourage SIGHPC members to consider serving as a chapter officer. Nominations and applications for officers will be conducted each year and must be submitted around mid-April. The officers shall be elected by a plurality of the votes cast at the annual election, to be held towards the end of April. New officers will take office in May and serve for one year.&lt;/p></description></item><item><title>Systems Professional Resources</title><link>https://sighpceducation.acm.org/resources/systems/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/resources/systems/</guid><description>&lt;p>The Systems Professionals Committee of the SIGHPC Education Chapter had assembled a list of training resources for systems professionals. In the the future, we also expect to include reviews of the materials. Please provide additional information for this resource listing.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="http://linuxclustersinstitute.org/">Linux Cluster Institute&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.oscer.ou.edu/virtualresidency2019.php">Oklahoma University Virtual Residency Introductory/Intermediate Workshops&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.lanl.gov/projects/national-security-education-center/information-science-technology/summer-schools/cscnsi/index.php">Los Alamos National Laboratory Information Science and Technology Institute ISTI&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Systems Professionals Committee</title><link>https://sighpceducation.acm.org/committees/systems-professionals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/committees/systems-professionals/</guid><description>&lt;h2 id="committee-description">Committee Description&lt;/h2>
+&lt;p>This committee is charged with curating, recommending and making available material and resources addressing topics of interest to the HPC systems professionals.&lt;/p>
+&lt;ol>
+&lt;li>Beyond technical topics of interest this committee is charged with the identification and promotion of materials geared towards initial entry and professional development of the wide range of professionals who help to manage HPC systems.&lt;/li>
+&lt;li>To accomplish this, the committee will work with other committees to leverage existing efforts in technical infrastructure, communications and outreach work and other efforts.&lt;/li>
+&lt;/ol>
+&lt;h2 id="committee-goals">Committee Goals&lt;/h2>
+&lt;p>The committee will develop a process through which members can add material to a repository, and prepare materials for workshops and webinars. The Systems Professionals Committee of the SIGHPC Education Chapter has assembled a list of training resources for systems professionals. In the the future, we also expect to include reviews of the materials.&lt;/p></description></item><item><title>Undergraduate Internship and Research Opportunities</title><link>https://sighpceducation.acm.org/resources/ugopportunities/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/resources/ugopportunities/</guid><description>&lt;p>We&amp;rsquo;ve assembled a list of undergraduate opportunities we&amp;rsquo;re aware of in HPC, computational science, or data science. This list is certainly not complete, so if you know of additional opportunities, please email us at chair at sighpcedu dot com and we&amp;rsquo;ll add it here!&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;p>Program: &lt;a href="https://icer-acres.msu.edu/">Michigan State REU: Advanced Computational Research Experience&lt;/a>&lt;br>
+Location: East Lansing, MI&lt;br>
+Dates: May 20 - July 26, 2024.&lt;br>
+Eligiblity: U.S. Citizen or permanent resident.&lt;br>
+Applications Due: February 29, 2024.&lt;/p></description></item><item><title>Workshop Committee</title><link>https://sighpceducation.acm.org/committees/workshop/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sighpceducation.acm.org/committees/workshop/</guid><description>&lt;h2 id="committee-description">Committee Description&lt;/h2>
+&lt;p>The SIGHPC Workshop Committee has its mission promoting the interest in and knowledge of applications of High Performance Computing (HPC) by organizing, coordinating and managing in-person and virtual events and workshops. We are actively engaged in fostering collaborations between all HPC Community members at all education levels in the scientific and big data applications domain, and in facilitating a global forum for HPC and non-HPC members interaction, and in promoting opportunities for members to expand their knowledge of high performance computing.&lt;/p></description></item></channel></rss>
