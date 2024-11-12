@@ -5,7 +5,7 @@ EventTime: 1:00:00
 TimeZone: America/Detroit
 category: event
 # Published date:
-Date: 2024-03-17T-6:00:00-02:00
+Date: 2024-03-17T8:00:00-0500
 ---
 
 The ACM SIGHPC Education Chapter is announcing the initiation of a biannual education award to recognize outstanding contributions to computational, data-enabled science, and HPC education and training in all disciplines. We are seeking nominations for candidates who have led projects or programs that have made significant contributions to computational science education, defined broadly to include all disciplines and all education levels. The executive committee of the SIGHPC Education Chapter (Chair, Vice-chair, and Secretary-treasurer) and SIGHPC are not eligible for this award.  

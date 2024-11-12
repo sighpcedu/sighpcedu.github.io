@@ -5,7 +5,7 @@ EventTime: 14:00:00
 TimeZone: America/Denver
 category: event
 # Published date:
-Date: 2023-10-02T-9:00:00-06:00
+Date: 2023-10-02T8:00:00-0500
 location: Denver Convention Center, Denver, CO
 Summary: A workshop on Best Practices for HPC Training and Education (BPHTE23) at SC23
 ---

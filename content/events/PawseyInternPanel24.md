@@ -4,8 +4,7 @@ EventDate: 2024-03-18
 EventTime: 17:00:00
 TimeZone: Australia/Perth
 category: event
-Date: 2024-03-05T-9:00:00-06:00 {{/* This is the PUBLISHED date, any date in the future will not be published to the deployed website */}}
-
+Date: 2024-03-05T8:00:00-0500
 ---
 
 [Panel Recording](https://youtu.be/sUDYZmtJnfQ)

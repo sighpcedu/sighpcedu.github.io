@@ -4,7 +4,7 @@ EventDate: 2024-02-28
 EventTime: 09:00:00
 TimeZone: America/New_York
 category: event
-Date: 2024-02-14T-9:00:00-06:00 {{/* This is the PUBLISHED date, any date in the future will not be published to the deployed website */}}
+Date: 2024-02-14T8:00:00-0500
 Summary: Computational Science Education Committee meeting to discuss curriculum and metadata projects.
 
 ---
