@@ -10,10 +10,9 @@ weight: 10
 
 {{< card "Announcements" >}}
 
+### [Undergrad research opportunities for 2025](https://sighpceducation.acm.org/resources/ugopportunities) now available!
+
 ### Congratulate our [2024 Educational Award honorees!](https://sighpceducation.acm.org/events/award24_announce)
-
-### Upcoming [Workshop on Best Practices for HPC Training and Education](https://sighpceducation.acm.org/events/bphte24cfp/){{< /card >}}
-
 
 
 <!-- ## About the Chapter
