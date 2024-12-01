@@ -14,6 +14,7 @@ weight: 10
 
 ### Congratulate our [2024 Educational Award honorees!](https://sighpceducation.acm.org/events/award24_announce)
 
+{{< /card >}}
 
 <!-- ## About the Chapter
 
