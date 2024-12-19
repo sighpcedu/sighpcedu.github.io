@@ -84,7 +84,7 @@ Dates: June 1 - June 30, 2025.
 Eligibility: Rising sophomores or older studying at a US institution.  
 Applications Due: February 7, 2025.  
 
-Program: [Anvil Research Experiences for Undergraduates](https://www.rcac.purdue.edu/anvil/reu)  
+Program: [Purdue Anvil Research Experiences for Undergraduates](https://www.rcac.purdue.edu/anvil/reu)  
 Location: West Lafayette, IN  
 Dates: May 26 - August 8, 2025.  
 Eligibility: U.S. Citizen or permanent resident enrolled as an undergrad at a US institution.  
