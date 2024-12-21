@@ -18,6 +18,30 @@ Dates: 10 weeks, summer 2025.
 Eligibility: Rising junior or senior; US citizen.  
 Applications Due: January 15, 2025.  
 
+Program: [Flatiron Institute - Simons Foundation, Center for Computational Neuroscience](https://apply.interfolio.com/159680)  
+Location: New York City, NY  
+Dates: May 27 - August 8, 2025.  
+Eligibility: Enrolled undergraduate or graduate.  
+Applications Due: January 17, 2025.  
+
+Program: [Flatiron Institute - Simons Foundation, Center for Computational Quantum Physics](https://apply.interfolio.com/142989)  
+Location: New York City, NY  
+Dates: May 27 - August 8, 2025.  
+Eligibility: Enrolled undergraduate or graduate.  
+Applications Due: January 17, 2025.  
+
+Program: [Flatiron Institute - Simons Foundation, Center for Computational Mathematics](https://apply.interfolio.com/159678)  
+Location: New York City, NY  
+Dates: May 27 - August 8, 2025.  
+Eligibility: Enrolled undergraduate or graduate.  
+Applications Due: January 17, 2025.  
+
+Program: [Flatiron Institute - Simons Foundation, Center for Computational Catalysis](https://apply.interfolio.com/159676)  
+Location: New York City, NY  
+Dates: May 27 - August 8, 2025.  
+Eligibility: Enrolled undergraduate or graduate.  
+Applications Due: January 17, 2025.  
+
 Program: [Los Alamos National Lab Quantum Computing Summer School Fellowship](https://www.lanl.gov/engage/collaboration/internships/summer-schools/quantumschool)  
 Location: Los Alamos, NM  
 Dates: June 2 – August 8, 2025.  
