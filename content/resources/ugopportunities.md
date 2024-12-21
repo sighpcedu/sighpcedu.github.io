@@ -12,6 +12,12 @@ Dates: Late May – early August 2025.
 Eligibility: US citizens.  
 Applications Due: January 7, 2025.  
 
+Program: [Los Alamos National Lab Parallel Computing Summer Research Internship](https://www.lanl.gov/engage/organizations/xcp/parallel-computing-summer-research-internship)  
+Location: Los Alamos, NM  
+Dates: June 2 - August 8, 2025.  
+Eligibility: Rising junior or senior; US citizens.  
+Applications Due: January 15, 2025.  
+
 Program: [Los Alamos National Lab Computational Physics Student Summer Workshop](https://www.lanl.gov/engage/collaboration/internships/summer-schools/computational-physics-student-summer-workshop)  
 Location: Los Alamos, NM  
 Dates: 10 weeks, summer 2025.  
