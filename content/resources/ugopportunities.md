@@ -115,7 +115,7 @@ Eligibility: US citizens, sophomores or older.
 Applications Due: February 3, 2025.  
 
 Program: [Los Alamos National Lab Data Science at Scale](https://www.lanl.gov/engage/collaboration/internships/summer-schools/dss)  
-Location: Los Alamos, NM 
+Location: Los Alamos, NM  
 Dates: 10-12 weeks between May and September 2025.  
 Eligibility: US work eligibility.  
 Applications Due: February 5, 2025.  
@@ -165,7 +165,7 @@ Applications Due: March 1, 2025.
 Program: [Temple University High Performance Computing (HPC) Tools, Techniques, and Research across the Physical Sciences REU](https://icmshpc.com/reu-2025/)  
 Location: Philadelphia, PA.  
 Dates: May 27 - July 31, 2025.  
-Eligibility: US citizen or permanent resident.  Women, underrepresented minorities, and students from institutions with limited research opportunities are especially encouraged to apply. 
+Eligibility: US citizen or permanent resident.  Women, underrepresented minorities, and students from institutions with limited research opportunities are especially encouraged to apply.  
 Applications Due: March 7, 2025.  
 
 Program: [University of Houston Frontiers of Data-Driven Computing REU](http://project.cs.uh.edu/reu)  
