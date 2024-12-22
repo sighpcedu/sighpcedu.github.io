@@ -96,6 +96,18 @@ Dates:  May 19 – August 1, 2025, with alternate dates June 2 – August 15, 20
 Eligibility: US citizen or permanent resident.  First-years are encouraged.  
 Applications Due: January 31, 2025.  
 
+Program: [Carnegie Mellon University Research Experiences for Undergraduates in Software Engineering (REUSE) Program](https://www.cmu.edu/scs/s3d/reuse/index.html)  
+Location: Pittsburgh, PA  
+Dates: May 27 - August 1, 2025.  
+Eligibility: Undergrads, but focus on 1st and 2nd-year undergrads.  
+Applications Due: February 1, 2025.  
+
+Program:  [Georgetown REU Site in Computer Science and Public Policy](https://reu.cs.georgetown.edu/)  
+Location:  Washington, DC.  
+Dates: June 7 - August 7, 2025.  
+Eligibility: US citizens or permanent residents who are current 2nd- or 3rd-year undergrads and CS majors.  
+Applications Due: February 2, 2025.  
+
 Program: [University of Maryland Applied Research Laboratory for Intelligence and Security (RISC)](https://www.arlis.umd.edu/apply-risc2025)  
 Location:  Primarily virtual, with in-person events in College Park, MD during the final week.  
 Dates:  10 weeks, May – August 2025.  
@@ -113,6 +125,18 @@ Location: Austin, TX
 Dates: June 1 - June 30, 2025.  
 Eligibility: Rising sophomores or older studying at a US institution.  
 Applications Due: February 7, 2025.  
+
+Program: [Washington University in St. Louis CSE Research Experience for Undergraduates](https://sites.wustl.edu/csereu/)  
+Location: St. Louis, MO.  
+Dates: May 25 - August 1, 2025.  
+Eligibility: Enrolled undergrads, including international students.  
+Applications Due:  February 14, 2025.  
+
+Program: [Los Alamos National Laboratory Computational Sciences Undergraduate Internship](https://lanl.jobs/search/jobdetails/computational-sciences-undergraduate-internship/664a4436-45d2-46e9-aa78-cabedce158f2)  
+Location: Los Alamos, NM  
+Dates: Summer 2025.  
+Eligibility: US citizen.  
+Applications Due: February 14, 2025.  
 
 Program: [Purdue Anvil Research Experiences for Undergraduates](https://www.rcac.purdue.edu/anvil/reu)  
 Location: West Lafayette, IN  
@@ -132,9 +156,33 @@ Dates: May – September 2025, students and mentors decide specific dates
 Eligibility: Undergrads at US institutions.  Most funds are reserved for US citizens and permanent residents.  Priority is given to students from underrepresented groups.  
 Applications Due: December 1, 2024 (early deadline); February 25, 2025 (general deadline).  
 
+Program: [UW Eau-Claire REU: Advancing high-performance computing opportunities in undergraduate research at UW-Eau Claire to meet challenges of multidisciplinary computational science](https://hpc.uwec.edu/explore-opportunities/nsf-reu/)  
+Location: Eau Claire, WI  
+Dates: June 1 - August 2, 2025.  
+Eligibility: US citizen or permanent resident.  
+Applications Due: March 1, 2025.  
+
+Program: [Temple University High Performance Computing (HPC) Tools, Techniques, and Research across the Physical Sciences REU](https://icmshpc.com/reu-2025/)  
+Location: Philadelphia, PA.  
+Dates: May 27 - July 31, 2025.  
+Eligibility: US citizen or permanent resident.  Women, underrepresented minorities, and students from institutions with limited research opportunities are especially encouraged to apply. 
+Applications Due: March 7, 2025.  
+
+Program: [University of Houston Frontiers of Data-Driven Computing REU](http://project.cs.uh.edu/reu)  
+Location: Houston, TX  
+Dates: May 26 - August 2, 2025.  
+Eligibility: US citizen or permanent resident.  Rising juniors and seniors favored.  
+Priority deadline March 10, 2025; accepted through April 2, 2025.  
+
+Program: [Arizona State University SenSIP REU Site: Quantum Machine Learning Algorithm Design and Implementation](https://sensip.engineering.asu.edu/sensip-quantum-dsp-ai-reu/)  
+Location: Tempe, AZ  
+Dates: May 14 - July 9, 2025.  
+Eligibility: US citizen or permanent resident.  
+Applications Due: March 15, 2025, but will accept applications until slots are full.  
+
 Program: [TACC Cyberinfrastructure Research for Social Change (NSF REU)](https://www.tacc.utexas.edu/education/undergrads-grads/reu)  
 Location: Austin, TX  
-Dates: June 2 - August 1, 2025  
+Dates: June 2 - August 1, 2025.  
 Eligibility: Enrolled undergrads, 18+ at the start of the program.  US citizens and permanent residents, with one additional spot for someone who doesn't meet these criteria.    
 Applications Due: April 1, 2025 (open January 20, 2025).  
 
@@ -156,7 +204,6 @@ Dates: 12 weeks, May – September 2025
 Eligibility: Enrolled undergrad  
 Applications Due: Rolling  
 
-
 Program: [NVIDIA Internships: Artificial Intelligence and Deep Learning](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/NVIDIA-2025-Internships--Artificial-Intelligence-and-Deep-Learning_JR1986536?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8)  
 Location: Santa Clara, CA or remote  
 Dates: 12 weeks, May – September 2025  
@@ -175,3 +222,8 @@ Dates: 12 weeks, May – September 2025
 Eligibility: Enrolled undergrad  
 Applications Due: Rolling  
 
+Program: [NERSC Summer Internships](https://www.nersc.gov/research-and-development/internships/)  
+Location: Berkeley, CA  
+Dates: Varies by project  
+Eligibility: Rising seniors.  
+Applications Due: Rolling  
