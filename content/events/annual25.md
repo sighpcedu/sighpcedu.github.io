@@ -8,9 +8,9 @@ category: event
 Date: 2024-11-12T08:00:00-0500
 ---
 
-SIGHPC Education will hold the annual meeting on January 14 at 10:00 AM Eastern Standard Time.
+SIGHPC Education held its annual meeting on January 14 at 10:00 AM Eastern Standard Time.
 
-Join us to discuss our activities over the past and coming year.
+We reviewed activities completed in 2024, discussed possible new initiatives, and presented the scheduled activities for 2025.
 
-[Register for the meeting](https://us02web.zoom.us/meeting/register/tZcocO-trjovEtdYowu-K3U8jIGithIgXMHp)
+[See the YouTube Video](https://youtu.be/xeAnW503yu0)
 
