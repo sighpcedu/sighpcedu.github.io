@@ -6,7 +6,7 @@ aliases:
 
 We've assembled a list of undergraduate opportunities we're aware of in HPC, computational science, or data science.  This list is certainly not complete, so if you know of additional opportunities, please email us at chair at sighpcedu dot com and we'll add it here!
 
-Program: [Los Alamos National Lab Supercomputer Institute](https://www.lanl.gov/engage/collaboration/internships/summer-schools/supercomputer)  
+<!-- Program: [Los Alamos National Lab Supercomputer Institute](https://www.lanl.gov/engage/collaboration/internships/summer-schools/supercomputer)  
 Location: Los Alamos, NM  
 Dates: Late May – early August 2025.  
 Eligibility: US citizens.  
@@ -124,7 +124,7 @@ Program: [TACC SCIPE AI in Civil Engineering](https://tacc.utexas.edu/education/
 Location: Austin, TX  
 Dates: June 1 - June 30, 2025.  
 Eligibility: Rising sophomores or older studying at a US institution.  
-Applications Due: February 7, 2025.  
+Applications Due: February 7, 2025.  //-->
 
 Program: [Washington University in St. Louis CSE Research Experience for Undergraduates](https://sites.wustl.edu/csereu/)  
 Location: St. Louis, MO.  
