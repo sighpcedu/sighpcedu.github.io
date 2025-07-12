@@ -1,5 +1,5 @@
 ---
-Title: Seventh Workshop on Strategies for Enhancing HPC Education and Training (SEHET25)
+Title: Eighth Workshop on Strategies for Enhancing HPC Education and Training (SEHET25)
 EventDate: 2025-07-21
 EventTime: 09:00:00
 DurationMinutes: 210
