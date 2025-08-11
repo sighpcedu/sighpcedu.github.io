@@ -44,7 +44,7 @@ Topics of interest include, but are not limited to, the following:
 
 ## Submission Guidelines  
 
-The Workshop on Best Practices for HPC Training and Education (BPHTE25) follows a three-part submission process, with abstracts due by August 12, 2025, notification of acceptance by August 31, 2025, full papers due by September 9, 2025 and presentations by September 16, 2025 (There will be no extensions). Abstracts, papers and presentations must be submitted via the [BPHTE25 online submissions system.](https://submissions.supercomputing.org/?page=Submit&id=SC25WorkshopBestPracticesforHPCTrainingandEducationAbstract&site=sc25)
+The Workshop on Best Practices for HPC Training and Education (BPHTE25) follows a three-part submission process, with abstracts due by August 12, 2025, notification of acceptance by August 31, 2025, full papers due by September 9, 2025 and presentations by September 16, 2025 (There will be no extensions). Abstracts, papers and presentations must be submitted via the [BPHTE25 online submissions system.](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopBestPracticesforHPCTrainingandEducationAbstract&site=sc25)
 
 _The workshop papers, extended lightning talks and demo abstracts will be published in a special issue of [Journal of Computational Science Education](http://jocse.org/)_ For full consideration for publication, each paper and extended abstract should describe: :  
 
