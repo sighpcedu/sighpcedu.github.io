@@ -10,9 +10,7 @@ weight: 10
 
 {{< card "Announcements" >}}
 
-### [Undergrad research opportunities for 2025](https://sighpceducation.acm.org/resources/ugopportunities) now available!
-
-### Congratulate our [2024 Educational Award honorees!](https://sighpceducation.acm.org/events/award24_announce)
+### Check out our new blog posts [highlighting chapter members!](https://blog.sighpceducation.acm.org/wp/)
 
 {{< /card >}}
 
