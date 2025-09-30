@@ -50,10 +50,10 @@ Principal Consultant
 Red Oak Consulting  
 martin.callaghan[at]redoakconsulting.co.uk
 
-**_Fathima Haseen_**  
-Education and Training Specialist  
+**_Ludovic Capelli_**  
+Training & Education Manager  
 Pawsey Supercomputing Centre  
-fathima.haseen[at]csiro.au
+ludovic.capelli[at]csiro.au  
 
 **_Bryan Johnston_**  
 Senior HPC Technologist  
