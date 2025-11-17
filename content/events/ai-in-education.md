@@ -22,3 +22,5 @@ This event is designed for:
 - User support and technical staff at HPC centers
 - Computational scientists and researchers interested in GenAI applications
 - Anyone involved in developing HPC curricula or support documentation
+
+[Click here to register](https://us02web.zoom.us/meeting/register/2McIsuXeRPKj5xIA8XSabA)
