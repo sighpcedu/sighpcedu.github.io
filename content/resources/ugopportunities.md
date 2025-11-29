@@ -7,34 +7,34 @@ aliases:
 We've assembled a list of undergraduate opportunities we're aware of in HPC, computational science, data science, or quantum computing.  This list is certainly not complete, so if you know of additional opportunities, please email us at chair at sighpcedu dot com and we'll add it here!
 
 Program: [Los Alamos National Lab High Performance Computing Undergraduate Internship](https://lanl.jobs/search/jobdetails/high-performance-computing-undergraduate-student/8c9aa32f-fc97-4302-b5b4-a7e2eca26706)  
-Location: Los Alamos, NM 
-Dates: Summer 2026 
-Eligibility: Eligible to work in the US; 60 course-hours into degree 
-Applications Due: Until filled 
+Location: Los Alamos, NM  
+Dates: Summer 2026  
+Eligibility: Eligible to work in the US; 60 course-hours into degree  
+Applications Due: Until filled  
 
 Program: [Los Alamos National Lab Supercomputer Institute](https://www.lanl.gov/engage/collaboration/internships/summer-schools/supercomputer)  
 Location: Los Alamos, NM  
 Dates: TBD; probably late May – early August 2026.  
-Eligibility: Eligible to work in the US; incoming juniors or seniors preferred.
+Eligibility: Eligible to work in the US; incoming juniors or seniors preferred.  
 Applications Due: January 6, 2026  
 
 Program: [LBNL Science Undergraduate Laboratory Internship](https://education.lbl.gov/internships/suli/)  
 Location: Berkeley, CA  
 Dates: May - August 2026   
-Eligibility: US citizen or permanent resident enrolled at a US institution, or 2 years or less post-graduation. 
-Applications Due: January 7, 2026 
+Eligibility: US citizen or permanent resident enrolled at a US institution, or 2 years or less post-graduation.  
+Applications Due: January 7, 2026  
 
-Program: [Los Alamos National Lab Quantum Computing Summer School Fellowship](https://www.lanl.gov/engage/collaboration/internships/summer-schools/quantumschool) 
-Location: Los Alamos, NM 
-Dates: June 8 - August 14, 2026 
-Eligibility: Eligible to work in the US; incoming juniors or seniors preferred. 
-Application Due: January 11, 2026 
+Program: [Los Alamos National Lab Quantum Computing Summer School Fellowship](https://www.lanl.gov/engage/collaboration/internships/summer-schools/quantumschool)  
+Location: Los Alamos, NM  
+Dates: June 8 - August 14, 2026  
+Eligibility: Eligible to work in the US; incoming juniors or seniors preferred.  
+Application Due: January 11, 2026  
 
 Program: [University of Maryland Applied Research Laboratory for Intelligence and Security (RISC)](https://www.arlis.umd.edu/apply-risc2025)  
 Location:  Primarily virtual, with in-person events in College Park, MD during the final week.  
 Dates:  10 weeks, May – August 2026   
 Eligibility: US citizens, graduating in Fall 2025 or later.   
-Applications Due: January 16, 2026 
+Applications Due: January 16, 2026  
 
 Program: [NCAR Summer Internships in Parallel Computational Science (SIParCS)](https://www2.cisl.ucar.edu/outreach/internships/how_to_apply)  
 Location: Boulder, CO  
@@ -60,10 +60,10 @@ Dates:  A subset of May 18 – September 11, 2026
 Eligibility:  US work eligibility.  
 Applications Due:  January 30, 2026  
 
-Program: [Lawrence Livermore National Lab Computing Undergraduate Early Internship](https://www.llnl.gov/join-our-team/careers/find-your-job/intern_computing/all/3743990010282497)  
+Program: [Lawrence Livermore National Lab Computing Undergraduate Early Internship](https://www.llnl.gov/join-our-team/careers/find-your-job/intern_computing/all/3743990010282497)    
 Location: Livermore, CA  
 Dates:  A subset of May 18 – September 11, 2026  
-Eligibility:  Students who are between high school and college. US work eligibility. 
+Eligibility:  Students who are between high school and college. US work eligibility.  
 Applications Due:  January 30, 2026  
 
 Program: [CRA Distributed Research Experiences for Undergraduates (DREU)](https://cra.org/cra-wp/dreu/)  
@@ -72,35 +72,35 @@ Dates: 10 weeks from May – September 2026; students and mentors decide specifi
 Eligibility: Undergrads at US institutions.  Most funds are reserved for US citizens and permanent residents.  Priority is given to students from underrepresented groups.  
 Applications Due: January 31, 2026 (general deadline)  
 
-Program: [Los Alamos National Lab Undergraduate Internship - Computational Sciences](https://lanl.jobs/search/jobdetails/undergraduate-and-graduating-hs-senior-internship---computational-sciences/cfd3cb9c-4037-43a9-add7-f799d2824ff1) 
-Location: Los Alamos, NM
-Dates: Summer 2026 
-Eligibility: Eligible to work in the US
-Applications Due: February 13, 2026 
+Program: [Los Alamos National Lab Undergraduate Internship - Computational Sciences](https://lanl.jobs/search/jobdetails/undergraduate-and-graduating-hs-senior-internship---computational-sciences/cfd3cb9c-4037-43a9-add7-f799d2824ff1)  
+Location: Los Alamos, NM  
+Dates: Summer 2026  
+Eligibility: Eligible to work in the US  
+Applications Due: February 13, 2026  
 
 Program: [Purdue Anvil Research Experiences for Undergraduates](https://www.rcac.purdue.edu/anvil/reu)  
 Location: West Lafayette, IN  
 Dates: May 24 - August 8, 2026  
 Eligibility: U.S. Citizen or permanent resident enrolled as an undergrad at a US institution, graduating Fall 2026 or later.   
-Applications Due: February 16, 2026 (rolling, may close sooner) 
+Applications Due: February 16, 2026 (rolling, may close sooner)  
 
 Program: [TACC Cyberinfrastructure Research for Social Advancement (NSF REU)](https://www.tacc.utexas.edu/education/undergrads-grads/reu)  
 Location: Austin, TX  
 Dates: May 30 - August 1, 2026  
-Eligibility: Enrolled undergrads, 18+ at the start of the program.  US citizens and permanent residents, with one additional spot for someone who doesn't meet these criteria.    
+Eligibility: Enrolled undergrads, 18+ at the start of the program.  US citizens and permanent residents, with one additional spot for someone who doesn't meet these criteria.   
 Applications Due: April 1, 2026 (rolling acceptances)   
 
 Program: [LBNL/NERSC Computing Sciences Student Program](https://jobs.lbl.gov/jobs/2026-computing-sciences-student-program-7274)  
-Location: Berkeley, CA  
+Location: Berkeley, CA   
 Dates: 10-12 weeks, varies by project  
 Eligibility: Juniors and seniors enrolled in a US university.  
 Applications Due: Rolling  
 
-Program: [Los Alamos National Lab - Advancing Machine Learning Fellowship](https://www.lanl.gov/engage/collaboration/internships/summer-schools/applied-machine-learning-fellowship) 
-Location: Los Alamos, NM 
-Dates: Summer 2026
-Eligiblity: Eligibile to work in the US; incoming juniors or seniors preferred. 
-Applications Due: Application expected to open December 15, 2025. 
+Program: [Los Alamos National Lab - Advancing Machine Learning Fellowship](https://www.lanl.gov/engage/collaboration/internships/summer-schools/applied-machine-learning-fellowship)  
+Location: Los Alamos, NM  
+Dates: Summer 2026  
+Eligiblity: Eligible to work in the US; incoming juniors or seniors preferred.  
+Applications Due: Application expected to open December 15, 2025.  
 
 <!-- Program: [Los Alamos National Lab Parallel Computing Summer Research Internship](https://www.lanl.gov/engage/organizations/xcp/parallel-computing-summer-research-internship)  
 Location: Los Alamos, NM  
@@ -222,3 +222,4 @@ Dates: Varies by project
 Eligibility: Rising seniors.  
 Applications Due: Rolling  
 //-->
+
