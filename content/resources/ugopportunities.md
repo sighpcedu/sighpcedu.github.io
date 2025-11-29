@@ -4,24 +4,108 @@ aliases:
   - "/resources/ugsummerresources/"
 ---
 
-We've assembled a list of undergraduate opportunities we're aware of in HPC, computational science, or data science.  This list is certainly not complete, so if you know of additional opportunities, please email us at chair at sighpcedu dot com and we'll add it here!
+We've assembled a list of undergraduate opportunities we're aware of in HPC, computational science, data science, or quantum computing.  This list is certainly not complete, so if you know of additional opportunities, please email us at chair at sighpcedu dot com and we'll add it here!
 
-<!-- Program: [Los Alamos National Lab Supercomputer Institute](https://www.lanl.gov/engage/collaboration/internships/summer-schools/supercomputer)  
+Program: [Los Alamos National Lab High Performance Computing Undergraduate Internship](https://lanl.jobs/search/jobdetails/high-performance-computing-undergraduate-student/8c9aa32f-fc97-4302-b5b4-a7e2eca26706)  
+Location: Los Alamos, NM 
+Dates: Summer 2026 
+Eligibility: Eligible to work in the US; 60 course-hours into degree 
+Applications Due: Until filled 
+
+Program: [Los Alamos National Lab Supercomputer Institute](https://www.lanl.gov/engage/collaboration/internships/summer-schools/supercomputer)  
 Location: Los Alamos, NM  
-Dates: Late May – early August 2025.  
-Eligibility: US citizens.  
-Applications Due: January 7, 2025.  
+Dates: TBD; probably late May – early August 2026.  
+Eligibility: Eligible to work in the US; incoming juniors or seniors preferred.
+Applications Due: January 6, 2026  
 
-Program: [Los Alamos National Lab Parallel Computing Summer Research Internship](https://www.lanl.gov/engage/organizations/xcp/parallel-computing-summer-research-internship)  
+Program: [LBNL Science Undergraduate Laboratory Internship](https://education.lbl.gov/internships/suli/)  
+Location: Berkeley, CA  
+Dates: May - August 2026   
+Eligibility: US citizen or permanent resident enrolled at a US institution, or 2 years or less post-graduation. 
+Applications Due: January 7, 2026 
+
+Program: [Los Alamos National Lab Quantum Computing Summer School Fellowship](https://www.lanl.gov/engage/collaboration/internships/summer-schools/quantumschool) 
+Location: Los Alamos, NM 
+Dates: June 8 - August 14, 2026 
+Eligibility: Eligible to work in the US; incoming juniors or seniors preferred. 
+Application Due: January 11, 2026 
+
+Program: [University of Maryland Applied Research Laboratory for Intelligence and Security (RISC)](https://www.arlis.umd.edu/apply-risc2025)  
+Location:  Primarily virtual, with in-person events in College Park, MD during the final week.  
+Dates:  10 weeks, May – August 2026   
+Eligibility: US citizens, graduating in Fall 2025 or later.   
+Applications Due: January 16, 2026 
+
+Program: [NCAR Summer Internships in Parallel Computational Science (SIParCS)](https://www2.cisl.ucar.edu/outreach/internships/how_to_apply)  
+Location: Boulder, CO  
+Dates: May 18 - July 31, 2026  
+Eligibility: Incoming juniors or seniors.  
+Applications Due: January 20, 2026  
+
+Program: [NIST SURF program](https://www.nist.gov/surf)  
+Location: Gaithersburg, MD; Boulder, CO; or remote  
+Dates:  May 27 – August 7, 2026, with alternate dates June 8 – August 21, 2026 and June 8 – August 7, 2026.  
+Eligibility: US citizen or permanent resident.  First-years and graduating seniors are encouraged.  
+Applications Due: January 26, 2026  
+
+Program: [Lawrence Livermore National Lab Data Science Summer Institute](https://data-science.llnl.gov/dssi)  
+Location: Livermore, CA  
+Dates: May 18 - August 7, 2026 or June 22 - September 11, 2026   
+Eligiblity: Enrolled undergraduate.  
+Applications Due: January 30, 2026  
+
+Program: [Lawrence Livermore National Lab Computing Undergraduate Student Intern](https://www.llnl.gov/join-our-team/careers/find-your-job/intern_computing/all/3743990010157316)  
+Location: Livermore, CA  
+Dates:  A subset of May 18 – September 11, 2026  
+Eligibility:  US work eligibility.  
+Applications Due:  January 30, 2026  
+
+Program: [Lawrence Livermore National Lab Computing Undergraduate Early Internship](https://www.llnl.gov/join-our-team/careers/find-your-job/intern_computing/all/3743990010282497)  
+Location: Livermore, CA  
+Dates:  A subset of May 18 – September 11, 2026  
+Eligibility:  Students who are between high school and college. US work eligibility. 
+Applications Due:  January 30, 2026  
+
+Program: [CRA Distributed Research Experiences for Undergraduates (DREU)](https://cra.org/cra-wp/dreu/)  
+Location: Varies  
+Dates: 10 weeks from May – September 2026; students and mentors decide specific dates   
+Eligibility: Undergrads at US institutions.  Most funds are reserved for US citizens and permanent residents.  Priority is given to students from underrepresented groups.  
+Applications Due: January 31, 2026 (general deadline)  
+
+Program: [Los Alamos National Lab Undergraduate Internship - Computational Sciences](https://lanl.jobs/search/jobdetails/undergraduate-and-graduating-hs-senior-internship---computational-sciences/cfd3cb9c-4037-43a9-add7-f799d2824ff1) 
+Location: Los Alamos, NM
+Dates: Summer 2026 
+Eligibility: Eligible to work in the US
+Applications Due: February 13, 2026 
+
+Program: [Purdue Anvil Research Experiences for Undergraduates](https://www.rcac.purdue.edu/anvil/reu)  
+Location: West Lafayette, IN  
+Dates: May 24 - August 8, 2026  
+Eligibility: U.S. Citizen or permanent resident enrolled as an undergrad at a US institution, graduating Fall 2026 or later.   
+Applications Due: February 16, 2026 (rolling, may close sooner) 
+
+Program: [TACC Cyberinfrastructure Research for Social Advancement (NSF REU)](https://www.tacc.utexas.edu/education/undergrads-grads/reu)  
+Location: Austin, TX  
+Dates: May 30 - August 1, 2026  
+Eligibility: Enrolled undergrads, 18+ at the start of the program.  US citizens and permanent residents, with one additional spot for someone who doesn't meet these criteria.    
+Applications Due: April 1, 2026 (rolling acceptances)   
+
+Program: [LBNL/NERSC Computing Sciences Student Program](https://jobs.lbl.gov/jobs/2026-computing-sciences-student-program-7274)  
+Location: Berkeley, CA  
+Dates: 10-12 weeks, varies by project  
+Eligibility: Juniors and seniors enrolled in a US university.  
+Applications Due: Rolling  
+
+Program: [Los Alamos National Lab - Advancing Machine Learning Fellowship](https://www.lanl.gov/engage/collaboration/internships/summer-schools/applied-machine-learning-fellowship) 
+Location: Los Alamos, NM 
+Dates: Summer 2026
+Eligiblity: Eligibile to work in the US; incoming juniors or seniors preferred. 
+Applications Due: Application expected to open December 15, 2025. 
+
+<!-- Program: [Los Alamos National Lab Parallel Computing Summer Research Internship](https://www.lanl.gov/engage/organizations/xcp/parallel-computing-summer-research-internship)  
 Location: Los Alamos, NM  
 Dates: June 2 - August 8, 2025.  
 Eligibility: Rising junior or senior; US citizens.  
-Applications Due: January 15, 2025.  
-
-Program: [Los Alamos National Lab Computational Physics Student Summer Workshop](https://www.lanl.gov/engage/collaboration/internships/summer-schools/computational-physics-student-summer-workshop)  
-Location: Los Alamos, NM  
-Dates: 10 weeks, summer 2025.  
-Eligibility: Rising junior or senior; US citizen.  
 Applications Due: January 15, 2025.  
 
 Program: [Flatiron Institute - Simons Foundation, Center for Computational Neuroscience](https://apply.interfolio.com/159680)  
@@ -48,18 +132,6 @@ Dates: May 27 - August 8, 2025.
 Eligibility: Enrolled undergraduate or graduate.  
 Applications Due: January 17, 2025.  
 
-Program: [Los Alamos National Lab Quantum Computing Summer School Fellowship](https://www.lanl.gov/engage/collaboration/internships/summer-schools/quantumschool)  
-Location: Los Alamos, NM  
-Dates: June 2 – August 8, 2025.  
-Eligibility: US work eligibility.  
-Applications Due: January 19, 2025.  
-
-Program: [NCAR Summer Internships in Parallel Computational Science (SIParCS)](https://www2.cisl.ucar.edu/outreach/internships/how_to_apply)  
-Location: Boulder, CO  
-Dates: May 19 - August 1, 2025.  
-Eligibility: Completed one year of undergraduate work and able to work in the US.  
-Applications Due: January 22, 2025.  
-
 Program: [Unidata Summer Internship](https://www.unidata.ucar.edu/community/internship/#current)  
 Location: Boulder, CO, hybrid, or remote.  
 Dates: May 19 – August 1, 2025.  
@@ -78,24 +150,6 @@ Dates: A 9-week subset of May 5 - August 29, 2025.
 Eligiblity: Enrolled undergraduate.  
 Applications Due: January 31, 2025.  
 
-Program: [Lawrence Livermore National Lab Computing Undergraduate Student Intern](https://www.llnl.gov/join-our-team/careers/find-your-job/internship_computing/summer/3743990005295876)  
-Location: Livermore, CA  
-Dates:  A subset of May 5 – August 29, 2025.  
-Eligibility:  US work eligibility.  
-Applications Due:  January 31, 2025.  
-
-Program: [Lawrence Livermore National Lab Data Science Summer Institute](https://data-science.llnl.gov/dssi)  
-Location: Livermore, CA  
-Dates: May 19 - August 8, 2025 or June 23 - September 12, 2024.   
-Eligiblity: Enrolled undergraduate.  
-Applications Due: January 31, 2025.  
-
-Program: [NIST SURF program](https://www.nist.gov/surf)  
-Location: Gaithersburg, MD; Boulder, CO; or remote  
-Dates:  May 19 – August 1, 2025, with alternate dates June 2 – August 15, 2025 and June 2 – August 1, 2025.  
-Eligibility: US citizen or permanent resident.  First-years are encouraged.  
-Applications Due: January 31, 2025.  
-
 Program: [Carnegie Mellon University Research Experiences for Undergraduates in Software Engineering (REUSE) Program](https://www.cmu.edu/scs/s3d/reuse/index.html)  
 Location: Pittsburgh, PA  
 Dates: May 27 - August 1, 2025.  
@@ -108,12 +162,6 @@ Dates: June 7 - August 7, 2025.
 Eligibility: US citizens or permanent residents who are current 2nd- or 3rd-year undergrads and CS majors.  
 Applications Due: February 2, 2025.  
 
-Program: [University of Maryland Applied Research Laboratory for Intelligence and Security (RISC)](https://www.arlis.umd.edu/apply-risc2025)  
-Location:  Primarily virtual, with in-person events in College Park, MD during the final week.  
-Dates:  10 weeks, May – August 2025.  
-Eligibility: US citizens, sophomores or older.  
-Applications Due: February 3, 2025.  
-
 Program: [Los Alamos National Lab Data Science at Scale](https://www.lanl.gov/engage/collaboration/internships/summer-schools/dss)  
 Location: Los Alamos, NM  
 Dates: 10-12 weeks between May and September 2025.  
@@ -124,7 +172,7 @@ Program: [TACC SCIPE AI in Civil Engineering](https://tacc.utexas.edu/education/
 Location: Austin, TX  
 Dates: June 1 - June 30, 2025.  
 Eligibility: Rising sophomores or older studying at a US institution.  
-Applications Due: February 7, 2025.  //-->
+Applications Due: February 7, 2025.  
 
 Program: [Washington University in St. Louis CSE Research Experience for Undergraduates](https://sites.wustl.edu/csereu/)  
 Location: St. Louis, MO.  
@@ -132,29 +180,11 @@ Dates: May 25 - August 1, 2025.
 Eligibility: Enrolled undergrads, including international students.  
 Applications Due:  February 14, 2025.  
 
-Program: [Los Alamos National Laboratory Computational Sciences Undergraduate Internship](https://lanl.jobs/search/jobdetails/computational-sciences-undergraduate-internship/664a4436-45d2-46e9-aa78-cabedce158f2)  
-Location: Los Alamos, NM  
-Dates: Summer 2025.  
-Eligibility: US citizen.  
-Applications Due: February 14, 2025.  
-
-Program: [Purdue Anvil Research Experiences for Undergraduates](https://www.rcac.purdue.edu/anvil/reu)  
-Location: West Lafayette, IN  
-Dates: May 26 - August 8, 2025.  
-Eligibility: U.S. Citizen or permanent resident enrolled as an undergrad at a US institution.  
-Applications Due: February 15, 2025 (may close sooner).  
-
 Program: [ACCESS Student Training and Engagement Program (STEP)](https://operations.access-ci.org/step)  
 Location: Initial training in Miami, FL; work done both in Urbana-Champaign, IL and virtually  
 Dates: May 12 - May 25 in Miami; June 9-July in Champaign; July-August 1 virtually  
 Eligibility: Undergraduate and graduate students attending US-based institutions.  Priority given to underrepresented populations in STEM.  
 Applications Due: February 15, 2025.  
-
-Program: [CRA Distributed Research Experiences for Undergraduates (DREU)](https://cra.org/cra-wp/dreu/)  
-Location: Varies  
-Dates: May – September 2025, students and mentors decide specific dates   
-Eligibility: Undergrads at US institutions.  Most funds are reserved for US citizens and permanent residents.  Priority is given to students from underrepresented groups.  
-Applications Due: December 1, 2024 (early deadline); February 25, 2025 (general deadline).  
 
 Program: [UW Eau-Claire REU: Advancing high-performance computing opportunities in undergraduate research at UW-Eau Claire to meet challenges of multidisciplinary computational science](https://hpc.uwec.edu/explore-opportunities/nsf-reu/)  
 Location: Eau Claire, WI  
@@ -180,46 +210,10 @@ Dates: May 14 - July 9, 2025.
 Eligibility: US citizen or permanent resident.  
 Applications Due: March 15, 2025, but will accept applications until slots are full.  
 
-Program: [TACC Cyberinfrastructure Research for Social Change (NSF REU)](https://www.tacc.utexas.edu/education/undergrads-grads/reu)  
-Location: Austin, TX  
-Dates: June 2 - August 1, 2025.  
-Eligibility: Enrolled undergrads, 18+ at the start of the program.  US citizens and permanent residents, with one additional spot for someone who doesn't meet these criteria.    
-Applications Due: April 1, 2025 (open January 20, 2025).  
-
-Program: [LBNL/NERSC Computing Sciences Student Program](https://jobs.lbl.gov/jobs/2025-computing-sciences-student-program-6748)  
-Location: Berkeley, CA  
-Dates: 10-12 weeks, varies by project  
-Eligibility: US university enrollment.  
-Applications Due: Rolling  
-
 Program: [NERSC Scientific Networking Summer Student Assistant](https://jobs.lbl.gov/jobs/scientific-networking-summer-student-assistant-6824)  
 Location: Berkeley, CA; Champaign, IL; or remote, depending on project  
 Dates: June 2 – August 22, 2025.  
 Eligibility: US university enrollment.  
-Applications Due: Rolling  
-
-Program: [NVIDIA Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/NVIDIA-2025-Internships--Software-Engineering_JR1986535?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8)  
-Location: Santa Clara, CA or remote  
-Dates: 12 weeks, May – September 2025  
-Eligibility: Enrolled undergrad  
-Applications Due: Rolling  
-
-Program: [NVIDIA Internships: Artificial Intelligence and Deep Learning](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/NVIDIA-2025-Internships--Artificial-Intelligence-and-Deep-Learning_JR1986536?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8)  
-Location: Santa Clara, CA or remote  
-Dates: 12 weeks, May – September 2025  
-Eligibility: Enrolled undergrad  
-Applications Due: Rolling  
-
-Program: [NVIDIA Internships: Deep Learning Computer Architecture](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/NVIDIA-2025-Internships--Deep-Learning-Computer-Architecture_JR1986533?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8)  
-Location: Santa Clara, CA or remote  
-Dates: 12 weeks, May – September 2025  
-Eligibility: Enrolled undergrad  
-Applications Due: Rolling  
-
-Program: [NVIDIA Internships: Computer Architecture](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/NVIDIA-2025-Internships--Computer-Architecture_JR1986532?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8)  
-Location: Santa Clara, CA or remote  
-Dates: 12 weeks, May – September 2025  
-Eligibility: Enrolled undergrad  
 Applications Due: Rolling  
 
 Program: [NERSC Summer Internships](https://www.nersc.gov/research-and-development/internships/)  
@@ -227,3 +221,4 @@ Location: Berkeley, CA
 Dates: Varies by project  
 Eligibility: Rising seniors.  
 Applications Due: Rolling  
+//-->
