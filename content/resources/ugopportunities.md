@@ -84,6 +84,12 @@ Dates: May 24 - August 8, 2026
 Eligibility: U.S. Citizen or permanent resident enrolled as an undergrad at a US institution, graduating Fall 2026 or later.   
 Applications Due: February 16, 2026 (rolling, may close sooner)  
 
+Program: [UIUC Center for Digital Agriculture REU](https://digitalag.illinois.edu/education/reu-program/)  
+Location: Urbana, IL  
+Dates: May - August 2026  
+Eligibility: US citizens or permanent residents enrolled in a degree program.  
+Applications Due: February 16, 2026  
+
 Program: [TACC Cyberinfrastructure Research for Social Advancement (NSF REU)](https://www.tacc.utexas.edu/education/undergrads-grads/reu)  
 Location: Austin, TX  
 Dates: May 30 - August 1, 2026  
@@ -222,4 +228,5 @@ Dates: Varies by project
 Eligibility: Rising seniors.  
 Applications Due: Rolling  
 //-->
+
 
