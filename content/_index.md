@@ -10,7 +10,7 @@ weight: 10
 
 {{< card "Announcements" >}}
 
-### Check out our new blog posts [highlighting chapter members!](https://blog.sighpceducation.acm.org/wp/)
+### Register for our upcoming virtual event on [GenAI in HPC Education](https://sighpceducation.acm.org/events/ai-in-education/)!  
 
 {{< /card >}}
 
