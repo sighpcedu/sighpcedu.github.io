@@ -1,5 +1,5 @@
 ---
-Title: Generative AI (GenAI) in HPC Education and Training
+Title: Generative AI (GenAI) in HPC Education
 EventDate: 2025-12-08
 EventTime: 15:00:00
 TimeZone: Europe/London
@@ -24,4 +24,5 @@ This event is designed for:
 - Anyone involved in developing HPC curricula or support documentation
 
 [Click here to register](https://us02web.zoom.us/meeting/register/2McIsuXeRPKj5xIA8XSabA)
+
 
