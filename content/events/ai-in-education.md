@@ -13,9 +13,9 @@ Generative AI (GenAI) is already changing how we interact with complex systems, 
 
 Join the ACM SIGHPC Education Chapter for this virtual event to discuss practical applications and early lessons from centers already experimenting with these new tools.
 
-This event will feature two presentations from HPC centers that have begun implementing GenAI solutions. Following the presentations, we will host a discussion for participants to share their own experiences, challenges, and ideas for the future.
+This event featured two presentations from HPC centers that have begun implementing GenAI solutions. Following the presentations, we hosted a discussion for participants to share their own experiences, challenges, and ideas for the future.
 
-## Who Should Attend?
+## Audience
 
 This event is designed for:
 - HPC educators and trainers
@@ -23,7 +23,8 @@ This event is designed for:
 - Computational scientists and researchers interested in GenAI applications
 - Anyone involved in developing HPC curricula or support documentation
 
-[Click here to register](https://us02web.zoom.us/meeting/register/2McIsuXeRPKj5xIA8XSabA)
+[YouTube Video](https://youtu.be/kob4pHdUG6c)
+
 
 
 
