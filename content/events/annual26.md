@@ -1,3 +1,4 @@
+---
 Title: SIGHPC Education Annual Meeting 2026
 EventDate: 2026-01-13
 EventTime: 10:00:00
