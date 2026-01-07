@@ -78,6 +78,12 @@ Dates: Summer 2026
 Eligibility: Eligible to work in the US  
 Applications Due: February 13, 2026  
 
+Program: [Summer ACERS Research Experience for Undergraduates at Michigan State](https://icer-acres.msu.edu/)  
+Location: East Lansing, MI  
+Dates: May 18 - July 24, 2026  
+Eligibility: U.S. Citizen or permament resident graduating December 2026 or later, with a GPA of 3.0+ and 2+ semesters of calculus and programming courses  
+Applications Due: February 15, 2026  
+
 Program: [Purdue Anvil Research Experiences for Undergraduates](https://www.rcac.purdue.edu/anvil/reu)  
 Location: West Lafayette, IN  
 Dates: May 24 - August 8, 2026  
@@ -228,5 +234,6 @@ Dates: Varies by project
 Eligibility: Rising seniors.  
 Applications Due: Rolling  
 //-->
+
 
 
