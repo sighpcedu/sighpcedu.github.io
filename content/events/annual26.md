@@ -14,5 +14,5 @@ We will review activities completed in 2025, discuss possible new initiatives, a
 
 [YouTube Video](https://youtu.be/kIPL_BJY_gw)
 
-[Discussion text](/files/chat26.txt)
+[Discussion text](../files/chat26.txt)
 
