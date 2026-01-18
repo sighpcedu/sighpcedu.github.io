@@ -12,5 +12,7 @@ Please join us for the SIGHPC Education annual meeting on January 13 at 10:00 AM
 
 We will review activities completed in 2025, discuss possible new initiatives, and present the scheduled activities for the new year.
 
-[Click here to register](https://us02web.zoom.us/meeting/register/IwcPN5usSRGfGos0MqqCsA)
+[YouTube Video](https://youtu.be/kIPL_BJY_gw)
+
+[Discussion text](../files/chat26.txt)
 
