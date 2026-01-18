@@ -1,0 +1,109 @@
+2026-01-13 10:01:01 From Ludovic Capelli to Everyone:
+	Good morning / afternoon / evening, happy new year all! 🙂
+	Martin Callaghan:🎉
+	
+2026-01-13 10:01:10 From Scott Callaghan to SigHPCEdu (direct message):
+	Could you make me a host too so I can organize breakouts?  Thanks!
+	
+2026-01-13 10:02:08 From SigHPCEdu to Scott Callaghan (direct message):
+	done
+	
+2026-01-13 10:02:58 From Scott Callaghan to SigHPCEdu (direct message):
+	hmm, I don't see a breakout button; do you?
+	
+2026-01-13 10:13:47 From Bryan Johnston to Everyone:
+	What do you wish you understood better or knew more about?
+	
+2026-01-13 10:13:50 From Bryan Johnston to Everyone:
+	What would help people (yourself, or others) be more engaged in the chapter?
+	
+2026-01-13 10:14:21 From Bryan Johnston to Everyone:
+	TOPIC 1:
+	What does education mean in a time of AI?  How has this impacted what you do?
+	
+2026-01-13 10:26:51 From Kevin Colville to Everyone:
+	One idea is to teach debugging early, expecting students will use LLM and get unreliable code.
+	Bryan Johnston:👍
+	
+2026-01-13 10:27:16 From Bryan Johnston to Everyone:
+	@Kevin Colville how do they know it's unreliable code unless they also know how to test and validate?
+	
+2026-01-13 10:27:43 From Kevin Colville to Everyone:
+	Exactly :-)
+	Bryan Johnston:👍
+	
+2026-01-13 10:29:12 From Weronika Filinger to Everyone:
+	I think it is more helping people form the right mindset - to always question and verify everything.
+	Bryan Johnston:✅
+	
+2026-01-13 10:30:17 From Bryan Johnston to Everyone:
+	I find even people I work with (post education phase) who don't appreciate the importance of proper validation and testing so I'd agree this is critical, and debugging comes as a tool to help once validation identifies a problem.
+	
+2026-01-13 10:33:44 From Weronika Filinger to Everyone:
+	Another way around GenAI is to include an element of reflection in a practical coursework e.g. what have you learned? What was the most challenging for you and why? What do you think about X etc.
+	Kevin Colville:👍
+	
+2026-01-13 10:34:25 From Bryan Johnston to Everyone:
+	Replying to "Another way around GenAI is to include an element ...":
+	does this work ?
+	feed the task into genAI and ask it to tell me "what should I have learned" ?
+	
+2026-01-13 10:35:28 From Weronika Filinger to Everyone:
+	Replying to "Another way around GenAI is to include an element ...":
+	That depends on how you frame it.
+	
+2026-01-13 10:36:51 From Bryan Johnston to Everyone:
+	Replying to "Another way around GenAI is to include an element ...":
+	have you / EPCC used this approach ? curious how well it's been working ? I'm always cautious of trusting the responses nowadays 🙃 (goes back to the validation and verification problem 😂)
+	
+2026-01-13 10:41:58 From Will Furnell (they/them) to Everyone:
+	Apologies, another meeting, thank you all
+	Weronika Filinger, Ludovic Capelli:👋🏻
+	
+2026-01-13 10:42:30 From Weronika Filinger to Everyone:
+	Replying to "Another way around GenAI is to include an element ...":
+	I do it to a small degree with my practical coursework - but it is focused more on discssing the perfromance data they collected through the perfromance experiments they designed.  Of course people can still find a way to cheat
+	
+2026-01-13 10:43:17 From Bryan Johnston to Everyone:
+	TOPIC 2:
+	What do you wish you understood better or knew more about?
+	
+2026-01-13 10:43:39 From Bryan Johnston to Everyone:
+	TOPIC 3:
+	What would help people (yourself, or others) be more engaged in the chapter?
+	
+2026-01-13 10:44:42 From Georgia Stuart to Everyone:
+	Related to some comments from the previous discussion: I want to understand how to make self-paced learning more impactful 
+	
+2026-01-13 10:47:06 From Ludovic Capelli to Everyone:
+	Replying to "Related to some comments from the previous discuss...":
+	My take on this: the presence of multi-modal resources is a must. One of the models I always refer to: VARK, which describes 4 archetypes of learners (Visual / Auditory / Read-Write / Kineshetics.
+	
+	The most overlooked typically: the “K” sanding for Kinesthetics -> people who learn by doing -> interactive / quiz people.
+	
+	I really liked a quote I had found one day: the biggest accessibility issue is the absence of multi-modal resources.
+	
+2026-01-13 10:48:43 From Weronika Filinger to Everyone:
+	I think it is important not to assume learners will consume the content in a linear fashion. People tend to go through different (small) modules in an order of their interest - so figuring out how to create a meaningful scaffold for them to circle around is super important.
+	
+2026-01-13 10:49:07 From Ana Sokovic to Everyone:
+	We also see that gap between those with access to serious compute and those without is growing... The chapter could focus on creating more democratized learning pathways, shared educational allocations, or partnerships that give students meaningful hands-on experience
+	
+2026-01-13 10:50:37 From Bryan Johnston to Everyone:
+	not to be too technical … pedagogy is about teaching children, and andragogy is about teaching adults.
+	pedagogy in a general term refers to learns dependant on the teacher whereas andragogy is about self-directed learning, which is usually what self-paced learning is suited for ...
+	
+2026-01-13 10:50:43 From Ludovic Capelli to Everyone:
+	Replying to "Related to some comments from the previous discuss...":
+	Designing learning paths. Single-entry points, multi-entry points where people can join depending on their background?
+	
+2026-01-13 10:53:22 From Bryan Johnston to Everyone:
+	@Ana Sokovic 
+	
+	"We also see that gap between those with access to serious compute and those without is growing... The chapter could focus on creating more democratized learning pathways, shared educational allocations, or partnerships that give students meaningful hands-on experience"
+	
+	this is a major reality for Africa and our communities in general. I've worked really hard on creating localised training resource platforms rather than relying on remote resources (e.g. develop a research HPC cluster to work on that runs on your local machine)
+	
+2026-01-13 10:54:49 From Bryan Johnston to Everyone:
+	I would love more volunteers to be highlighted on the blog!
+	
