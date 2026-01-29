@@ -12,11 +12,11 @@ Dates: Summer 2026
 Eligibility: Eligible to work in the US; 60 course-hours into degree  
 Applications Due: Until filled  
 
-Program: [Los Alamos National Lab Supercomputer Institute](https://www.lanl.gov/engage/collaboration/internships/summer-schools/supercomputer)  
+<!-- Program: [Los Alamos National Lab Supercomputer Institute](https://www.lanl.gov/engage/collaboration/internships/summer-schools/supercomputer)  
 Location: Los Alamos, NM  
 Dates: TBD; probably late May – early August 2026.  
 Eligibility: Eligible to work in the US; incoming juniors or seniors preferred.  
-Applications Due: January 6, 2026  
+Applications Due: January 6, 2026
 
 Program: [LBNL Science Undergraduate Laboratory Internship](https://education.lbl.gov/internships/suli/)  
 Location: Berkeley, CA  
@@ -42,11 +42,17 @@ Dates: May 18 - July 31, 2026
 Eligibility: Incoming juniors or seniors.  
 Applications Due: January 20, 2026  
 
+Program: [Los Alamos National Lab Parallel Computing Summer Research Internship](https://www.lanl.gov/engage/organizations/xcp/parallel-computing-summer-research-internship)  
+Location: Los Alamos, NM  
+Dates: June 1 - August 7, 2026.  
+Eligibility: Rising junior or senior; US citizens.  
+Applications Due: January 25, 2026.  
+
 Program: [NIST SURF program](https://www.nist.gov/surf)  
 Location: Gaithersburg, MD; Boulder, CO; or remote  
 Dates:  May 27 – August 7, 2026, with alternate dates June 8 – August 21, 2026 and June 8 – August 7, 2026.  
 Eligibility: US citizen or permanent resident.  First-years and graduating seniors are encouraged.  
-Applications Due: January 26, 2026  
+Applications Due: January 26, 2026 //--> 
 
 Program: [Lawrence Livermore National Lab Data Science Summer Institute](https://data-science.llnl.gov/dssi)  
 Location: Livermore, CA  
@@ -72,6 +78,12 @@ Dates: 10 weeks from May – September 2026; students and mentors decide specifi
 Eligibility: Undergrads at US institutions.  Most funds are reserved for US citizens and permanent residents.  Priority is given to students from underrepresented groups.  
 Applications Due: January 31, 2026 (general deadline)  
 
+Program: [ACCESS Student Training and Engagement Program (STEP)](https://operations.access-ci.org/step)  
+Location: Initial training in Miami, FL; work done both in Urbana-Champaign, IL and virtually  
+Dates: May 26 - June 5 in Miami; June 9 - July in Champaign; July - August 7 virtually  
+Eligibility: Undergraduate and graduate students attending US-based institutions.  Priority given to underrepresented populations in STEM.  
+Applications Due: extended to February 8, 2026.  
+
 Program: [Los Alamos National Lab Undergraduate Internship - Computational Sciences](https://lanl.jobs/search/jobdetails/undergraduate-and-graduating-hs-senior-internship---computational-sciences/cfd3cb9c-4037-43a9-add7-f799d2824ff1)  
 Location: Los Alamos, NM  
 Dates: Summer 2026  
@@ -82,6 +94,11 @@ Program: [Summer ACERS Research Experience for Undergraduates at Michigan State]
 Location: East Lansing, MI  
 Dates: May 18 - July 24, 2026  
 Eligibility: U.S. Citizen or permament resident graduating December 2026 or later, with a GPA of 3.0+ and 2+ semesters of calculus and programming courses  
+Applications Due: February 15, 2026  
+
+Program: [SUMMER TRAINEES 2026: Quantum Computing at CSC](https://cscfi.recruitee.com/o/summer-trainees-2026-quantum-computing)  
+Location: Espoo, Uusimaa, Finland  
+Dates: May - August 2026, some flexibility in dates  
 Applications Due: February 15, 2026  
 
 Program: [Purdue Anvil Research Experiences for Undergraduates](https://www.rcac.purdue.edu/anvil/reu)  
@@ -114,13 +131,7 @@ Dates: Summer 2026
 Eligiblity: Eligible to work in the US; incoming juniors or seniors preferred.  
 Applications Due: Application expected to open December 15, 2025.  
 
-<!-- Program: [Los Alamos National Lab Parallel Computing Summer Research Internship](https://www.lanl.gov/engage/organizations/xcp/parallel-computing-summer-research-internship)  
-Location: Los Alamos, NM  
-Dates: June 2 - August 8, 2025.  
-Eligibility: Rising junior or senior; US citizens.  
-Applications Due: January 15, 2025.  
-
-Program: [Flatiron Institute - Simons Foundation, Center for Computational Neuroscience](https://apply.interfolio.com/159680)  
+<!-- Program: [Flatiron Institute - Simons Foundation, Center for Computational Neuroscience](https://apply.interfolio.com/159680)  
 Location: New York City, NY  
 Dates: May 27 - August 8, 2025.  
 Eligibility: Enrolled undergraduate or graduate.  
@@ -192,12 +203,6 @@ Dates: May 25 - August 1, 2025.
 Eligibility: Enrolled undergrads, including international students.  
 Applications Due:  February 14, 2025.  
 
-Program: [ACCESS Student Training and Engagement Program (STEP)](https://operations.access-ci.org/step)  
-Location: Initial training in Miami, FL; work done both in Urbana-Champaign, IL and virtually  
-Dates: May 12 - May 25 in Miami; June 9-July in Champaign; July-August 1 virtually  
-Eligibility: Undergraduate and graduate students attending US-based institutions.  Priority given to underrepresented populations in STEM.  
-Applications Due: February 15, 2025.  
-
 Program: [UW Eau-Claire REU: Advancing high-performance computing opportunities in undergraduate research at UW-Eau Claire to meet challenges of multidisciplinary computational science](https://hpc.uwec.edu/explore-opportunities/nsf-reu/)  
 Location: Eau Claire, WI  
 Dates: June 1 - August 2, 2025.  
@@ -234,6 +239,7 @@ Dates: Varies by project
 Eligibility: Rising seniors.  
 Applications Due: Rolling  
 //-->
+
 
 
 
