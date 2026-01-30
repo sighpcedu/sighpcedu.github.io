@@ -36,6 +36,12 @@ Dates:  10 weeks, May – August 2026
 Eligibility: US citizens, graduating in Fall 2025 or later.   
 Applications Due: January 16, 2026  
 
+Program: [Los Alamos National Lab - Advancing Machine Learning Fellowship](https://www.lanl.gov/engage/collaboration/internships/summer-schools/applied-machine-learning-fellowship)  
+Location: Los Alamos, NM  
+Dates: Summer 2026  
+Eligiblity: Eligible to work in the US; incoming juniors or seniors preferred.  
+Applications Due: January 16, 2026.  
+
 Program: [NCAR Summer Internships in Parallel Computational Science (SIParCS)](https://www2.cisl.ucar.edu/outreach/internships/how_to_apply)  
 Location: Boulder, CO  
 Dates: May 18 - July 31, 2026  
@@ -161,6 +167,12 @@ Dates: May 27 - July 31, 2026.
 Eligibility: US citizen or permanent resident, GPA of 3.0+.  Students from institutions with limited research opportunities are especially encouraged to apply.  
 Applications Due: March 7, 2026.  
 
+Program: [Arizona State University SenSIP REU Site: Quantum Machine Learning Algorithm Design and Implementation](https://sensip.engineering.asu.edu/sensip-quantum-dsp-ai-reu/)  
+Location: Tempe, AZ  
+Dates: May 18 - July 10, 2026.  
+Eligibility: US citizen or permanent resident.  
+Applications Due: March 14, 2026, but will accept applications until slots are full.  
+
 Program: [TACC Cyberinfrastructure Research for Social Advancement (NSF REU)](https://www.tacc.utexas.edu/education/undergrads-grads/reu)  
 Location: Austin, TX  
 Dates: May 30 - August 1, 2026  
@@ -173,13 +185,7 @@ Dates: 10-12 weeks, varies by project
 Eligibility: Juniors and seniors enrolled in a US university.  
 Applications Due: Rolling  
 
-Program: [Los Alamos National Lab - Advancing Machine Learning Fellowship](https://www.lanl.gov/engage/collaboration/internships/summer-schools/applied-machine-learning-fellowship)  
-Location: Los Alamos, NM  
-Dates: Summer 2026  
-Eligiblity: Eligible to work in the US; incoming juniors or seniors preferred.  
-Applications Due: Application expected to open December 15, 2025.  
-
-<!-- Program: [Flatiron Institute - Simons Foundation, Center for Computational Neuroscience](https://apply.interfolio.com/159680)  
+Program: [Flatiron Institute - Simons Foundation, Center for Computational Neuroscience](https://apply.interfolio.com/159680)  
 Location: New York City, NY  
 Dates: May 27 - August 8, 2025.  
 Eligibility: Enrolled undergraduate or graduate.  
@@ -233,24 +239,13 @@ Dates: May 26 - August 2, 2025.
 Eligibility: US citizen or permanent resident.  Rising juniors and seniors favored.  
 Priority deadline March 10, 2025; accepted through April 2, 2025.  
 
-Program: [Arizona State University SenSIP REU Site: Quantum Machine Learning Algorithm Design and Implementation](https://sensip.engineering.asu.edu/sensip-quantum-dsp-ai-reu/)  
-Location: Tempe, AZ  
-Dates: May 14 - July 9, 2025.  
-Eligibility: US citizen or permanent resident.  
-Applications Due: March 15, 2025, but will accept applications until slots are full.  
-
-Program: [NERSC Scientific Networking Summer Student Assistant](https://jobs.lbl.gov/jobs/scientific-networking-summer-student-assistant-6824)  
-Location: Berkeley, CA; Champaign, IL; or remote, depending on project  
-Dates: June 2 – August 22, 2025.  
-Eligibility: US university enrollment.  
-Applications Due: Rolling  
-
 Program: [NERSC Summer Internships](https://www.nersc.gov/research-and-development/internships/)  
 Location: Berkeley, CA  
 Dates: Varies by project  
 Eligibility: Rising seniors.  
 Applications Due: Rolling  
 //-->
+
 
 
 
