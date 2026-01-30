@@ -78,6 +78,36 @@ Dates: 10 weeks from May – September 2026; students and mentors decide specifi
 Eligibility: Undergrads at US institutions.  Most funds are reserved for US citizens and permanent residents.  Priority is given to students from underrepresented groups.  
 Applications Due: January 31, 2026 (general deadline)  
 
+Program: [Carnegie Mellon University Research Experiences for Undergraduates in Software Engineering (REUSE) Program](https://www.cmu.edu/scs/s3d/reuse/index.html)  
+Location: Pittsburgh, PA  
+Dates: May 26 - July 31, 2026.  
+Eligibility: Undergrads graduating fall 2026 or later, either attending a U.S. institution (foreign nationals accepted) or a U.S. citizen or permanent resident attending an out-of-U.S. institution.   
+Applications Due: February 1, 2026.  
+
+Program: [Los Alamos National Lab Data Science at Scale](https://www.lanl.gov/engage/collaboration/internships/summer-schools/dss)  
+Location: Los Alamos, NM  
+Dates: 10-12 weeks between May and September 2026; remote possible in unique circumstances.  
+Eligibility: US work eligibility, GPA of 3.2+.  
+Applications Due: February 4, 2026.  
+
+Program: [Scientific Visualization Exploration Software Intern, Flatiron Institute, Scientific Computing Core](https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/Scientific-Visual-Exploration-Software-Intern_R0001996)  
+Location: New York City, NY  
+Dates: June 1 - August 14, 2026.  
+Eligibility: Enrolled undergraduate or graduate.  
+Applications Due: February 6, 2026.  
+
+Program: [Database and Automated Testing Intern, Flatiron Institute, Scientific Computing Core](https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/Database-and-Web-Interface-Intern--for-High-Performance-Computing-and-Machine-Learning-benchmarks-_R0001995)  
+Location: New York City, NY  
+Dates: June 1 - August 14, 2026.  
+Eligibility: Enrolled undergraduate or graduate in computer science, engineering, or related field.    
+Applications Due: February 6, 2026.  
+
+Program: [Unidata Summer Internship](https://www.unidata.ucar.edu/community/internship/#current)  
+Location: Boulder, CO; hybrid possible.  
+Dates: May 18 – July 31, 2026.  
+Eligibility: U.S. citizen or permanent resident; 2nd, 3rd, or 4th year.  
+Applications Due: February 6, 2026.  
+
 Program: [ACCESS Student Training and Engagement Program (STEP)](https://operations.access-ci.org/step)  
 Location: Initial training in Miami, FL; work done both in Urbana-Champaign, IL and virtually  
 Dates: May 26 - June 5 in Miami; June 9 - July in Champaign; July - August 7 virtually  
@@ -89,6 +119,12 @@ Location: Los Alamos, NM
 Dates: Summer 2026  
 Eligibility: Eligible to work in the US  
 Applications Due: February 13, 2026  
+
+Program: [Washington University in St. Louis CSE Research Experience for Undergraduates](https://sites.wustl.edu/csereu/)  
+Location: St. Louis, MO.  
+Dates: May 24 - July 31, 2026.  
+Eligibility: Enrolled undergrads, including international students.  
+Applications Due:  February 13, 2026.  
 
 Program: [Summer ACERS Research Experience for Undergraduates at Michigan State](https://icer-acres.msu.edu/)  
 Location: East Lansing, MI  
@@ -112,6 +148,18 @@ Location: Urbana, IL
 Dates: May - August 2026  
 Eligibility: US citizens or permanent residents enrolled in a degree program.  
 Applications Due: February 16, 2026  
+
+Program: [UW Eau-Claire REU: Advancing high-performance computing opportunities in undergraduate research at UW-Eau Claire to meet challenges of multidisciplinary computational science](https://hpc.uwec.edu/explore-opportunities/nsf-reu/)  
+Location: Eau Claire, WI  
+Dates: June 8 - August 7, 2026.  
+Eligibility: US citizen or permanent resident graduating after August 2026 with a GPA of 2.5+.  
+Applications Due: March 2, 2026.  
+
+Program: [Temple University High Performance Computing (HPC) Tools, Techniques, and Research across the Physical Sciences REU](https://icmshpc.com/nsf/)  
+Location: Philadelphia, PA.  
+Dates: May 27 - July 31, 2026.  
+Eligibility: US citizen or permanent resident, GPA of 3.0+.  Students from institutions with limited research opportunities are especially encouraged to apply.  
+Applications Due: March 7, 2026.  
 
 Program: [TACC Cyberinfrastructure Research for Social Advancement (NSF REU)](https://www.tacc.utexas.edu/education/undergrads-grads/reu)  
 Location: Austin, TX  
@@ -155,12 +203,6 @@ Dates: May 27 - August 8, 2025.
 Eligibility: Enrolled undergraduate or graduate.  
 Applications Due: January 17, 2025.  
 
-Program: [Unidata Summer Internship](https://www.unidata.ucar.edu/community/internship/#current)  
-Location: Boulder, CO, hybrid, or remote.  
-Dates: May 19 – August 1, 2025.  
-Eligibility: Juniors and seniors.  
-Applications Due: January 24, 2025.  
-
 Program: [Lawrence Livermore National Lab HPC Cluster Engineer Academy](https://computing.llnl.gov/hpc-cluster-engineer-academy)  
 Location: Livermore, CA  
 Dates: A 9-week subset of May 5 - August 29, 2025.  
@@ -173,47 +215,17 @@ Dates: A 9-week subset of May 5 - August 29, 2025.
 Eligiblity: Enrolled undergraduate.  
 Applications Due: January 31, 2025.  
 
-Program: [Carnegie Mellon University Research Experiences for Undergraduates in Software Engineering (REUSE) Program](https://www.cmu.edu/scs/s3d/reuse/index.html)  
-Location: Pittsburgh, PA  
-Dates: May 27 - August 1, 2025.  
-Eligibility: Undergrads, but focus on 1st and 2nd-year undergrads.  
-Applications Due: February 1, 2025.  
-
 Program:  [Georgetown REU Site in Computer Science and Public Policy](https://reu.cs.georgetown.edu/)  
 Location:  Washington, DC.  
 Dates: June 7 - August 7, 2025.  
 Eligibility: US citizens or permanent residents who are current 2nd- or 3rd-year undergrads and CS majors.  
 Applications Due: February 2, 2025.  
 
-Program: [Los Alamos National Lab Data Science at Scale](https://www.lanl.gov/engage/collaboration/internships/summer-schools/dss)  
-Location: Los Alamos, NM  
-Dates: 10-12 weeks between May and September 2025.  
-Eligibility: US work eligibility.  
-Applications Due: February 5, 2025.  
-
 Program: [TACC SCIPE AI in Civil Engineering](https://tacc.utexas.edu/education/undergraduates-graduates/scipe/)  
 Location: Austin, TX  
 Dates: June 1 - June 30, 2025.  
 Eligibility: Rising sophomores or older studying at a US institution.  
 Applications Due: February 7, 2025.  
-
-Program: [Washington University in St. Louis CSE Research Experience for Undergraduates](https://sites.wustl.edu/csereu/)  
-Location: St. Louis, MO.  
-Dates: May 25 - August 1, 2025.  
-Eligibility: Enrolled undergrads, including international students.  
-Applications Due:  February 14, 2025.  
-
-Program: [UW Eau-Claire REU: Advancing high-performance computing opportunities in undergraduate research at UW-Eau Claire to meet challenges of multidisciplinary computational science](https://hpc.uwec.edu/explore-opportunities/nsf-reu/)  
-Location: Eau Claire, WI  
-Dates: June 1 - August 2, 2025.  
-Eligibility: US citizen or permanent resident.  
-Applications Due: March 1, 2025.  
-
-Program: [Temple University High Performance Computing (HPC) Tools, Techniques, and Research across the Physical Sciences REU](https://icmshpc.com/reu-2025/)  
-Location: Philadelphia, PA.  
-Dates: May 27 - July 31, 2025.  
-Eligibility: US citizen or permanent resident.  Women, underrepresented minorities, and students from institutions with limited research opportunities are especially encouraged to apply.  
-Applications Due: March 7, 2025.  
 
 Program: [University of Houston Frontiers of Data-Driven Computing REU](http://project.cs.uh.edu/reu)  
 Location: Houston, TX  
@@ -239,6 +251,7 @@ Dates: Varies by project
 Eligibility: Rising seniors.  
 Applications Due: Rolling  
 //-->
+
 
 
 
