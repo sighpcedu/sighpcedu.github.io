@@ -10,7 +10,7 @@ weight: 10
 
 {{< card "Announcements" >}}
 
-### Register for our upcoming virtual event on [GenAI in HPC Education and Training](https://sighpceducation.acm.org/events/ai-in-education/)!  
+### Register for our upcoming virtual event on [The Gutenberg training platform](https://sighpceducation.acm.org/events/gutenberg/)!  
 
 {{< /card >}}
 
