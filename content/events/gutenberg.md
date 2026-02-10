@@ -14,5 +14,6 @@ Gutenberg is an interactive training platform developed by OxRSE for delivering 
 
 We shall present an overview of how Gutenberg works, how it is used by students to learn, how you can use the extensive library of existing training material, how you can create your own training material as well as how you can get running with your own deployment in order to begin organising training events.
 
-[Register here](https://us02web.zoom.us/meeting/register/_ynmNtnWS8yC7bi_A-kyNw)
+[YouTube Video](https://youtu.be/mVzESEfzKN0)
 
+[Discussion text](../events/files/gutten.txt)
