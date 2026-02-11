@@ -1,3 +1,13 @@
+---
+Title: "CFP: Thirteenth SC Workshop on Best Practices for HPC Training and Education (BPHTE26)"
+EventDate: 2026-08-12
+EventTime: 23:59:00
+TimeZone: America/Detroit
+category: event
+# Published date:
+Date: 2026-02-11T08:00:00-06:00
+---
+
 ## Call for Papers
 
 ### Thirteenth SC Workshop on Best Practices for HPC Training and Education (BPHTE26)
