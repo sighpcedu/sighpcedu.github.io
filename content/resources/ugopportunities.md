@@ -1,4 +1,4 @@
-<img width="647" height="51" alt="image" src="https://github.com/user-attachments/assets/39b051c6-5c40-480c-b811-15f77c426c7d" />---
+---
 title: Undergraduate Internship and Research Opportunities
 aliases:
   - "/resources/ugsummerresources/"
@@ -245,6 +245,7 @@ Dates: Varies by project
 Eligibility: Rising seniors.  
 Applications Due: Rolling  
 //-->
+
 
 
 
