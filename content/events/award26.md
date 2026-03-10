@@ -1,6 +1,6 @@
 ---
 Title: Educational Award For Outstanding Contribution to Computational Science Education
-EventDate: 2026-03-15
+EventDate: 2026-03-01
 EventTime: 13:00:00
 TimeZone: America/Detroit
 category: event
@@ -22,3 +22,4 @@ Nominations will be judged based on their record across these categories:
 * The work has been recognized through presentations and publications
 
 Application forms and instructions will be posted in March, 2026.
+
