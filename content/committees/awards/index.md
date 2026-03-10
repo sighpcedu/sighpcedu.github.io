@@ -6,6 +6,10 @@ title: Awards Committee
 
 The awards committee is responsible for coordinating, revewing and selecting the bi-annual SigHPCEdu award to recognize outstanding contributions to computational, data-enabled science, and HPC education and training in all disciplines.  
 
+## 2026 Committee
+
+The 2026 committee is currently being formed.
+
 ## 2024 Committee
 
 2024 committee consists of the following members. 
