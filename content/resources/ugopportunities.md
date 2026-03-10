@@ -1,4 +1,4 @@
----
+<img width="647" height="51" alt="image" src="https://github.com/user-attachments/assets/39b051c6-5c40-480c-b811-15f77c426c7d" />---
 title: Undergraduate Internship and Research Opportunities
 aliases:
   - "/resources/ugsummerresources/"
@@ -58,7 +58,7 @@ Program: [NIST SURF program](https://www.nist.gov/surf)
 Location: Gaithersburg, MD; Boulder, CO; or remote  
 Dates:  May 27 – August 7, 2026, with alternate dates June 8 – August 21, 2026 and June 8 – August 7, 2026.  
 Eligibility: US citizen or permanent resident.  First-years and graduating seniors are encouraged.  
-Applications Due: January 26, 2026 //--> 
+Applications Due: January 26, 2026 
 
 Program: [Lawrence Livermore National Lab Data Science Summer Institute](https://data-science.llnl.gov/dssi)  
 Location: Livermore, CA  
@@ -165,7 +165,7 @@ Program: [Temple University High Performance Computing (HPC) Tools, Techniques, 
 Location: Philadelphia, PA.  
 Dates: May 27 - July 31, 2026.  
 Eligibility: US citizen or permanent resident, GPA of 3.0+.  Students from institutions with limited research opportunities are especially encouraged to apply.  
-Applications Due: March 7, 2026.  
+Applications Due: March 7, 2026. //-->  
 
 Program: [Arizona State University SenSIP REU Site: Quantum Machine Learning Algorithm Design and Implementation](https://sensip.engineering.asu.edu/sensip-quantum-dsp-ai-reu/)  
 Location: Tempe, AZ  
@@ -245,6 +245,7 @@ Dates: Varies by project
 Eligibility: Rising seniors.  
 Applications Due: Rolling  
 //-->
+
 
 
 
