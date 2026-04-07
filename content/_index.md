@@ -10,7 +10,7 @@ weight: 10
 
 {{< card "Announcements" >}}
 
-### Register for our upcoming virtual event on [The Gutenberg training platform](https://sighpceducation.acm.org/events/gutenberg/)!  
+### Nominations are open for the biannual [Education Award](https://sighpceducation.acm.org/events/award26_nominations/)!
 
 {{< /card >}}
 
