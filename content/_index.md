@@ -10,7 +10,7 @@ weight: 10
 
 {{< card "Announcements" >}}
 
-### Nominations are open for the biannual [Education Award](https://sighpceducation.acm.org/events/award26_nominations/)!
+### [Nominations are open for the biannual Education Award](https://sighpceducation.acm.org/events/award26_nominations/)!
 
 {{< /card >}}
 
