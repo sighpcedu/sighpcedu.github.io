@@ -10,7 +10,7 @@ Date: 2026-05-04T08:00:00-0500
 
 Please join us for a webinar/panel discussion on the use of GenAI in instruction and its applications to HPC.  The session will be held on May 12, 2026 at 11:30 AM EDT, 3:30 GMT.
 
-[Join the Webinar](https://youtu.be/mVzESEfzKN0)
+[Join the Webinar](https://osu.zoom.us/j/97641322151?pwd=XGnZlP8hRR6W2M1KLPDTd5oKO2otSS.1)
 
 The panel will provide an overview of several topics related to the use of GenAI in instruction.  Professor Arvind Bansal from Kent State University will discuss his Masters program in Artificial Intelligence and how HPC is integrated into instruction.
 
