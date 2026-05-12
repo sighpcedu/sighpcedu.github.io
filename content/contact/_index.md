@@ -11,17 +11,17 @@ _Want to serve as an officer? See the [Officer Requirements]({{< relref officer-
 
 ### Chair
 
-**_Scott Callaghan_**  
-Computer Scientist  
-Statewide California Earthquake Center  
-scottcal[at]usc.edu  
+**_Nitin Sukhija_**  
+Professor  
+Slippery Rock University  
+nitin.sukhija[at]sru.edu  
 
 ### Vice Chair
 
-**_Weronika Filinger_**  
-Project Manager and Programme Director  
-EPCC  
-w.filinger[at]epcc.ed.ac.uk
+**_Ana Marija Sokovic_**  
+Computational Scientist  
+University of Illinois Chicago  
+sokovic.anamarija[at]gmail.com
 
 ### Secretary Treasurer  
 
@@ -38,10 +38,10 @@ Associate Professor
 Kean University  
 djoiner[at]keen.edu  
 
-**_Ana Marija Sokovic_**  
-Computational Scientist  
-University of Illinois Chicago  
-sokovic.anamarija[at]gmail.com
+**_John Holmen_**  
+HPC Engineer  
+Oak Ridge Leadership Computing Facility  
+holmenjk[at]ornl.gov  
 
 ### European, Asia/Pacific, and African At Large Board Members
 
