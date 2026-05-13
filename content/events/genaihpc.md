@@ -12,7 +12,7 @@ Please join us for a webinar/panel discussion on the use of GenAI in instruction
 
 [YouTube Video](https://youtu.be/SmbQ-DpqeeY)
 
-[Presentation slides](../events/files/genaiwebinar.pdf)
+[Presentation slides](../files/genaiwebinar.pdf)
 
 The panel will provide an overview of several topics related to the use of GenAI in instruction.  Professor Arvind Bansal from Kent State University will discuss his Masters program in Artificial Intelligence and how HPC is integrated into instruction.
 
