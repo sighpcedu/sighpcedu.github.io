@@ -1,6 +1,6 @@
 ---
 Title: Nominations Open - Educational Award For Outstanding Contribution to Computational Science Education
-EventDate: 2026-05-31
+EventDate: 2026-06-15
 EventTime: 1:00:00
 TimeZone: America/Detroit
 category: event
@@ -20,7 +20,7 @@ Nominations will be evaluated based on these criteria:
 
 The recipient will receive a $2000 cash award, and travel support to attend the SC conference.  For individuals with a permanent residence outside of the United States that receive a monetary award, ACM will withhold 30% of the award value for US taxes in compliance with the Internal Revenue Service. Based on the individual's location, they may be able to reclaim the tax withholding amount. ACM and SIGHPC will not provide assistance in reclaiming the withheld taxes. 
 
-Nominations will include a statement endorsing the nominee, and up to three letters of endorsement. Applications are due Sunday, May 31, 2026 AoE. The chapter will choose up to one award winner and up to two honorable mentions. Questions concerning award eligibility and nominations can be directed to award@sighpceducation.acm.org, or scottcal@usc.edu.
+Nominations will include a statement endorsing the nominee, and up to three letters of endorsement. Applications are due Monday, June 15, 2026 AoE. The chapter will choose up to one award winner and up to two honorable mentions. Questions concerning award eligibility and nominations can be directed to award@sighpceducation.acm.org, or scottcal@usc.edu.
 
 Application forms templates are below:
 
