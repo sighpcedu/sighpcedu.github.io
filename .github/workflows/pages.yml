@@ -3,6 +3,8 @@
 name: github pages
 
 on:
+env:
+ACTION_ALLOW_USE_UNSECURE_NODE_VERSION:true
   push:
     branches:
       - main  # Set a branch that will trigger a deployment
