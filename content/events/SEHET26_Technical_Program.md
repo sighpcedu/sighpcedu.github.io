@@ -3,7 +3,7 @@ Title: Ninth Workshop on Strategies for Enhancing HPC Education and Training (SE
 EventDate: 2026-07-27
 EventTime: 13:30:00
 DurationMinutes: 210
-TimeZone: Central Time (CT)
+TimeZone: America/Chicago
 category: event
 # Published date:
 Date: 2026-06-29T00:00:00-04:00
