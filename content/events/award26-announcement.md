@@ -7,7 +7,7 @@ category: event
 ---
 
 
-The award is co-sponsored by the SIGHPC Education Chapter and SIGHPC.CM SIGHPC Education Chapter is pleased to announce that the 2026 recipient of the Educational Award for Outstanding Contribution to Computational Science Education is Henry Neeman. 
+The ACM SIGHPC Education Chapter is pleased to announce that the 2026 recipient of the Educational Award for Outstanding Contribution to Computational Science Education is Henry Neeman. 
 
  
 
